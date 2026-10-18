@@ -1,0 +1,23 @@
+{
+  "irs": {
+    "conf": 12,
+    "yaml": 6,
+    "pol": 1
+  },
+  "others": {
+    "yaml": 563,
+    "conf": 863,
+    "policy": 40,
+    "pol": 56,
+    "schema": 61,
+    "inc": 8,
+    "svc": 18,
+    "net": 31,
+    "gitignore": 3,
+    "py": 4,
+    "ini": 6,
+    "sh": 1,
+    "yamllint": 1,
+    "yml": 2
+  }
+}

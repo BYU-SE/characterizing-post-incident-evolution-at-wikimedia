@@ -1,0 +1,2308 @@
+[
+  {
+    "key": "chang",
+    "ir_count": 9,
+    "ir_percent": 0.2571428571428571,
+    "others_count": 79,
+    "others_percent": 0.079,
+    "diff": 0.1781428571428571
+  },
+  {
+    "key": "make",
+    "ir_count": 6,
+    "ir_percent": 0.17142857142857143,
+    "others_count": 17,
+    "others_percent": 0.017,
+    "diff": 0.15442857142857142
+  },
+  {
+    "key": "tabl",
+    "ir_count": 10,
+    "ir_percent": 0.2857142857142857,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": 0.2737142857142857
+  },
+  {
+    "key": "t205094",
+    "ir_count": 17,
+    "ir_percent": 0.4857142857142857,
+    "others_percent": 0,
+    "diff": 0.4857142857142857
+  },
+  {
+    "key": "bug",
+    "ir_count": 33,
+    "ir_percent": 0.9428571428571428,
+    "others_count": 213,
+    "others_percent": 0.213,
+    "diff": 0.7298571428571429
+  },
+  {
+    "key": "change-id",
+    "ir_count": 35,
+    "ir_percent": 1,
+    "others_count": 578,
+    "others_percent": 0.578,
+    "diff": 0.42200000000000004
+  },
+  {
+    "key": "migrat",
+    "ir_count": 8,
+    "ir_percent": 0.22857142857142856,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": 0.21857142857142856
+  },
+  {
+    "key": "abstract",
+    "ir_count": 11,
+    "ir_percent": 0.3142857142857143,
+    "others_count": 1,
+    "others_percent": 0.001,
+    "diff": 0.3132857142857143
+  },
+  {
+    "key": "schema",
+    "ir_count": 13,
+    "ir_percent": 0.37142857142857144,
+    "others_count": 4,
+    "others_percent": 0.004,
+    "diff": 0.36742857142857144
+  },
+  {
+    "key": "file",
+    "ir_count": 9,
+    "ir_percent": 0.2571428571428571,
+    "others_count": 20,
+    "others_percent": 0.02,
+    "diff": 0.23714285714285713
+  },
+  {
+    "key": "sql",
+    "ir_count": 6,
+    "ir_percent": 0.17142857142857143,
+    "others_count": 2,
+    "others_percent": 0.002,
+    "diff": 0.16942857142857143
+  },
+  {
+    "key": "instead",
+    "ir_count": 7,
+    "ir_percent": 0.2,
+    "others_count": 34,
+    "others_percent": 0.034,
+    "diff": 0.166
+  },
+  {
+    "key": "entiti",
+    "ir_count": 6,
+    "ir_percent": 0.17142857142857143,
+    "others_count": 43,
+    "others_percent": 0.043,
+    "diff": 0.12842857142857145
+  },
+  {
+    "key": "t188381",
+    "ir_count": 6,
+    "ir_percent": 0.17142857142857143,
+    "others_percent": 0,
+    "diff": 0.17142857142857143
+  },
+  {
+    "key": "redirect",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": 0.01757142857142857
+  },
+  {
+    "key": "throw",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": 0.04814285714285714
+  },
+  {
+    "key": "except",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.012
+  },
+  {
+    "key": "node",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "snak",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "label",
+    "ir_percent": 0,
+    "others_count": 19,
+    "others_percent": 0.019,
+    "diff": -0.019
+  },
+  {
+    "key": "refer",
+    "ir_percent": 0,
+    "others_count": 19,
+    "others_percent": 0.019,
+    "diff": -0.019
+  },
+  {
+    "key": "properti",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 40,
+    "others_percent": 0.04,
+    "diff": -0.01142857142857143
+  },
+  {
+    "key": "seem",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "model",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "claim",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.012
+  },
+  {
+    "key": "alreadi",
+    "ir_count": 3,
+    "ir_percent": 0.08571428571428572,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": 0.07371428571428572
+  },
+  {
+    "key": "current",
+    "ir_count": 3,
+    "ir_percent": 0.08571428571428572,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": 0.07371428571428572
+  },
+  {
+    "key": "contain",
+    "ir_percent": 0,
+    "others_count": 15,
+    "others_percent": 0.015,
+    "diff": -0.015
+  },
+  {
+    "key": "two",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 15,
+    "others_percent": 0.015,
+    "diff": 0.013571428571428571
+  },
+  {
+    "key": "gener",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 18,
+    "others_percent": 0.018,
+    "diff": 0.010571428571428572
+  },
+  {
+    "key": "statement",
+    "ir_percent": 0,
+    "others_count": 21,
+    "others_percent": 0.021,
+    "diff": -0.021
+  },
+  {
+    "key": "valu",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 21,
+    "others_percent": 0.021,
+    "diff": 0.007571428571428569
+  },
+  {
+    "key": "case",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 21,
+    "others_percent": 0.021,
+    "diff": 0.03614285714285714
+  },
+  {
+    "key": "not",
+    "ir_count": 5,
+    "ir_percent": 0.14285714285714285,
+    "others_count": 96,
+    "others_percent": 0.096,
+    "diff": 0.04685714285714285
+  },
+  {
+    "key": "localis",
+    "ir_percent": 0,
+    "others_count": 107,
+    "others_percent": 0.107,
+    "diff": -0.107
+  },
+  {
+    "key": "//translatewiki",
+    "ir_percent": 0,
+    "others_count": 107,
+    "others_percent": 0.107,
+    "diff": -0.107
+  },
+  {
+    "key": "net",
+    "ir_percent": 0,
+    "others_count": 107,
+    "others_percent": 0.107,
+    "diff": -0.107
+  },
+  {
+    "key": "http",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 124,
+    "others_percent": 0.124,
+    "diff": -0.06685714285714286
+  },
+  {
+    "key": "updat",
+    "ir_count": 5,
+    "ir_percent": 0.14285714285714285,
+    "others_count": 140,
+    "others_percent": 0.14,
+    "diff": 0.002857142857142836
+  },
+  {
+    "key": "version",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": 0.019571428571428573
+  },
+  {
+    "key": "diff",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "entityid",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": 0.02157142857142857
+  },
+  {
+    "key": "usag",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": 0.01657142857142857
+  },
+  {
+    "key": "deprec",
+    "ir_percent": 0,
+    "others_count": 20,
+    "others_percent": 0.02,
+    "diff": -0.02
+  },
+  {
+    "key": "remov",
+    "ir_count": 4,
+    "ir_percent": 0.11428571428571428,
+    "others_count": 102,
+    "others_percent": 0.102,
+    "diff": 0.012285714285714289
+  },
+  {
+    "key": "wikibas",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 42,
+    "others_percent": 0.042,
+    "diff": 0.015142857142857138
+  },
+  {
+    "key": "move",
+    "ir_count": 3,
+    "ir_percent": 0.08571428571428572,
+    "others_count": 45,
+    "others_percent": 0.045,
+    "diff": 0.04071428571428572
+  },
+  {
+    "key": "handl",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 20,
+    "others_percent": 0.02,
+    "diff": 0.00857142857142857
+  },
+  {
+    "key": "merg",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 406,
+    "others_percent": 0.406,
+    "diff": -0.37742857142857145
+  },
+  {
+    "key": "item",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 31,
+    "others_percent": 0.031,
+    "diff": -0.0024285714285714292
+  },
+  {
+    "key": "save",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.012
+  },
+  {
+    "key": "api",
+    "ir_percent": 0,
+    "others_count": 37,
+    "others_percent": 0.037,
+    "diff": -0.037
+  },
+  {
+    "key": "null",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "return",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 19,
+    "others_percent": 0.019,
+    "diff": 0.038142857142857145
+  },
+  {
+    "key": "type",
+    "ir_count": 3,
+    "ir_percent": 0.08571428571428572,
+    "others_count": 37,
+    "others_percent": 0.037,
+    "diff": 0.04871428571428572
+  },
+  {
+    "key": "fix",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 129,
+    "others_percent": 0.129,
+    "diff": -0.07185714285714287
+  },
+  {
+    "key": "sourc",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": 0.05014285714285714
+  },
+  {
+    "key": "without",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": 0.019571428571428573
+  },
+  {
+    "key": "enabl",
+    "ir_percent": 0,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": -0.013
+  },
+  {
+    "key": "allow",
+    "ir_count": 4,
+    "ir_percent": 0.11428571428571428,
+    "others_count": 15,
+    "others_percent": 0.015,
+    "diff": 0.09928571428571428
+  },
+  {
+    "key": "list",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": 0.02157142857142857
+  },
+  {
+    "key": "paramet",
+    "ir_percent": 0,
+    "others_count": 17,
+    "others_percent": 0.017,
+    "diff": -0.017
+  },
+  {
+    "key": "will",
+    "ir_count": 3,
+    "ir_percent": 0.08571428571428572,
+    "others_count": 34,
+    "others_percent": 0.034,
+    "diff": 0.05171428571428571
+  },
+  {
+    "key": "inject",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": 0.018571428571428572
+  },
+  {
+    "key": "depend",
+    "ir_percent": 0,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": -0.014
+  },
+  {
+    "key": "modul",
+    "ir_percent": 0,
+    "others_count": 20,
+    "others_percent": 0.02,
+    "diff": -0.02
+  },
+  {
+    "key": "extract",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": 0.02157142857142857
+  },
+  {
+    "key": "convert",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "part",
+    "ir_percent": 0,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": -0.014
+  },
+  {
+    "key": "new",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 35,
+    "others_percent": 0.035,
+    "diff": 0.022142857142857138
+  },
+  {
+    "key": "method",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 36,
+    "others_percent": 0.036,
+    "diff": 0.021142857142857144
+  },
+  {
+    "key": "object",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "broken",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "branch",
+    "ir_percent": 0,
+    "others_count": 16,
+    "others_percent": 0.016,
+    "diff": -0.016
+  },
+  {
+    "key": "longer",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "default",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": 0.015571428571428571
+  },
+  {
+    "key": "need",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 34,
+    "others_percent": 0.034,
+    "diff": 0.02314285714285714
+  },
+  {
+    "key": "clean",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "stuff",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "found",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": 0.019571428571428573
+  },
+  {
+    "key": "direct",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "follow",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.012
+  },
+  {
+    "key": "code",
+    "ir_count": 4,
+    "ir_percent": 0.11428571428571428,
+    "others_count": 62,
+    "others_percent": 0.062,
+    "diff": 0.05228571428571428
+  },
+  {
+    "key": "avail",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "toolbar",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "show",
+    "ir_percent": 0,
+    "others_count": 18,
+    "others_percent": 0.018,
+    "diff": -0.018
+  },
+  {
+    "key": "edit",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 24,
+    "others_percent": 0.024,
+    "diff": 0.00457142857142857
+  },
+  {
+    "key": "special",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 24,
+    "others_percent": 0.024,
+    "diff": 0.00457142857142857
+  },
+  {
+    "key": "page",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 26,
+    "others_percent": 0.026,
+    "diff": 0.031142857142857142
+  },
+  {
+    "key": "time",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "set",
+    "ir_count": 3,
+    "ir_percent": 0.08571428571428572,
+    "others_count": 27,
+    "others_percent": 0.027,
+    "diff": 0.05871428571428572
+  },
+  {
+    "key": "error",
+    "ir_percent": 0,
+    "others_count": 33,
+    "others_percent": 0.033,
+    "diff": -0.033
+  },
+  {
+    "key": "rest",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 65,
+    "others_percent": 0.065,
+    "diff": -0.007857142857142861
+  },
+  {
+    "key": "build",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "compos",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "doc",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 17,
+    "others_percent": 0.017,
+    "diff": 0.01157142857142857
+  },
+  {
+    "key": "add",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 112,
+    "others_percent": 0.112,
+    "diff": -0.05485714285714286
+  },
+  {
+    "key": "event",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "displai",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "patch",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 26,
+    "others_percent": 0.026,
+    "diff": 0.031142857142857142
+  },
+  {
+    "key": "messag",
+    "ir_percent": 0,
+    "others_count": 30,
+    "others_percent": 0.03,
+    "diff": -0.03
+  },
+  {
+    "key": "rather",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "css",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "action",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "number",
+    "ir_percent": 0,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": -0.013
+  },
+  {
+    "key": "selenium",
+    "ir_percent": 0,
+    "others_count": 17,
+    "others_percent": 0.017,
+    "diff": -0.017
+  },
+  {
+    "key": "name",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 24,
+    "others_percent": 0.024,
+    "diff": 0.03314285714285714
+  },
+  {
+    "key": "class",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 33,
+    "others_percent": 0.033,
+    "diff": 0.02414285714285714
+  },
+  {
+    "key": "test",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 116,
+    "others_percent": 0.116,
+    "diff": -0.058857142857142865
+  },
+  {
+    "key": "adjust",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "depends-on",
+    "ir_count": 3,
+    "ir_percent": 0.08571428571428572,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": 0.07271428571428572
+  },
+  {
+    "key": "wikimedia",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 15,
+    "others_percent": 0.015,
+    "diff": 0.04214285714285714
+  },
+  {
+    "key": "servic",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 27,
+    "others_percent": 0.027,
+    "diff": 0.0015714285714285708
+  },
+  {
+    "key": "termbox",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "run",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": 0.04314285714285714
+  },
+  {
+    "key": "replac",
+    "ir_percent": 0,
+    "others_count": 29,
+    "others_percent": 0.029,
+    "diff": -0.029
+  },
+  {
+    "key": "look",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "descript",
+    "ir_percent": 0,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": -0.013
+  },
+  {
+    "key": "call",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 30,
+    "others_percent": 0.03,
+    "diff": 0.027142857142857142
+  },
+  {
+    "key": "creat",
+    "ir_percent": 0,
+    "others_count": 24,
+    "others_percent": 0.024,
+    "diff": -0.024
+  },
+  {
+    "key": "refactor",
+    "ir_percent": 0,
+    "others_count": 20,
+    "others_percent": 0.02,
+    "diff": -0.02
+  },
+  {
+    "key": "widget",
+    "ir_percent": 0,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": -0.014
+  },
+  {
+    "key": "alias",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": 0.01457142857142857
+  },
+  {
+    "key": "jqueri",
+    "ir_percent": 0,
+    "others_count": 16,
+    "others_percent": 0.016,
+    "diff": -0.016
+  },
+  {
+    "key": "correctli",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": 0.02057142857142857
+  },
+  {
+    "key": "param",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "document",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": 0.04314285714285714
+  },
+  {
+    "key": "listview",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "templat",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "possibl",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": 0.019571428571428573
+  },
+  {
+    "key": "simplifi",
+    "ir_percent": 0,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": -0.013
+  },
+  {
+    "key": "check",
+    "ir_count": 4,
+    "ir_percent": 0.11428571428571428,
+    "others_count": 30,
+    "others_percent": 0.03,
+    "diff": 0.08428571428571428
+  },
+  {
+    "key": "bridg",
+    "ir_percent": 0,
+    "others_count": 27,
+    "others_percent": 0.027,
+    "diff": -0.027
+  },
+  {
+    "key": "entityview",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "script",
+    "ir_count": 4,
+    "ir_percent": 0.11428571428571428,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": 0.10528571428571429
+  },
+  {
+    "key": "old",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": 0.04714285714285714
+  },
+  {
+    "key": "line",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "view",
+    "ir_percent": 0,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": -0.013
+  },
+  {
+    "key": "mediawiki",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 17,
+    "others_percent": 0.017,
+    "diff": 0.01157142857142857
+  },
+  {
+    "key": "prefix",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "browser",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "core",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": 0.04814285714285714
+  },
+  {
+    "key": "requir",
+    "ir_percent": 0,
+    "others_count": 15,
+    "others_percent": 0.015,
+    "diff": -0.015
+  },
+  {
+    "key": "util",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.02257142857142857
+  },
+  {
+    "key": "later",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "repositori",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "place",
+    "ir_count": 3,
+    "ir_percent": 0.08571428571428572,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": 0.07771428571428571
+  },
+  {
+    "key": "full",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": 0.019571428571428573
+  },
+  {
+    "key": "//gerrit",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "improv",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": 0.04614285714285714
+  },
+  {
+    "key": "configur",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.012
+  },
+  {
+    "key": "link",
+    "ir_percent": 0,
+    "others_count": 22,
+    "others_percent": 0.022,
+    "diff": -0.022
+  },
+  {
+    "key": "realli",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.02257142857142857
+  },
+  {
+    "key": "note",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": 0.01757142857142857
+  },
+  {
+    "key": "site",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": 0.01657142857142857
+  },
+  {
+    "key": "work",
+    "ir_percent": 0,
+    "others_count": 25,
+    "others_percent": 0.025,
+    "diff": -0.025
+  },
+  {
+    "key": "namespac",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 18,
+    "others_percent": 0.018,
+    "diff": 0.039142857142857146
+  },
+  {
+    "key": "unus",
+    "ir_percent": 0,
+    "others_count": 16,
+    "others_percent": 0.016,
+    "diff": -0.016
+  },
+  {
+    "key": "php",
+    "ir_percent": 0,
+    "others_count": 24,
+    "others_percent": 0.024,
+    "diff": -0.024
+  },
+  {
+    "key": "wire",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "mock",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "titl",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "hook",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": 0.05014285714285714
+  },
+  {
+    "key": "handler",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "block",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "renam",
+    "ir_count": 4,
+    "ir_percent": 0.11428571428571428,
+    "others_count": 21,
+    "others_percent": 0.021,
+    "diff": 0.09328571428571428
+  },
+  {
+    "key": "don",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": 0.02157142857142857
+  },
+  {
+    "key": "style",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "element",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "compon",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "input",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "text",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "string",
+    "ir_percent": 0,
+    "others_count": 17,
+    "others_percent": 0.017,
+    "diff": -0.017
+  },
+  {
+    "key": "addit",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "path",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "spec",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "directori",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": 0.05014285714285714
+  },
+  {
+    "key": "copi",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": 0.02057142857142857
+  },
+  {
+    "key": "rule",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "import",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "logic",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": 0.018571428571428572
+  },
+  {
+    "key": "content",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "commit",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": 0.04514285714285714
+  },
+  {
+    "key": "made",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.012
+  },
+  {
+    "key": "data",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 18,
+    "others_percent": 0.018,
+    "diff": 0.039142857142857146
+  },
+  {
+    "key": "term",
+    "ir_count": 4,
+    "ir_percent": 0.11428571428571428,
+    "others_count": 20,
+    "others_percent": 0.02,
+    "diff": 0.09428571428571428
+  },
+  {
+    "key": "implement",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 31,
+    "others_percent": 0.031,
+    "diff": 0.02614285714285714
+  },
+  {
+    "key": "caus",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "json",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": 0.01757142857142857
+  },
+  {
+    "key": "format",
+    "ir_percent": 0,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": -0.014
+  },
+  {
+    "key": "introduc",
+    "ir_percent": 0,
+    "others_count": 20,
+    "others_percent": 0.02,
+    "diff": -0.02
+  },
+  {
+    "key": "valid",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 23,
+    "others_percent": 0.023,
+    "diff": 0.005571428571428571
+  },
+  {
+    "key": "miss",
+    "ir_percent": 0,
+    "others_count": 23,
+    "others_percent": 0.023,
+    "diff": -0.023
+  },
+  {
+    "key": "sitelink",
+    "ir_percent": 0,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": -0.013
+  },
+  {
+    "key": "typo",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "comment",
+    "ir_percent": 0,
+    "others_count": 18,
+    "others_percent": 0.018,
+    "diff": -0.018
+  },
+  {
+    "key": "assert",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "function",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 20,
+    "others_percent": 0.02,
+    "diff": 0.037142857142857144
+  },
+  {
+    "key": "empti",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": 0.019571428571428573
+  },
+  {
+    "key": "break",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "bit",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "problem",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "wrong",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "support",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 19,
+    "others_percent": 0.019,
+    "diff": 0.038142857142857145
+  },
+  {
+    "key": "client",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 23,
+    "others_percent": 0.023,
+    "diff": 0.03414285714285714
+  },
+  {
+    "key": "repo",
+    "ir_count": 3,
+    "ir_percent": 0.08571428571428572,
+    "others_count": 27,
+    "others_percent": 0.027,
+    "diff": 0.05871428571428572
+  },
+  {
+    "key": "better",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": 0.018571428571428572
+  },
+  {
+    "key": "trigger",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.02257142857142857
+  },
+  {
+    "key": "state",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.02257142857142857
+  },
+  {
+    "key": "datavalu",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "extens",
+    "ir_percent": 0,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": -0.013
+  },
+  {
+    "key": "exampl",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": 0.05014285714285714
+  },
+  {
+    "key": "databas",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": 0.05014285714285714
+  },
+  {
+    "key": "anywai",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "instanc",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.012
+  },
+  {
+    "key": "stop",
+    "ir_percent": 0,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": -0.013
+  },
+  {
+    "key": "serial",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.012
+  },
+  {
+    "key": "phpc",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "conflict",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "field",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "option",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "languag",
+    "ir_percent": 0,
+    "others_count": 30,
+    "others_percent": 0.03,
+    "diff": -0.03
+  },
+  {
+    "key": "sure",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.02257142857142857
+  },
+  {
+    "key": "visibl",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "even",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.05114285714285714
+  },
+  {
+    "key": "effect",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "base",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 18,
+    "others_percent": 0.018,
+    "diff": 0.039142857142857146
+  },
+  {
+    "key": "summari",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "feder",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "reason",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "suggest",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "includ",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.012
+  },
+  {
+    "key": "expert",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "specif",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "variabl",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "local",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": 0.015571428571428571
+  },
+  {
+    "key": "avoid",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": 0.04614285714285714
+  },
+  {
+    "key": "pass",
+    "ir_percent": 0,
+    "others_count": 15,
+    "others_percent": 0.015,
+    "diff": -0.015
+  },
+  {
+    "key": "fail",
+    "ir_percent": 0,
+    "others_count": 18,
+    "others_percent": 0.018,
+    "diff": -0.018
+  },
+  {
+    "key": "drop",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "relat",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": 0.01657142857142857
+  },
+  {
+    "key": "javascript",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "parser",
+    "ir_percent": 0,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": -0.013
+  },
+  {
+    "key": "write",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "happen",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "revert",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": 0.02157142857142857
+  },
+  {
+    "key": "intern",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": 0.02057142857142857
+  },
+  {
+    "key": "don't",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 19,
+    "others_percent": 0.019,
+    "diff": 0.009571428571428571
+  },
+  {
+    "key": "mode",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": 0.01757142857142857
+  },
+  {
+    "key": "disabl",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "differ",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 16,
+    "others_percent": 0.016,
+    "diff": 0.01257142857142857
+  },
+  {
+    "key": "try",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": 0.02057142857142857
+  },
+  {
+    "key": "tag",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "cover",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "group",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "cleanup",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 16,
+    "others_percent": 0.016,
+    "diff": 0.01257142857142857
+  },
+  {
+    "key": "setup",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "expect",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "queri",
+    "ir_count": 3,
+    "ir_percent": 0.08571428571428572,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.07971428571428571
+  },
+  {
+    "key": "compat",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "exist",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": 0.04314285714285714
+  },
+  {
+    "key": "output",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "alwai",
+    "ir_percent": 0,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": -0.014
+  },
+  {
+    "key": "track",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "minor",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "consist",
+    "ir_count": 4,
+    "ir_percent": 0.11428571428571428,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": 0.10528571428571429
+  },
+  {
+    "key": "actual",
+    "ir_count": 3,
+    "ir_percent": 0.08571428571428572,
+    "others_count": 16,
+    "others_percent": 0.016,
+    "diff": 0.06971428571428571
+  },
+  {
+    "key": "result",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": 0.01657142857142857
+  },
+  {
+    "key": "revis",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": 0.04814285714285714
+  },
+  {
+    "key": "rid",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "main",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "parseroutput",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "issu",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": 0.018571428571428572
+  },
+  {
+    "key": "split",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": 0.04414285714285714
+  },
+  {
+    "key": "match",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "right",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "store",
+    "ir_count": 3,
+    "ir_percent": 0.08571428571428572,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": 0.07371428571428572
+  },
+  {
+    "key": "datamodel",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "provid",
+    "ir_percent": 0,
+    "others_count": 15,
+    "others_percent": 0.015,
+    "diff": -0.015
+  },
+  {
+    "key": "packag",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "config",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "git",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "var",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "user",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "appli",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "request",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": 0.015571428571428571
+  },
+  {
+    "key": "product",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.02257142857142857
+  },
+  {
+    "key": "probabl",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "order",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "warn",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "interfac",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "load",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": 0.018571428571428572
+  },
+  {
+    "key": "it'",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": 0.01657142857142857
+  },
+  {
+    "key": "via",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "arrai",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": 0.02057142857142857
+  },
+  {
+    "key": "correct",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "search",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "fallback",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": 0.02157142857142857
+  },
+  {
+    "key": "html",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "mean",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "global",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "perform",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "org",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "button",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "read",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": 0.02157142857142857
+  },
+  {
+    "key": "real",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "just",
+    "ir_count": 2,
+    "ir_percent": 0.05714285714285714,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": 0.04514285714285714
+  },
+  {
+    "key": "snakview",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "cach",
+    "ir_count": 3,
+    "ir_percent": 0.08571428571428572,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": 0.07671428571428572
+  },
+  {
+    "key": "duplic",
+    "ir_count": 1,
+    "ir_percent": 0.02857142857142857,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.02257142857142857
+  }
+]

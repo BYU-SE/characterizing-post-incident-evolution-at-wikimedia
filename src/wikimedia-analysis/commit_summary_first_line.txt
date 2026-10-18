@@ -1,0 +1,1431 @@
+[BETA CLUSTER] Disable LocalisationUpdate
+[Beta Cluster] Remove PoolCounter override
+[EventBus] Decrease timeout and use hasty mode for analytics.
+[gitlab/failover] Add check for DNS records update
+[gitlab/failover] Rename host flags
+[Logging] Enable logstash logging for EventBus
+[wdqs] test jvmquake options on the public cluster
+2.5.1-wmf8: bugs fix following incident
+Account for entities from other sources in ContentModelCanBeUsedOn
+actions: add generate action
+Add --canary-wait-time flag
+Add a deployment source & target class for phabricator
+Add a logger to wikibaseDispatchRedisLockManager
+Add a ParserModifyImageHTML hook for PageImages
+Add a test for noexternallanglinks to MagicWordHookHandlersTest
+add additional information on malformed responses
+Add alerting for MediaWiki exceptions and fatals
+Add all portal asset URLs to urls-to-purge.txt
+Add an apt mirror for the confluent-kafka 7.4 release
+Add an integration test for updateQueryServiceLag
+Add an option to disable producing errors to kafka
+Add an option to limit DPL concurrency with pool counter
+add API key for scraping of LibreNMS's API by Icinga
+Add browser test for preview functionality to MediaWiki core
+Add canary setup
+Add changeSkinPref
+Add check_jnx_alarms to check Juniper chassis alarms
+Add comment to note that wikiadmin_pass does not exist
+Add commit action to the Homer class
+Add custom View for displaying errors consistently.
+Add damping on Anycast BGP sessions
+add deployment and perf-roots shell groups to parsoid hosts
+Add diamond collector_module class
+add dumps for flow pages for those wikis which have Flow enabled
+Add ECS build and automated documentation publishing.
+add ECS to doc.wm.o index
+Add email error reporting to CamusPartitionChecker
+Add EmailAuth extension
+Add extension.json merge strategy "provide_default"
+Add extension.json merge strategy "provide_default"
+Add extension.json merge strategy "provide_default"
+add fake certificates and keys for etcd-v3.eqiad and etcd-v3.codfw
+Add fake SSH keypair for user homer
+Add field checking for API responses
+Add filter banning clients without proper user agents
+add graceful-restart to CRs
+Add graceful-switchover to multiple RE devices
+add haproxy ECS filters and tests
+Add icinga alert for anomalous logstash.rate.mediawiki.memcached.ERROR.count
+Add Icinga checks for important sysctl params
+add icinga monitoring for content on commons
+Add includes for IPv6 reverse ranges for new linknets from CRs to SSW
+Add includes for Netbox generated dns for new per-rack codfw subnets
+Add includes for new /24s used in EVPN underlay network codfw
+Add instrumentation
+Add IPv6 address to all kubernetes nodes
+add job that dumps history of flow pages
+Add jobrunner class
+Add jobs for operations/software/ecs
+Add kafka1012.eqiad.wmnet back to the media-wiki config.
+Add kubernetes[12]007-kubernetes[12]014 to BGP
+Add kubernetes[12]01[56]
+Add kubestage200[1-2] , kubernetes200[7-14] MAC entries and to site.pp
+Add later-than option to PageImages InitImageData maitenance script
+Add local service proxy to the tls terminator v0.2
+Add maintenance script for deleting local passwords
+Add metrics-reporter-jmx plugin
+Add metrics-reporter-prometheus plugin
+Add mgmt dns for kubernetes100[7-14]
+Add missing 'use \Status;' to includes/Util.php
+Add missing changes to the deletion script
+Add more granularity to query/time|size buckets
+Add mw1161 and mw1201 as scap proxies for EQIAD row C and D
+Add netboot config for new private vlans in codfw rows A/B
+add new certificate for etcd-v3.eqiad.wmnet
+Add new option, stats_file, to prevent sending passwords over the network/logs
+Add optional externalstore role and use it for Flow
+Add OSPF link-protection to all P2P links
+Add parameters for camus::job to pass to CamusPartitionChecker
+Add ParserFunctions dependency for integration testing
+Add partman recipe for 12 drive Kafka Brokers
+Add policy-statement to CRs which sets next-hop self in iBGP.
+Add PoolCounter settings for DPL
+Add prometheus server for gerrit javamelody monitoring
+Add prometheus's mysql-exporter to all jessie's production codfw dbs
+Add puppet elements for newly added switches.
+Add pybal-low-traffic.svc.codfw.wmnet
+Add pybal-low-traffic.svc.eqiad.wmnet
+Add response definitions to spec for feed endpoints
+Add response schema validation
+Add response time checks to WDQS
+Add rsyslog delivery actions failure alerts
+Add safety limits to refinery-drop-older-than
+Add scb2005 and scb2006
+Add some logging of OATHAuth actions
+Add sql with the empty database structure to the repo
+Add ssl_stapling_proxy patch
+add stapling-multi-file patch
+Add static network defs and DHCP config for new codfw subnets
+Add support for an optional ignored-keys pattern
+Add support for connect_timeout
+Add support for emitter_id in error streams
+Add support for External Store for unit tests
+Add support for float timeouts in socket streams
+Add support for http_status to ProxyFetch
+Add symlink creation
+Add tests for field checking with the new @Require annotation
+Add throttling by user agent
+Add Varnish reqstats diamond collector for upload caches
+Add varnish request stats diamond collector
+Add very basic integration tests for wikibasecirrussearch
+Add wikibaseDispatchRedisLockManager to wmgMonologChannels
+Add WikiPageEntityMetaDataAccessor::loadLatestRevisionIds
+Add WMCS specific cloud role for syslog server
+Added refreshLinks to $wgJobBackoffThrottling
+Adding kubernetes1007=1014 to netboot.cfg and dhcpd file
+Adding new kubernetes nodes to site.pp role insetup
+Adding production dns ipv4 only  kubernetes1007-1014
+admin_state: Depool codfw text
+admins: add all members of wdqs-admins to wdqs-roots
+admins: let wdqs-admins run jstack as root
+admins: let wdqs-admins view nginx logs
+Alert if EventStreams recentchange endpoint has no messages
+alerts: add varnish/nginx HTTP availability
+Align calico resource settings for codfw and eqiad
+Allow different logging configurations.
+Allow mwdeploy user to restart jobchron
+Allow SSL (TLS) and performance_schema on misc servers
+analytics:refinery:job:data_purge: Add --allowed-interval to deletion jobs
+analytics:refinery:job:data_purge: Improve drop-webrequest-sequence-stats
+Anycast: add check_fail
+api: remove http endpoint from pybal
+api: remove monitoring from http endpoint
+api: remove non-https endpoint from backends
+appserver: remove http pool from backends
+appserver: remove unencrypted LVS endpoint
+appserver: send back a proper error page from envoy
+appservers: remove monitoring for http-only
+ArrayUtils: Add coverage for consistentHashSort()
+Assign a hints directory (Cassandra >= 3.0)
+assign labs::nfs::secondary to labstore100[45]
+ATS: Set connect timeout and TTFB timeouts to different values
+ATS: Set connect timeout and TTFB timeouts to different values (test hosts only)
+Attempt to add a query cache to DPL
+authdns: load static plugin, bugfix for dd3b4fd71
+authdns: never restart gdnsd, keep initial install working right
+Avoid deep freezing some parsoidConfig properties
+Avoid passing "false" as keys to MapCacheLRU in RepoGroup
+Avoid Puppet restarting Thumbor instances agressively
+Avoid reading primary unless absolutely necessary
+backup: add /srv/gerrit/data to fileset for gerrit repos
+bacula: Increase max total size of Databases backups to 40 TB
+base: add remote syslog queues
+base: remove obsolete enable_rsyslog_exporter
+base::firewall: use ferm::rule instead of ferm::conf
+Beta Cluster: Use ExternalStore on testwiki
+beta: 'runJobs' to info for logstash
+beta: log bucket 'runJobs' to info
+beta: Move beta-specific VHosts into their own apache config file
+Beta: move from ores.wikimedia.org to ores-beta.wmflabs.org
+beta: Move the only dynamic config from IS-labs to CS-labs
+beta: Remove unused wgConf feature of '+beta' tag
+beta: Set the ratio of the new ParserCache keys to 2
+Block WP Zero users from accessing Phabricator uploads
+Boosted all field
+Build venv into deployed source dir
+Build venv into deployed source dir (take 2)
+Build venv into deployed source dir (take 3)
+Bump cache key for check results
+Bump cert-manager, cfssl-issuer and helm-state metrics resources
+Bump cert-manager, cfssl-issuer and helm-state metrics resources
+Bump etcdmirror package version: 0.0.11
+Bump Flow cache to 4.7
+Bump Flow cache version to 4.7.
+Bump num_workers to 3
+Bump ratio of new parsercache key spec to 12
+Bump ratio of new parsercache key spec to 2
+Bump ratio of new parsercache key spec to 3
+Bump ratio of new parsercache key spec to 4
+Bump ratio of new parsercache key spec to 6
+Bump up memory limits for echostore
+C:trafficserver: Ensure we only instantiate the trafficserver class once
+Cache anti-stampede improvements
+Cache PropertyInfoLookup internally
+cache_upload: return HTTP 403 to requests violating UA policy
+cache: add cadvisor exporter
+cache: add CAP_KILL to varnish-frontend capabilities
+cache: add monitoring of services at the SSL termination level
+cache: add systemd config to profile::cache::base
+cache: enable cgroup accounting
+cache: enable cgroup accounting on two esams nodes
+cache: enable single backend experiment on cp3051
+cache: enable single backend experiment on cp4021
+cache: enable systemd resources accounting on cp4026
+cache: enable systemd resources accounting on cp4027
+cache: exclude single backend experiment from pooled ATS backends
+cache: icinga check for high varnishd_mmap_count
+cache: raise vm.max_map_count sysctl
+cache: refactor dynamic_backend_caches logic
+cache: single backend experiment
+cache: use confd only if backend list is on etcd
+cache::misc: Set up a temporary etherpad host
+calico: Clean up code from calico 2.2.0
+calico: Fix eqiad configuration
+Calico: Increase replicaCount for typha
+camus - Add --check-java-opts and --check-emails-to option
+camus wrapper - Use Spark 2 jars to get Scala and Hadoop dependencies
+CamusPartitionChecker - only send emails if errors are encountered
+cassandra_dev: remove (temp) packages used in debugging
+cassandra-dev: install docker.io package for local testing
+cassandra-dev: install siege for testing
+Cassandra:  dequote some booleans.
+cassandra: bump dev cluster version to 3.11.0-wmf5
+cassandra: Upgrade restbase-ng env to Cassandra 3.11.0-wmf5
+Catch and gracefully handle when service is not responding properly to ApiHooksHandler
+celery: use SyslogIdentifier
+Change binlog format for parsercaches to STATEMENT
+Change file timestamp to an int, from a string
+Change memcached icinga alert from anomaly to threshold
+Change Prop: Increase heap limit to 750 MB
+Change Prop: Tell RESTBase not to respond with redirects
+Change-Prop: Limit the number of concurrent tasks
+changeprop-jobqueue: reduce concurrency of video transcoding
+charts: upgrade to mesh 1.1
+Check for l10n cache before sync-wikiversions
+check_mariadb: Disable for now checks that are not read-only
+check_private_data: ignore comments on private.dblist
+check: Fix typo causing x1 section to be unrecognized
+cirrus: Drop client side connect timeout config
+Clean up ApiDiscussionToolsPageInfo hack
+Clean up outdated commentary on requestctl
+Clean up phabricator roles in puppet to remove tag pinning.
+Cleanup localuser records when wiki is missing data
+cli: Make /etc/wmfbackups the config dir for the main backup scripts
+cli: rename action compile to generate
+CLI: suppress ncclient noisy logger
+Cloud VPS: enable rsyslog subject name validation in eqiad1
+cloud: introduce network tests
+cloud: networktests: add missing ROUTING_SOURCE_IP envvar
+cloud: networktests: fix some testcases
+cloud: networktests: rework some of the raw icmp checks
+cloud: networktests: runner: use expanded_cmd
+cloud: networktests: ssh: use -q
+cloud: networktests: use -q
+cloudstore: remove dependency on bind mounts
+cloudvirt1019 - Fix network config
+cloudvirt1019: reimage with Jessie
+cloudvirt1019: reimage with Stretch
+cloudvirt1019/1020 - Reimage with Stretch
+cloudvirt1020: Network config
+cloudvps: refresh FQDN A record for tools.db.svc.eqiad.wmflabs
+CloudVPS: use wikimediacloud.org domain for Neutron-related IP addresses
+CommonSettings: Factor out variant config generation into MWConfigCacheGenerator
+Config changes for LoginNotify
+config: inject role and site to the configuration
+configmaster: Cleanup disc_desired_state
+configmaster: Remove disc_desired_state.py
+Configuration: load and merge private config
+Configure forensic logging of Apache requests; enable on beta
+Configure labsdb1008 for the first time
+conftool-data: Document which servers are only pooled as jobrunner/videoscaler
+conftool: add comments about 2 dedicated videoscalers
+conftool: remove http pools for mediawiki
+Consolidate 'critical' and 'contact groups' logic
+contint: tidy Nodepool slaves config history
+contint: tidy Nodepool slaves config history
+Convert KafkaRDD usage to kafka-python
+Cookbook for switchover of Gitlab to a new host
+Correct invalid cron definition; add gtid to backups
+cp4045: enable single_backend mode
+Create a Cassandra 3.7 configuration
+Create infrastructure for smarter log traces
+Create selenium-daily-beta-MediaWiki Jenkins job
+CXServer: Set up automatic monitoring
+data-persistence: alert on elevated sessions store error rate (5xx)
+DatabaseUpdate: warn extensions about direct modification
+dataset: Remove needless quotes around a 'true'
+db-eqiad.php: Increase weight for some hosts
+db-eqiad.php: Restore original weight for s5 hosts
+db-eqiad.php: Start repooling all the hosts
+db-master.cfg: Enable haproxy health-check logging
+db-replicas.cfg: Enable healthcheck logging
+db1070: New master in s5
+db1075: Change binlog format to STATEMENT
+db1078: Change binlog format to ROW
+db1099: Disable notifications
+db1138: Disable notifications
+db1138: Enable notifications
+db1154: Enable notifications
+db1155: Enable notifications
+db1156,db1161,db1196,db1212: Disable notifications
+dbbackups: Add enabled parameter backups on the cluster::management role
+dbbackups: Create new puppet module dbbackups, move backup check to it
+dbbackups: Further reorganize backup location to optimize for total latency
+dbbackups: Increase es dumps retention from 8 days to 10 days
+dbbackups: Limit concurrency of es backups on codfw, too
+dbbackups: Migrate remote backup (snapshot) cmd line to 0.7 format
+dbbackups: Move database backups-related puppet code to its own profile/role
+dbbackups: Move files and templates to dbbackups hierarchy
+dbbackups: Reduce External store retention now that bacula is used long term
+dbbackups: Switch s3 and x1 backup generation as an optimization
+dbbackups: Update password locations for database-backups db
+dblists: Remove 'labtestwiki' dblist containing 'labtestwiki'
+dbproxy: Change failover retries
+dbproxy: Reduce the amount of logging
+dbtools: Add master_finder.py
+dbtools: check_tables.sh
+dbtools: point zarcillo database scripts to use db2093
+dbtools: Update wikiuser username
+default_mail_relay: add VO retry config to production host MTAs
+default-network-policy: allow restbase HTTPS port
+Delay API requests for preloading metadata until user interaction
+delete expired certs etcd.eqiad.wmnet.crt and etcd.codfw.wmnet.crt
+Deploy EmailAuth to beta cluster
+Deploy homer
+deploy master: recurse submodules on clone
+Deploy VarnishReqstats diamond collector on remaining cache hosts
+Deploy varnishreqstats on all text caches
+deployment_server: Add `helm list` pagination to mwscript-cleanup
+deployment_server: Add release to mwscript-k8s -ojson output
+deployment_server: Read Helm secrets in `mwscript-cleanup`
+deployment: backup /srv to bacula
+Depool eqiad at DNS level to faciliate iBGP reconfig on CRs
+Depool eqiad for row D recabling
+Depool eqsin
+depool eqsin for network maintenance
+Depool eqsin for router replacement
+Depool esams for network maintenance
+Depool ulsfo for network maintenance
+Depool ulsfo for network maintenance
+Depool ulsfo for network maintenance
+Depool ulsfo to allow for safe reconfig of CR routers there
+Dequote one more nrpe critical setting
+Designate:  page if services go down.
+Detach accounts during global rename
+devices: add logging
+devices: add query capability
+devices: allow to expose arbitrary metadata
+Diamond:  Turn off lint check for quoted bools.
+Differentiate MediaWiki-internal codes from BCP 47 codes
+diffscan: add defeat-rst-ratelimit
+Disable alerting on cloudvirt1019 and 1020
+Disable api-request eventgate logging for group0 wikis
+Disable DPL on opt-in wikis where not in use
+Disable DPL on Wikibooks where not in use
+Disable DPL on Wikinews where not in use
+Disable DPL on Wikiquotes where not in use
+Disable DPL on Wikisources where not in use
+Disable DPL on Wikiversities where not in use
+Disable LocalisationUpdate, part I
+Disable LocalisationUpdate, part II
+Disable LocalisationUpdate, part III
+Disable operations-apache-config-lint
+Disable quoted_boolean lint check around is_virtual refs.
+Disable RESTBase restarts by Puppet on config change
+Disable Telemetry on eqsin switches
+Display both stdout and stderr output to the user
+DNS: Add mgmt and production DNS for kubestage200[1-2], kubernetes200[7-14]
+Do not update the globals cache file while opcache needs regeneration
+doc: add configuration example in documentation
+doc: add link to Homer documentation
+Document page property names
+Document rationale or primary use case for many indexes
+Don't depool pooledDownServers in refreshPreexistingServer
+Don't load entire feed just to output the link to it
+Don't load entire feed just to output the link to it
+Don't make a fallback chain if it might not be needed
+Don't save to ParserCache if not parsing for current user
+Don't start Jolokia each time, let Updater start it
+DonΓÇÖt query WikiPageEntityMetaDataAccessor with empty list
+DonΓÇÖt send huge requests to metadata accessor
+DPL PoolCounter setting: Fix class name
+Drain eqiad-drmrs GTT link
+Dump Flow data
+dumps: add labstore1006 back for dumps serving to cloud
+dumps: point cloud vps hosts at labstore1006
+dynamicproxy: Fix health check endpoint location
+dynamicproxy: Override nginx worker_connections default
+echostore: bring codfw hosts up to date
+echostore: bump container version to v1.0.10
+elastic: remove backend failure check
+elasticsearch - check shards via the service, not via each individual node
+elasticsearch - enable garbage collection logs on relforge servers
+elasticsearch - enable GC logs by default
+elasticsearch: add cluster hosts to hiera
+elasticsearch: disallow puppet to restart
+elasticsearch: only wait 5 minutes for all nodes in case of cold restart
+Enable check email reporting for camus jobs
+Enable diamond reqstats collector for all mobile varnishes
+Enable eventgate-analytics api-request logging for group0 wikis
+Enable External Store everywhere on Beta Cluster
+Enable loginOnly mode for local auth provider on beta
+Enable loginOnly mode for local auth provider on group 0
+Enable loginOnly mode for local auth provider on group 1
+Enable loginOnly mode for local auth provider on group 2
+Enable new ParserCache key schema on every page
+Enable ORES on test2wiki
+Enable smater logging for wdqs
+Enable varnishreqstats on all misc and mobile hosts
+Enabling performance schema experimentally on db1018
+Enabling performance schema experimentally on db1022
+Ensure that depool threshold is being honored on new/updated configs
+Ensure that embedded Maps and Sets are properly deep-frozen.
+Ensure that ToC is converted into the proper target language
+Ensure we do not provide null data to insert in ES
+envoy: split base profile out of tlsproxy
+envoyproxy::tls_terminator: allow returning an HTML error page
+etcd: add alert for high traffic volumes
+etcd::tlsproxy: set use_cergen to true
+etcdmirror: reconfigure with full-keyspace replication
+etcdmirror::instance: absent all resources
+etherpad-restore: Use etherpad1001b
+eval.php: write error messages to stderr
+eventgaate-analytics - Enable rdkafka statsd metrics
+eventgate-analytics - Add statsd prometheus mappings for node-rdkafka-statsd metrics
+eventgate-analytics - adjustments to statsd exporter matches
+eventgate-analytics - Fix liveness and readiness probes
+eventgate-analytics - remove confusing '_histogram' suffix from summary quantiles
+eventgate-analytics - set broker.address.family: v4 to workaround k8s IPv6 issue
+eventgate-analytics Fix misplaced '_histogram' metric suffix
+eventgate-analytics: bump replicas from 20 to 30
+eventstreams: add admins contact to eventstreams check
+exim: aggressively retry messages to alert.victorops.com addresses
+ext.cx.translation.storage: increase debounce delay to 3s
+Extensive CI tests, part I
+Extensive CI tests, part II
+Extract two utility functions
+Fail commons db servers back to its original configuration
+ferm rules for elasticsearch
+filerepo: clean up shared cache keys to avoid key metrics clutter
+firewall: change to default reject instead of drop
+Fix addWiki.php for moved sql files in Wikibase
+Fix cache_upload timeouts in single-backend sites
+fix check_mailman_queue monitoring
+Fix comment about EventStreams active/active mode
+Fix createExtensionTables.php for moved sql files in Wikibase
+Fix dry-run mode for gitlab failover cookbook
+Fix EmailAuth beta cluster enabling hack
+Fix empty condition list in metadata lookup
+Fix incomplete cloning of the Parser::$extCite instance
+Fix kartotherian server error handling
+Fix labtestwiki database name servers
+Fix maintenance script failure when run as a child of a FastCGI worker
+Fix maxRevisionIds handling in CachingResultsBuilder
+Fix missing x-amples for swagger definition
+Fix outdated documentation
+Fix outdated documentation
+Fix RevisionStorage->update
+Fix sink-handling
+Fix type in check_eventstreams script
+Fix typo for kubernetes2007 to kubernetes2014
+Fix typo in the config name
+Fix wdqs deployment - now wdqs is a symlink
+Fixed --maxtime handling by JobRunner
+Fixes incorrect arg name
+Follow-up I863367b8, Ic9db0829: These two commits conflicted
+For $wgUserMergeProtectedGroups use merge strategy "provide_default"
+Fully depool ParserCache section if load of the primary is zero
+Gerrit role:  dequote booleans
+gerrit: add /srv/gerrit/data/lfs to dirs managed by puppet
+gerrit: make the lfs data path configurable
+gerrit: remove duplicate $gerrit_site definition
+gerrit: remove lfs_dir parameter, use hardcoded new default
+Gerrit: Set plugin.javamelody.prometheusBearerToken
+gerrit: use ecs-compatible apache access log format
+gerrit: use localhost exim as smtp server
+gitlab: add backup type failover
+gitlab: add backup type failover to script output
+gitlab: enable restore for replicas, disable on active_host
+gitlab: production host needs additional flag for restore
+GlobalSign G2 intermediate, signed by R3
+Grafana:  dequote booleans.
+grafana: enforce minimum 30s dashboard refresh
+graphite: backup 'daily' hierarchy, with weekly frequency, every Monday
+graphite: uwsgi workers: set timeouts + max RSS
+graphite::alerts: add alert on mediawiki account creation failures
+gridengine: Do not have puppet autostart the master
+gridengine: Ensure that service gridengine-exec is running
+Half the transclusion update concurrecy
+Handle HTTP status 302 and 303 as well as 301
+Handle redirects correctly in loadLatestRevisionIds
+helmfile.d: increase Typha's replicas for ml-serve clusters
+hiera: cloudvirt1009: fix interface name
+hiera: Increase varnish max_connections to ats-be on eqsin|ulsfo
+hiera: merge: hash for profile::cache::varnish::frontend::cache_be_opts
+hiera: tlsproxy: use new etcd-v3 certificate
+hieradata: bump kafka-logging default partitions
+hieradata: disable etcd replication on conf2005
+hieradata: disable onhost memcached socket on appservers
+hieradata: enable remote syslog queues in codfw
+hieradata: enable rsyslog kafka queues in ulsfo
+hieradata: enable rsyslog queues for kafka in codfw
+hieradata: enable rsyslog queues for kafka in esams/eqsin/eqiad
+hieradata: enable rsyslog queues in esams/eqiad
+hieradata: enable rsyslog queues in ulsfo/eqsin
+hieradata: make etcd in eqiad read-only
+hieradata: reenable etcd replication on conf2005
+hieradata: return etcd in eqiad to read-write
+hieradata: set kafka-logging default to 6 partitions
+hieradata: use /monitoring/frontend for Swift's internal svc health checks
+Homer YAML additions for new row A/B switches in Codfw
+homer->deploy-homer on deploy server
+Homer, add make package for scap deploy
+Homer, remove rsync
+Homer, use deploy-homer user for deploy + fix files perms
+Homer: add bash wrapper to make it easy to run it
+homer: add missing dependency virtualenv
+Homer: add Netbox config
+homer: cleanup absented resource
+Homer: set SSH_AUTH_SOCK
+Homer: setup private repo
+Homer: specify username to connect to devices
+Hooks::onApiCheckCanExecute: Account for entities from other sources
+HTTP availability alerts: Decrease retries to 1
+httpd: enable httpd to emit ECS-compliant logs
+hue: change smtp_host to localhost
+Icinga alert for LibreNMS critical alerts
+Icinga, assign bfd check to routers
+Icinga: add check_bfd check (part 1)
+Icinga: add check_bfd check (part 1)
+Icinga: Add OSPF check to routers
+icinga: Add scoring-team for alerts of ores-extension
+icinga: create a wmcs contact group for some aggressive alerting
+icinga: make commons content check critical (paging)
+Identify lead images using a new parser hook instead of during LinksUpdate
+idp: Open up orchestrator to cumin host
+idp: Open up orchestrator to cumin host, take II
+idp: Open up orchestrator to cumin host, take III
+iegreview: change smtp_host to localhost
+Ignore args when getting backtraces for logging.
+Improve CX draft saving logic
+Improve logic and quality of life for remote backups
+Improve support for mirroring the full keyspace
+Improve tests to cover more language code corner cases
+Improve the checking procedure and emit better messages; v0.1.4
+Improve TinyIntType
+Include hhvm fatals and exceptions in scap canary checks
+Include preg_last_error() in error message when preg_* fails
+Increase loglevel for ores from INFO to WARNING
+Increase priority of Sysctl::Parameters['big rmem']
+Increase retries to 10 to avoid small bumps to alert
+Increase typha replicas in ml-serve and dse
+Initial draft of devices configuration parsing
+Initial draft of the CLI
+Initial structure of the project
+Initial support for Netbox integration
+Install the scap package from deb instead of trebuchet
+Install varnish reqstats diamond collector on just cp1052 for testing
+install_server: Reimage db1063
+install: Switch kubernetes/kubestage2XXX to stretch
+install: Switch kubernetes2014 to stretch
+Instrument language variant conversions
+Integration parser test for ParserFunctions
+Integration test to hit cloned Cite bug
+interface:  dequote booleans
+InterwikiSortingHookHandlers check all InterwikiSorting settings
+Introduce etherpad100b.eqiad.wmnet
+Introduce kubernetes[12]01[56]
+Introduce kubernetes[12]01[56]
+ipmi_exporter: add managed config file
+ipmi: add configuration for ipmiseld
+jenkins: stop purging nodepool agents config history
+jjb: Provide operations-mw-config-php72-composer-diffConfig-docker
+jobchron on trusty did not log at the proper place
+jobqueue: Add job_type to PSR logging context
+jobrunner: fix rsyslog for jobchron service
+jobrunner: refactor rsyslog conf and let wikidev read log
+k8s: Make controller-manager & scheduler be HA
+KafkaHandler: allow customizing timeouts
+Kill Dwimmerlaik
+Kill long running queries with stricter conditions
+kubectl: upgrade /usr/bin/kubectl to 1.15.5
+Kubernetes default policy: Add Kafka IPv6 addresses
+kubernetes: Add more nodes to the 2 clusters
+kubernetes2007-2014: Move to role kubernetes::worker
+kubestage2*: Assign role
+labs nfs scratch and dumps to soft mode
+labs: Add monitoring for high iowait on labstore instances
+labs: Alert on high load in labstore*
+Labs: make disk space alerts for compute nodes paging
+Labs: manage resolv.conf in labs also
+labs: Move *.labsdb aliases into DNS
+Labs: move set-stripe-cache to cron
+Labs: set_strip_cache for labstores
+Labs: Shinken alert for beta error rate
+labstore secondary role cleanup and remove 00[12] specifics
+labstore: Configure labstore-lvm-raid partman recipe for labstore2001
+labstore: drbd framework for software based HA
+labstore: fix the failover process
+labstore: misc don't shadow remounts default
+labstore: notes for nfs-manage
+labstore: notes in nfs-manage for failover
+labstore100[4|5]: define initial labstore::drbd::resource
+labtestpuppet: puppet::servers
+labvirt partman: Move labvirt1019-1022 to the standard labvirt partman recipe
+layout: [mediawiki-operations] Provide a non-voting config diff job
+Lazy instantiation of Cite
+ldapauth: support LDAP account locking via blocks
+librenms API scrape alert: make critical & change name
+Limit active DB connections spawned in waitForAll() to one
+Limit Electron memory usage to 2G
+Limit EventStreams per X-Client-IP connections
+LocalFileMoveBatch lock improvements
+Locate content for revisions with null ES data
+LockManager: distinguish conflicts from other kinds of lock errors
+Log headers in MultiHttpClient
+Log warnings on on preg_* failures in MagicWordArray::matchAndRemove()
+LogEventsListGetExtraInputs: Keep $input and add $formDescriptor
+Logging: log entries pertaining to the Math extension
+logstash,hiera: add logstash performance tunables and tune batch size
+Logstash:  Fixed a quoted boolean in a code comment.
+logstash: add ecs migration config for sampled webrequest logs
+logstash: add ECS transition support for Oslo structured logs
+logstash: add explicit IDs to plugins
+logstash: add grafana-server ECS filters and tests
+logstash: add id to drop action in filter-throttle-errors
+logstash: add k8s statsd-exporter ECS filters and tests
+logstash: add mmkubernetes ECS early-stage filter
+logstash: add nodejs ecs migration config and tests
+logstash: add openstack ECS transition config and tests
+logstash: add php7.2-fpm to mediawiki error,exception processing
+logstash: add pybal ECS filter and tests
+logstash: add tag on json parsing log field
+logstash: add thanos-query ECS filters and tests
+logstash: add ulogd ecs filter + tests
+logstash: align number of shards with number of ES indexing hosts
+logstash: bump pipeline workers
+logstash: complete restbase transition to ECS
+logstash: duplicate MediaWiki error and exception logs to ECS test
+logstash: enable curator to accept custom age filters
+logstash: extract index label from logEvent indexing errors
+logstash: forward nova-fullstack logs to logstash
+logstash: grok field name out of error.message
+logstash: mediawiki_ecs copy http_method into place
+logstash: move mediawiki ecs logs into mediawiki partition
+logstash: remove grafana log cloning
+logstash: remove haproxy log cloning
+logstash: remove k8s stats-exporter cloning
+logstash: remove node log cloning
+logstash: remove pybal log cloning
+logstash: remove thanos log cloning
+logstash: rename logEvent exception into error.message
+logstash: replace ECS allow list with filter_on_templates
+logstash: restore program field to node logs
+logstash: route aqs and restbase logs to default ecs indexes
+logstash: Temporarily disable EventBus channel
+logstash: throttle duplicate normalized_message with level:ERR*
+logstash: transition aqs logs to ECS
+logstash: transition openstack to ECS
+logstash: truncate labels.normalized_message
+Lower client cache TTL to 15 minutes
+Lower client cache TTL to 15 minutes
+Lower the basic job runner parallelism
+Lower thresholds for Thumbor per-IP throttling
+lvs: Set depool_threshold to .66 for upload & text
+mailman I/O monitoring: adjust Read Requests/Sec
+mailman: adjust monitoring thresholds
+maintain_dbusers: add the new database VM
+Maintenance script to delete the local passwords of central accounts
+maintenance: Remove sql.php temporarily
+maintenance::wikidata: Update cron with lb and lb-pool params
+Make $sqlPath in dropExtensionTable optional
+Make configuration of envoy a ConfigMap
+Make EncryptedPassword work with Argon2Password
+Make EncryptedPassword work with Argon2Password
+Make EncryptedPassword work with Argon2Password
+Make EncryptedPassword work with Argon2Password
+Make EncryptedPassword work with Argon2Password
+Make HooksTest actually work, fix and add one test
+Make host check_disk alerts optionally critical
+Make HtmlPageLinkRendererBeginHookHandler do not build LFC unless needed
+Make Kafka event parser understand dates with microseconds
+Make maintenance scripts fail on unknown parameters
+Make parsoid roots actually root on the parsoid boxes
+Make PurgeChangedFiles actually purge old versions too
+Make throttling more aggressive
+Make timeout handling more robust
+Make transport username configurable
+Make wikibase-entityid catch EntityIdParsingExceptions
+make-all-blobs: Password from MW (i.e. ultimately PrivateSettings.php)
+make-wmf-branch: branch special_extensions
+Manage scap proxy rsync config in puppet
+maps/cassandra - ensure that system_auth keyspace is replicated
+mariadb-backups: Adjust check parameters to get less false positives
+mariadb-backups: Allow zarcillo as a valid backup section
+mariadb-backups: Change bacula backup frequency of dbprov to weekly
+mariadb-backups: Change bacula backup frequency of dbprov to weekly
+mariadb-backups: Check backups size also based on previous runs
+mariadb-backups: Disable monitoring screens on database backup hosts
+mariadb-backups: Fix missing check on no ERROR msgs on logs
+mariadb-backups: Fix remote_backup_mariadb.py deps and path
+mariadb-backups: Increase snapshot frequency and retain those on bacula
+mariadb-backups: Make sure mydumper and xtrabackup are installed
+mariadb-backups: Move all backup config templates to its own subdir
+mariadb-backups: Move OK alert description to wikitech
+mariadb-backups: Move transferpy deployment to debian package
+mariadb-backups: Move x1 and misc logical dumps to dbprov1003
+mariadb-backups: Move x1 backups from dbprov[12]001 to dbprov[12]002
+mariadb-backups: Reenable notifications for dbprov2003 after maintenance
+mariadb-backups: Skip Saturday snapshot to prevent a retention of 4 copies
+mariadb-backups: Start using the package instead of the script on puppet
+mariadb-backups: Stop replication for s3 when snapshotting
+mariadb-backups: switch monitoring of tendril/zarcillo backups to codfw
+mariadb-backups: Tune backup size monitoring thresholds
+mariadb-backups: Update backup logic to check errors on log
+mariadb-backups: Update code to wmfbackup HEAD to fix stalling issue
+mariadb-backups: Update transfer.py to HEAD
+mariadb-backups: Update transfer.py to HEAD
+mariadb-backups: Use new stats-file option, preventing password logging
+mariadb-backups: Use the wmfbackups-remote package and not the puppet version
+mariadb-check: Allow duplicate definitions on /etc/my.cnf
+mariadb-check: Get password from key clientlabsdb and not labsdb
+mariadb-sanitarium: Remove duplicate log-slave-updates on config
+mariadb: Add main_tables.txt, collection of main mediawiki tables
+mariadb: Add read_only monitoring to other misc dbs: tendril, phab, event
+mariadb: Default monitor disk & process paging to false
+mariadb: Default pt-heartbeat to STATEMENT-based replication
+mariadb: Depool fully all delayed servers
+mariadb: Disable pc1013 notifications
+mariadb: Disable snapshots being sent to bacula
+mariadb: Enable read_only check to page on primary masters
+mariadb: enable read_only monitoring in parsercaches
+mariadb: Enable read_only monitoring on core mariadb hosts
+mariadb: Enable read_only monitoring on misc hosts
+mariadb: enable replication check on Parsercache hosts
+mariadb: Failover db1063 to db1070
+mariadb: Fix production grants
+mariadb: Force as read only dbstore_multiinstance and sanitarium_m.i.
+mariadb: Force nagios as the user if check is not running as root
+mariadb: Introduce a read_only check for multiinstance hosts
+mariadb: Make wikireplicas obey the current mariadb read_only config
+mariadb: Move pc1015 configuration to master of pc3 section
+mariadb: Pool only the servers with working replication
+mariadb: promote db1059 to be the new m3 master
+mariadb: Promote db1081 to s4 master
+mariadb: Promote db1123 to s3 master
+mariadb: Promote db1160 to s4 master
+mariadb: Repoint dbproxy1003 after reimage
+mariadb: Set important db host monitoring to critical.
+mariadb: Set read_only monitoring for core_test hosts
+mariadb: Stop using puppet to deploy wmfbackups and use debian packages
+mariadb: Switchover dbproxy1008 from db1043 to db1059
+mariadb: Switchover zarcillo from db1115 to db2093
+mariadb: Update db1128 and db1164 status
+Mark required (@NonNull) Gson POJO fields @Required
+Mark salt grain bool values with # lint:ignore:quoted_booleans
+mask file should be in /etc directory
+Mask jobchron and jobrunner in non-active DC
+Match class assignment to file for labstore::fileserver::secondary
+mediawiki: Add test to verify redirects.conf has been regenerated from redirects.dat
+mediawiki: stop installing the nginx proxy on the canaries
+mediawiki: stop installing the nginx-based proxy
+mediawiki::tlsproxy::yaml_defs: add error page to envoy
+mediawiki::web::beta_sites: convert to using mediawiki::web::vhost
+Merge commit '8c250cf' into debian/jessie-wikimedia
+Merge db-codfw.php and db-eqiad.php into db-production.php
+mesh.configuration: add support for custom error pages
+Migrate entity_usage table in client to abstract schema
+Migrate rest of wikis to Envoy
+Migrate the new term store to abstract schema
+Migrate wb_changes table to abstract schema
+Migrate wb_changes_dispatch to abstract schema
+Migrate wb_changes_subscription to abstract schema
+Migrate wb_id_counters to abstract schema
+Migrate wb_items_per_site to abstract schema
+Migrate wb_property_info to abstract schema
+mobileapps: Increase CPU limits
+Mocha test for fetching old revision content
+Modifying globbing for partman recipie for rpki VMs
+Monitor only healthchecks from current prod
+monitor_readonly.pp: Add a more specific page for this alert
+monitoring: add logstash 5xx dashboard to availability alerts
+monitoring: Check mgmt SSH availability as well
+monitoring: fix HTTP availability dashboard links
+monitoring: page on low HTTP global availability
+monitoring: remove usages of 'dba' contact group
+monitoring: tweak description for paging alerts
+monitoring::host: Rename the mgmt hash key
+mount templates directory for logstash-filter-verifier
+Move /srv/phab/repos to /srv/repos refs T125853
+Move all eqiad VRRP mastership to cr2
+Move away from db-eqiad.php
+Move away from db-eqiad.php
+Move changes_* files out of sql archives
+Move dbSetup=true; follow-up d920237
+Move language conversion work into lib/parse.js
+Move redlink updating into lib/parse.js
+Move Termbox to ProductionServices, use envoy
+Move updater logs config to /etc/wdqs
+Move VariantSettings back to InitialiseSettings now that the migration is done
+Move wgULSLanguageDetection to the 'must not' section of CommonSettings
+mr: allow icmp from prometheus_group
+multiversion: Make buildDBLists.php both create and delete dblist files
+mw_rc_irc: add check_prometheus alert on no messages being relayed
+mw_rc_irc: add metrics endpoint to udpmxircecho
+mw-content-history-reconcile-enrich: Bump taskmanager memory
+mw-page-content-change-enrich - bump to 1.27.0, and set codfw replicas to 12
+mw-page-content-change-enrich - bump to v1.29.0 to pick up retry logic change
+mw-page-content-change-enrich - set replicas: 2 for eqiad and codfw
+mw-page-content-enrich: version bump.
+MWConfigCacheGenerator: Remove unused 'docRoot' wgConf placeholder variable
+MWExceptionHandler: Do not use 'exception' for custom log data
+mx: use https when connecting to the mw api
+mysql_legacy: reorder CORE_SECTIONS constant
+mysql/upgrade.py: Allow buffer pool dumps
+NEL alert is empirically high-signal & should page SRE
+netbox: allow to select the devices from Netbox
+Netbox: expose additional metadata
+netbox: split generic and device-specific data
+netmon: add blackbox-exporter for mgmt probes
+netops: add DNS probes alerts
+netops: add PingUnreachable alert
+netops: monitor all asw/msw/psw as well
+netops: move network routers/devices definitions to hiera
+netops: ping core routers from Prometheus
+netops: prometheus::hosts: also probe ipv6 if available
+new k8s: Fix ingress object and enable toolsbeta ingress creation
+NewFilesPager: Apply STRAIGHT_JOIN to all code paths
+nfs-exportd: get essential openstack information from yaml files
+nfs-exportd: if auth errors happen, do not proceed
+noc: Refresh conf symlinks following 3373247e123b538
+Nova scheduler changes:
+nova-network:  Refresh service if config files change.
+nova: try to reduce the number of db connections
+nrpe: $critical is a boolean, NOT a string! ≡ƒÿñ
+nutcracker: default verbosity to 4
+objectcache: Add support for sister keys in SqlBagOStuff
+objectcache: Automatically fallback to the second db in line
+objectcache: make WANObjectCache::set() handle very slow regeneration
+Only filter statuses after collecting metadata
+Only generate QS maxlag for pooled servers
+Only increment clientConnectionMetric if it is set
+Only log serialized size-limited events.
+Only preload getPageData if there's thread data for the page
+oozie: change smtp_host to localhost
+openstack: adapt nova_fullstack_test to emit ECS-compatibile logs
+openstack: alert on down/unreachable nova-compute early
+openstack: cast record.msg to string in the formatter
+openstack: fix overlapping descriptions for nova-compute check
+openstack: introduce FQDN for cloudinstances2b-gw in codfw1dev
+openstack: make nova compute kvm monitoring optional
+openstack: monitor kvm processes on labvirts
+openstack: monitor: cmd-checklist-runner: exit with a different return code
+openstack: networktests: add systemd timer job to run the test suite
+openstack: networktests: correct some problems
+openstack: networktests: fix timer job interval specification
+openstack: networktests: fix toolforge.org IP address
+openstack: networktests: introduce in eqiad1
+openstack: networktests: replace curl silent argument
+openstack: networktests: run as dedicated user
+openstack: networktests: update eqiad1 bastion
+openstack: neutron-openvswitch-agent: prevent puppet from restarting the service
+openstack: nova active kvm check to alert multiple groups
+Optimize PrefetchingWPEMDA::loadLatestRevisionIds
+Optimize WikiPageEntityMetaDataLookup::loadLatestRevisionIds
+orchestrator: Fix Apache settings
+orchestrator: Use macros in apache config
+ores: Add logstash config
+ores: Add twemproxy support
+ores: Change logstash port from GELF to json lines
+ores: enhance ORES monitoring pt.2
+ores: set nginx timeout fail time 60s
+ores: Split cache and queue redis
+ores: Stop using aof for redis persistance
+ores: Use nutcracker for redis
+osm: Add a cloud-internal address for the osmdb cluster
+osmdb: refactor the password framework to not use the module
+osmdb: stage the roles and profiles for virtualizing the servers
+osmdb: Switch the replica to the VM that needs to become the master
+osmdb: Switch the replica to the VM that needs to become the master
+otrs: add check_procs for clamd/freshclam
+P:cache::varnish::frontend::text: make esitest ensurable and absent on cloud
+P:etcd::tlsproxy: add documentation and fix minor lint issues
+P:openstack: nova: add script to run console commands
+P:openstack::codfw1dev::db: support TLS
+P:rsyslog: ship puppetmaster logs to kafka
+P:toolforge:redis_sentinel: set redis timeout
+Package charts that support the new resource limits
+PageArchive: Pass correct overrides to newRevisionFromArchiveRow()
+Parallelize scap but preserve serial restarts.
+ParserCache: Allow for gradual roll out of the new key scheme
+ParserCache: Get rid of the temporary key schema ratio config
+ParserCache: Set connect and recieve timeouts
+ParsoidHandler: test wt2html with old revision
+Partman: Add kubestsge200[1-2] kubernetes200[7-14]
+partman: Reference bacula recipe (unused to prevent accidental formatting)
+Pass '' instead of false for the $conds parameter in select calls.
+password: Document wmgPasswordSecretKey
+patch: Fix reject clauses in the absence of approvals
+Perform m1 backups from the master, as there is no slave available
+Phab: Explain to not-yet-approved users how they can access tasks
+phabricator: Block IP ranges for recent uploaded offtopic files
+phabricator: remove cron to restart httpd
+Phabricator: restart apache every sunday night
+phabricator: set smtp-host to localhost
+phabricator: use ecs-compatible apache access log format
+Point CirrusSearch alerting at more useful metrics
+Point m3-master to dbproxy1008
+poolcounter: add connect_timeout in codfw
+poolcounter: enable connect_timeout for testwiki
+Prevent Parsoid from getting constipated on large lists
+Prevent SiteStats::loadAndLazyInit from reloading in $wgMiserMode
+Prevent virtualenv from being silly
+ProductionServices: switch eventgate-main to use envoy
+ProductionServices: switch search to use envoy instead of nginx
+ProductionServices: use envoy to connect to mathoid
+ProductionServices: use local http proxy for parsoid, parsoidphp
+ProductionServices: use the local proxy for sessionstore
+ProductionServices:switch eventgate-analytics to use envoy
+profile: absent smokeping
+profile: add dot_expander filter script
+profile: add ecs pre and post filters to pipeline
+profile: add etcd tlsproxy certificate monitoring
+profile: add gerrit log duplication and ecs mutations
+profile: add logstash ecs 1.7.0-1 template
+profile: add mmutf8fix to kafka output actions
+profile: add normalize_level filter script
+profile: add prometheus job for udpmxircecho
+profile: add queues to rsyslog kafka output
+profile: add scap log duplication and ecs mutations
+profile: deploy filter_scripts directory to logstash 7 collectors
+profile: drop ECS messages on legacy cluster
+profile: ecs indices to use a weekly rotation
+profile: look up rsyslog queue_size in scope
+profile: make a logstash templates directory and relocate existing templates
+profile: onboard icinga logging to common logging schema
+profile: only set default partition if unset
+profile: remove rollout flag for rsyslog queues
+profile: remove type field for all ecs-formatted events
+profile: swap gerrit log stream to be ecs-only
+profile: turn off scap duplication
+profile: update netdev rsyslog template to ecs 1.7.0
+profile: update netdev to output ECS-formatted logs
+profile::analytics::refinery::job::data_purge: avoid saturday
+profile::base: fix hiera key name for tls_client_auth
+profile::eventstreams: add X-Client-IP to the health check
+profile::kafka::broker: raise default max open files to 128k
+profile::mediawiki::jobrunner: allow reaching the local endpoint
+profile::openstack::codfw1dev::db: install wmf-mariadb104
+profile::openstack::codfw1dev::db: update ref to wmf-mariadb104
+profile::services_proxy: envoy-based version
+prometheus uptime alert: fix query
+prometheus: 10M max-samples for all instances
+prometheus: Add a default rsyslog destination for all sites
+prometheus: add blackbox configuration for prometheus::ops
+prometheus: add cadvisor jobs
+prometheus: add cadvisor_exporter module and profile
+prometheus: add initial blackbox dns probes for wikipedia
+prometheus: add kafka logging consumer lag alerts
+prometheus: Add label to prometheus3002 data blocks to prevent data duplication
+prometheus: Add label to prometheus4002 data blocks to prevent data duplication
+prometheus: Add label to prometheus5002 data blocks to prevent data duplication
+prometheus: Add label to prometheus6001 data blocks to prevent data duplication
+prometheus: Add label to prometheus6002 data blocks to prevent data duplication
+prometheus: Add support for syncing data between Prometheus hosts
+prometheus: add support to blackbox icmp probe hosts
+prometheus: Add UID/GID mappings support for promethus data sync
+prometheus: additional blackbox checks
+prometheus: aggregate puppet failure percent by cluster
+prometheus: alert on per-site HTTP availability
+prometheus: Apply prometheus::pop role to prometheus3002
+prometheus: Apply prometheus::pop role to prometheus4002
+prometheus: Apply prometheus::pop role to prometheus5002
+prometheus: Apply prometheus::pop role to prometheus6002
+prometheus: blackbox icmp probes for hosts
+prometheus: bump logstash rate of ingestion threshold
+prometheus: calculate nginx/varnish availability over 2m too
+prometheus: collect Gerrit internal metrics
+prometheus: collect varnishd_mmap_count for varnish-frontend
+prometheus: Failover DNS from prometheus3001 to prometheus3002 in esams
+prometheus: Failover DNS from prometheus4001 to prometheus4002 in ulsfo
+prometheus: Failover DNS from prometheus5001 to prometheus5002 in eqsin
+prometheus: Failover DNS from prometheus6001 to prometheus6002 in drmrs
+prometheus: fix varnishd_mmap_count pid extraction
+prometheus: limit gerrit polling to codfw/eqiad
+prometheus: one-shot alert on restarts
+prometheus: ping access switches and FR firewalls
+prometheus: probe a sample of hosts in mgmt network
+prometheus: probe DNS for (www).wikipedia.org
+prometheus: Show transfer progress when migrating data
+prometheus: split puppet failed runs metrics
+prometheus: start collecting mediawiki aggregated stats
+prometheus: Synchronize only the /srv/prometheus directory when migrating data
+prometheus: temp disable mgmt checks until hiera export script is fixed
+prometheus: use blackbox-exporter package from Debian
+prometheus::ipmi_exporter: update config to use inbuilt sudo option
+Promote db1040 to be the new s4 master
+Publish minimal metrics about throttling filter.
+Puppet provider for scap3
+puppet-lint: enable quoted_booleans-check
+puppetmaster: enable logstash reports
+pybal: add support for advertised instrumentation
+pybal: configure advertised_instrumentation_ips
+pybal: configure failover i13n IPs
+pybal: Consider forcely pooled hosts on check_pybal_ipvs_diff
+pybal: install monitoring
+pybal: quick bugfix for advertised instrumentation
+R:varnish:instance: Add general public cloud rate limiting
+Raise an error if wrong tags are used in a query.
+Randomize the JobRunner slave lags checks a bit
+Rate limit thresholds failures to once per (minute x model x wiki)
+ratelimits: double the default anon limit
+rdbms: avoid duplicate spammy logging in LoadBalancer::getRandomNonLagged
+rdbms: Avoid lazy loading $loadMonitor in LoadBalancer
+rdbms: Document not adding varying ids to SQL comments
+rdbms: improve caching and state convergence in LoadMonitor
+rdbms: in Database::selectSQLText, do not treat $conds = "0" as no condition
+rdbms: In LoadMonitor, use a loop of getWithSetCallback
+rdbms: Rework LoadMonitor
+rdbms: Stop calling LBFactory::setAgentName from MW wiring
+rdf_streaming_updater: add emitter_id to side outputs
+rdf-spark-tools: bump to version 0.3.120
+rdf-streaming-updater: bump image version to flink-1.16.1-rdf-0.3.133
+rdf-streaming-updater: do not produce side outputs to kafka
+rdf-streaming-updater: set allowNonRestoredState
+Re-enable ContentTranslation
+Re-enable eventgate-analytics api-request logging for group0 wikis
+Re-enable multi-DC mode on testwiki, test2wiki and mediawiki.org
+Re-enable varnishkafka delivery error alerts
+Re-instate "Add some logging of OATHAuth actions"
+Rearrange PrefetchingWPEMDA::loadLatestRevisionIds
+redis: Have redis machines overcommit if persistance is enabled
+Reduce Kafka timeouts
+Reduce size of frwiki featuredfeeds to default
+Refactor check_mariadb_backups.py and add enough tests for it
+Refactor python util.py into smaller files
+refactor: split up the huge file
+refactor: split up the huge file
+Refuse to install nova-compute on broken kernels
+Register all command line options
+Release 1.15.12
+Release 1.15.13
+Release 8.0.5-1wm12
+Release etcd-mirror 0.0.11
+Release v0.1.0
+release: remove "gentle mode" from deployment
+remote syslog: allow hiera config of rsyslog TLS CA
+remote_backup: Instead of using a preassigned port, autoselect one
+Remove alwaysSort from InterwikiSortingHookHandlers
+Remove beta cluster customizations for ORES
+Remove bogus $wgWMEPhp7SamplingRate setting
+Remove cleanupSkinPrefs
+Remove confd_experiment_fqdn support
+Remove configured HTTP proxy
+Remove configured HTTP proxy
+Remove default VipsOptions, they're at best, broken
+Remove dependency on wgConf from wmf-config/InitialiseSettings-labs.php
+Remove duplicate code in SqlUsageTrackerSchemaUpdater
+Remove DynamicPageList from all Wikimania wikis except 2016
+Remove git::install for phabricator/tools
+Remove instances of env.conf.parsoid.apiURI
+Remove network_host setting.
+Remove new-train-version logic
+Remove nonstop-bridging from switches
+Remove obsolete $wgParserCacheNewKeySchemaRatio
+Remove on-demand update of img_sha1
+Remove operations-apache-config-lint
+Remove passwordreset capture feature
+Remove redirect handling code
+Remove revision range
+remove stapling_proxy patch
+Remove transitional virtualenv copy
+Remove unused scripts
+Remove varnishkafka delivery errors check
+Remove Wikidata build from make-wmf-branch script
+Remove Wikidata extension
+Removing routing policy iBGP_nh_self as it is no longer used.
+Rename AddNormalizedTermsTablesDDL to term_store
+Rename changes_* schema files
+Rename changes_dispatch to wb_changes_dispatch
+Reorganize client schema scripts
+Reorganize repo schema scripts
+Replace now unused native cloning feature
+resolvconf: don't update resolv.conf with 0 nameservers
+resourceloader: Deduplicate module registration conflicts
+restbase: check http connections
+restbase: remove references to the non-https LVS
+restore: Add s8 instance to db1095
+Restrict HTTP availability alerts to Varnish/Nginx text/upload
+Revert "Accept BCP 47 codes as aliases for nonstandard variants"
+Revert "Add PoolCounter settings for DPL"
+Revert "Add wikikube-ctrl1003 to server SRV record for etcd 4"
+Revert "cache: enable single backend experiment on cp3051"
+Revert "cache: enable single backend experiment on cp4021"
+Revert "cache::misc: Set up a temporary etherpad host"
+Revert "contint: tidy Nodepool slaves config history"
+Revert "Convert proton to the new layout"
+Revert "cp1008: disable do_ocsp_int while experimenting with nginx packages"
+Revert "Depolling eqsin due to router issue"
+Revert "Depool eqsin"
+Revert "disable ocsp updater cron for now"
+Revert "Ensure LanguageCode::bcp47() returns a valid BCP 47 language code"
+Revert "gerrit: Disable jgit gc"
+Revert "GlobalSign G2 intermediate, signed by R3"
+Revert "group1 wikis to 1.32.0-wmf.14"
+Revert "group1 wikis to 1.32.0-wmf.14"
+Revert "maintenance: Remove sql.php temporarily"
+Revert "maintenance::wikidata: Update cron with lb and lb-pool params"
+Revert "mariadb: set replication check's contact_group to admins"
+Revert "Pedantic strict equals."
+Revert "phabricator: Block IP ranges for recent uploaded offtopic files"
+Revert "resourceloader: Raise severity of targets violation to WARNING"
+Revert "Revert "Add PoolCounter settings for DPL""
+Revert "Revert "GlobalSign G2 intermediate, signed by R3""
+Revert "Revert "wbterms: Set default for the term store to read new""
+Revert "SDC: Enable both new-style and old-style Wikibase federation on Commons"
+Revert "Set up etherpad-restore.wikimedia.org"
+Revert "Temp remove codfw from wikidata updateQueryServiceLag check"
+Revert "tlsproxy: experimental support for internal ocsp"
+Revert "trafficserver: Cache-ban pages with localhost links from page content service"
+Revert "URGENT: Disable GlobalUsage"
+Revert "whitelist broken advertisements from Jio AS55836"
+Revert "zuul: skip test/test-prio for CR+2 changes"
+Revert "zuul: skip test/test-prio for CR+2 changes"
+Revert DPL poolcounter setting
+Revert s/en/de/ for LVS monitoring; switch ProxyFetch to TLS
+Revert throwing exceptions on preg_* failures
+role: add ssh blackbox probes for bastions
+role: alert on statsd inbound udp errors
+role: collect blackbox_exporter metrics in Prometheus global
+role: use port 22 for ssh probing
+role: use scalar() to check statsd udp loss
+role::druid::analytics|public::worker: set stricter query timeouts
+role::druid::public::worker: increase connection pool on historicals
+role::kafka::main: raise Kafka Java Xmx/Xms
+role::mediawiki::common: install envoy as a forward proxy everywhere.
+Rollback wikidatawiki to .12
+Root out a long chain of quoted bools in nagios/icinga/nrpe
+Rsync:  Unquote booleans
+rsyslog: add ecs_170 template
+rsyslog: allow specifying a hiera-defined certfile
+rsyslog: allow specifying TLS client auth settings and filename property
+rsyslog: allow subject name validation
+rsyslog: enable ecs_170 template and transition prometheus
+rsyslog: use named actions for central syslog hosts
+rsyslog::receiver: fix cert_file when used with acme certs
+s5.hosts: db1070 is now the master
+safe-service-restart: only verify pooled services
+safe-service-restart: proper error handling with poolcounter
+safe-service-restart: use failover i13n
+scap: add configuration for phabricator
+scap: add configuration for phabricator
+scap: add dsh group for homer
+scap: Remove restart configuration
+Scap: restart services only in active dc
+scap/checks.yaml: Combine two installation step checks into one
+Scap3: deploy jobrunner with scap3
+Scap3: deploy jobrunner with scap3
+Scap3: Deploy to groups of 5 servers
+script used for non-replicated dbstore backups
+search-platform: monitor/alert on elastic request failures
+secret: add openstack networktests sshkeys placeholders
+selenium, update page spec to include more chars
+Selenium: configuration file for beta cluster
+Selenium: Daily Jenkins job targeting beta cluster should run only tests that pass
+Send queries to "vslow" database group
+Send secondary DNS recursor IP from labs DHCP
+Send SIGKILL to kill a timed out worker
+sentry: change EMAIL_HOST to localhost
+service: Disable monitors for wikireplicas
+service::catalog: lower the depool threshold for api
+service::configuration: connect to restbase via TLS
+services_proxy::envoy: specify preferred ciphers
+services: add TLS encrypted endpoint for ores (1/2)
+services: add TLS encrypted endpoint for ores (2/2)
+services: remove restbase http LVS endpoint
+services: retire the ORES http endpoint (1/2)
+services: retire the ORES http endpoint (2/2)
+services: use TLS to connect to ORES
+sessionstore: (intentionally) make native transport unreachable
+sessionstore: assign values to net.ipv4.conf.all.arp_{ignore,announce}
+sessionstore: bump container version to v1.0.10
+sessionstore: Bump memory limits
+sessionstore: bump memory limits in production
+sessionstore: disable sessionstore1001 native transport
+sessionstore: Don't pin sessionstore to specific rows
+sessionstore: make native transport (intentionally) unreachable
+Set maximum execution time to 60 seconds
+Set OOM_adj to -500 for mariadb- WMF package is normally dedicated
+Set receive.rejectImplicitMerges to true in project.config
+Set testwiki API extractor to use the internal endpoint instead
+Set the ratio of the new ParserCache keys to 100 for prod
+Set up etherpad-restore.wikimedia.org
+Set useTimestampForId to true to support multi DC with Kafka message timestamps
+Set wgDLPQueryCacheTime to 120 at all wikis
+Setting a timeout to force display of page content
+Setup CI for operations/software/homer
+Setup wikidata alerts from grafana dashboard
+setup.py: add missing PyYAML dependency
+shared-storage: remove nfs-manage-binds
+shellbox: Bump replicas to 24 to support request spikes
+shellbox: Restore replicas to 8, now that T312319 is resolved.
+Show the hostname in error messages
+single_backend mode for production varnishes
+site/conftool-data: designate mw2394,mw2395 as dedicated jobrunners
+Slave lag check tweaks to JobRunner
+smokeping: add ensure parameter, set to present
+smokeping: don't poll authdns2001
+smokeping: fix targets configuration for drmrs
+smokeping: remove ancillary data
+smokeping: remove DNS targets, moved to Prometheus
+smokeping: remove module and profile
+smokeping: remove pfw some asw, moved to Prometheus
+smokeping: remove sampled hosts, probed by Prometheus
+smokeping: stop targetting cr devices, moved to Prometheus
+SNMP: set snmp-mibs-downloader BASEDIR to Debian 9 standard
+Soften the dependency on the ORES extension
+SpecialChangeEmail: Log email changes
+SpecialChangeEmail: Log email changes
+SpecialChangeEmail: Log email changes
+SpecialChangeEmail: Log email changes
+SpecialChangeEmail: Log email changes
+Specify $wgWBRepoSettings['conceptBaseUri'] again
+Specify $wmgWBRepoConceptBaseUri again
+spicerack: add logging clusters to elasticsearch config
+Split confd file definitions
+Split path to extract filename from ls output
+SqlBagOStuff: use cancelAtomic()
+sre: add paging alert for etcdmirror down
+sre: add redis memory full alert
+sre: more readable varnish/haproxy frontend unavailable
+sre.cdn.roll-upgrade-haproxy: Add cookbook to upgrade HAProxy
+sre.discovery: Refactor
+sre.discovery.service-route: fix bugs
+sre.discovery.service-route: Make the cookbook work
+sre.discovery.service-route: refactor to base/runner classes
+sre.elasticsearch add logging clusters
+sre.k8s.maintenance: fix missing admin reason
+sre.k8s.pool-depool-cluster: Add new cookbook
+sre.k8s.pool-depool-cluster: handle active/passive services
+sre.k8s.pool-depool-cluster: update SAL/log description and add comments
+sre.mediawiki.restart-appservers: Fix clusters
+sre.switchdc.databases: allow to select a section
+sre.switchdc.databases: update Phabricator more
+sre.switchdc.databases.prepare: add binlog check
+sre.switchdc.databases.prepare: add check
+Start Jolokia together with Updater
+Start using logstash
+Stop branching LocalisationUpdate for Wikimedia production
+Stop reading for the new term store as the default of client wikis
+Stop setting wgBabelCentralApi
+Stop setting wgCentralAuthAutoNew
+Stop using LocalFile::lock()
+streaming-updater: specifically detect missed undelete events
+sudo: add validate_cmd for sudoers file
+sudo: add validate_cmd for sudoers file
+superset: add static html for requestctl
+Support configuration of EVPN anycast GW on switches
+Support per X-Client-IP connection limits
+Support X-Client-IP connection limiting
+swift: stop monitoring individual daemons
+Switch ores to use envoy
+Switch query service maxlag to be median +1
+switchdc: Exclude toolhub, lacking active/active db
+switchdc: include swift and thanos
+switchdc: Run Puppet on DB masters after setting read-write
+switchover-tmpl.sh: Add orchestrator tag notes
+systemd: add support for network accounting
+systemd: allow setting global accounting options
+tables_to_check: Add more tables,rename the file
+team-search-platform: add jvmquake alerting
+team-search-platform: alert when flink task slots is too low
+team-search-platform: remove BlazegraphJvmQuakeWarnGC
+team-sre/hardware: Add alert for sel events
+team-wmcs: metricsinfra: page when alertmanager is unreachable
+Temp remove codfw from wikidata updateQueryServiceLag check
+templates: add rendering of templates
+Temporary hack - Block IP from making connections
+termbox: switch to use envoy to call MediaWiki
+Test Server invariants
+tests: Assert that the user who deleted a page is logged as such
+tests: Remove obsolete logic for "-computed" dblists
+The varnish reqstats diamond collector does not work, emit to statsd directly instead
+Throw Exceptions on preg_* failures in MagicWordArray::matchAndRemove()
+thumbor: stop checking individual instance status
+tls_helper: fix the envoy config configmap
+tls_helper: fix typo in template reference
+tls_helper: qoute idle_timeout default value
+tls: Supply sane default values for resources
+tlsproxy: experimental support for internal ocsp
+tlsproxy: support multiple independent staples
+toolforge-kubernetes: shut down the old maintain-kubeusers
+toolforge: bastion: raise default value for nproc
+toolforge: k8s: etcd: refresh server with certs changes
+toolforge: new k8s: rename hiera keys for consistency
+toolforge: new k8s: rename node to worker
+toolforge: remove special configuration for kubernetes on proxy servers
+toolforge: remove the ancient version of kubectl
+toolhub: disable crawler cron in codfw
+toollabs: Convert cdnjs pull cron command to one line
+toollabs: Convert puppet clone of cdnjs to cron
+tools proxy: Add health check and icinga monitoring
+tools-proxy: Ensure kubelet is stopped on tools proxy nodes
+tools: Allow multiple k8s master to access etcd
+tools: job to copytruncate logs in place
+tools: Keep proxylistener socket open
+tools: Make portgrabber also ping two additional webproxies
+tools: Make uwsgi & nodejs services also ping additional proxies
+tools: Pull *.labsdb out of /etc/hosts on tools
+tools: Puppetize database aliases as host resources
+tools.checker continually watch for webservices
+tools.my.cnf: Temporary max_user_connections
+toolschecker: Replace labsdb1005 with clouddb1001
+toolsdb: Enable monitoring
+toolsdb: Point tools-db.eqiad.wmflabs to clouddb1001
+toolsdb: refactoring some of the mariadb things for toolsdb
+toolsdb: Remove the word temporary from comments
+trafficserver: Cache-ban pages with localhost links from page content service
+train-presync: Pass -Dfull_image_build:True to scap stage-train
+transfer.py: Set timeout to 5 minutes
+TranslationStorage: improvements to save throttling
+transports: add JunOS transport
+Turn on central auth logging for all eqiad1 VMs
+Turn on varnish reqstats diamond collector on eqiad mobile caches
+ulsfo: single_backend for all new cache nodes
+Undo special-casing of testwiki in Varnish
+Update change-propagation to 0571b9e
+Update custom domain for thumbnail rendering
+Update db1001 to be the new slave, not the master
+Update KafkaSSE to 72a9e95 (0.3.0)
+update labtestservices2001.wikimedia.org.crt with the new ca
+update labvirt-star.codfw.wmnet.crt with new ca
+update labvirt-star.eqiad.wmnet.crt with new ca
+Update ldap-corp.{eqiad,codfw}.wikimedia certs
+Update ldap-labs.{eqiad,codfw}.wikimedia certs
+Update mobileapps to 2020-09-09-171242-production
+Update ORES venv path to use versioned cache
+Update README and bump version to 0.1.0
+Update restbase to 03ed384
+Update to pykafka 2.1.0
+update-ocsp: check response status
+update-ocsp: refactor validation, check cert life
+Updated changelog for first release.
+Updated iBGP policy to process local and remote routes differently.
+updateQueryServiceLag: Add lb(-pool) options for forward compatibility
+UpdaterReconcile: reconcile newer_revision_seen inconsistencies
+Upgrade to 1.0
+Use $wgAuthenticationTokenVersion
+Use a short connect timeout for PoolCounter
+Use Cassandra version that corresponds to what is being tested
+Use db1056 instead of db1019 for commons recentchanges
+Use dropExtensionTable instead of dropTable in the updater
+Use encrypted Argon2 Hashes to store user passwords
+Use Envoy to talk to echostore
+Use fork of worker-farm
+Use getClientLockName value for releaseClientLock when dispatching
+Use heartbeat when possible to check slave lag
+Use proper path and fqdn for eventstreams check
+Use ProxyFix middleware to correctly recognize HTTPS usage
+Use ProxyFix middleware to recognize HTTPS usage, attempt #2
+Use the new connectTimeout in request
+Use up-and-enabled servers in can-depool logic
+Use up-and-enabled servers in can-depool logic
+Use WikiPageEntityMetaDataAcessor::loadLatestRevisionIds
+Variant configuration: Allow for YAML-based inheritance of configuration
+Variant configuration: Generate dblists from YAML
+Variant configuration: Never write to serialised PHP, drop support
+Variant configuration: Pre-calculate config for each wiki on demand
+Variant configuration: Read from JSON, not serialised PHP, for testwiki
+Variant configuration: Read JSON config for all wikis
+Variant configuration: Write to static (JSON) as well as serialised cache for testwiki
+Varnish: Add lint:ignore:quoted_booleans around a boolean that needs quoting.
+varnish: bump general upload rate limits
+varnish: cache_upload miss/pass rate limit
+varnish: raise severity of child restart to critical
+varnish: use 403 instead of 429 where appropriate
+VCL: add Retry-After header to 429 responses
+VCL: apply API rate limits to wikidata too
+VCL: do not rate limit requests from IPs in wikimedia_trust
+VCL: increase rate limit to 600/60s
+VCL: raise ratelimit for RB, exclude labs from limits
+VCL: rate limit text-frontend requests
+VCL: rate limit wikiScrape with vsthrottle
+VCL: same rate-limit for api.php and restbase
+Verbose logging for wikidata dispatching
+Warn instead of throwing error in case threshold is unparseable
+wdqs-internal: switch to use envoy
+wdqs: activate jvmquake at 300:5
+wdqs: add bking as contact for wdqs alerts
+wdqs: async appender only support a single appender-ref
+wdqs: cleanup logback configuration
+wdqs: correct async appender package name
+wdqs: don't log MemoryManagerClosedException
+wdqs: enable async logging
+wdqs: improve alert description
+wdqs: increase restart interval of wdqs-updater
+wdqs: limit number of messages from the same logger also for file logging.
+wdqs: LVS check should reach blazegraph and do a simple query
+wdqs: replace deprecated log appender
+wdqs: Set a custom U-A for the categories lag check
+wdqs: tune jvmquake settings
+wdqs: tune jvmquake settings (take 2)
+wdqs: use the /readiness-probe in WDQS icinga checks
+Webserver ca:  disable the quoted-bool lint check
+webserver::php5 unquote a boolean.
+When updating from 0.1 check for existance of wb_aliases instead of wb_terms
+wiki-replicas.sql: Add heartbeat_p
+wiki-replicas.sql: Add meta_p GRANT
+wiki-replicas.sql: Create role
+wikibasedumps-shared: Query using mysql.php, not sql.php
+Wikidata dispatch, select 20 wikis instead of 15
+wikidata maxlag maint script: use new pybal VIPs
+wikidump: change smtpserver to localhost
+WikiExporter: Avoid calling reload in processing every row
+WikiExporter: Avoid calling reload in processing every row
+wikifeeds: Bump capacity by 50%
+wikifeeds: Increase capacity by 100%
+wikifeeds: Redefine CPU limits
+wikifeeds: slightly lower the CPU limits
+wikilabels: stage the postgres roles for virtualizing the database
+wikilabels: Update toolschecker to monitor the live DB
+wikimania_scholarships: change smtp_host to localhost
+wikimedia.org: remove smokeping.w.o
+wikimediacloud.org: add A records for cloudgw2001-dev/2002-dev
+WikiPage: Avoid locking comment and actor tables in doDeleteArticleReal
+wikireplicas: Add SUPER privileges to cloud admin accounts
+wikireplicas: Monitor wikireplicas are always in read only
+wikireplicas: restore pybal monitoring
+wikitech: Lock LDAP accounts when users are blocked
+wmcs: introduce new toolsdb primary role
+wmcs: Respect LDAP locks in ssh-key-ldap-lookup
+wmf-config-wg-vars.js: Add README
+wmf-config-wg-vars.js: Use the '/deployed' preset for Code search
+wmf-config: Comment out wgUploadThumbnailRenderHttpCustomDomain
+wmfbackups: Add manpages for all executables and config files
+wmnet: Failover m3-master
+wmnet: Update s4-master alias
+wmnet: Update s4-master alias
+Wrap texvccheck call in PoolCounter
+zuul: skip test/test-prio for CR+2 changes
+zuul: skip test/test-prio for CR+2 changes

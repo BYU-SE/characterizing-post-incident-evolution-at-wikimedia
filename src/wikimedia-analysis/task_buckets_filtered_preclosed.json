@@ -1,0 +1,3902 @@
+{
+  "summary": {
+    "irMentionedCRs": {
+      "pre": 12,
+      "preClosed": 3,
+      "during": 117,
+      "post": 10
+    },
+    "irMentionedTasks": {
+      "pre": 208,
+      "preClosed": 14,
+      "during": 620,
+      "post": 93
+    },
+    "childTasks": {
+      "pre": 523,
+      "preClosed": 321,
+      "during": 171,
+      "post": 576
+    },
+    "mentionedTasks": {
+      "pre": 463,
+      "preClosed": 154,
+      "during": 190,
+      "post": 279
+    }
+  },
+  "filtered": [
+    {
+      "ir": "20150331-LabsNFS-Overload",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T85604",
+          "T85606",
+          "T85605",
+          "T93740",
+          "T85608",
+          "T93792",
+          "T85607",
+          "T91640",
+          "T91677"
+        ],
+        "preClosed": [
+          "T85605",
+          "T93740",
+          "T85607",
+          "T91640",
+          "T91677"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      }
+    },
+    {
+      "ir": "20150401-LabsNFS-Overload",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T85604",
+          "T85606",
+          "T85605",
+          "T93740",
+          "T85608",
+          "T93792",
+          "T85607",
+          "T91640",
+          "T91677"
+        ],
+        "preClosed": [
+          "T85605",
+          "T93740",
+          "T85607",
+          "T91640",
+          "T91677"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      }
+    },
+    {
+      "ir": "20150413-LabsNFS",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T94609"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T94607",
+          "T85604",
+          "T85606",
+          "T85605",
+          "T93740",
+          "T85608",
+          "T93792",
+          "T85607",
+          "T91640",
+          "T91677"
+        ],
+        "preClosed": [
+          "T85605",
+          "T93740",
+          "T93792",
+          "T85607",
+          "T91640",
+          "T91677"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      }
+    },
+    {
+      "ir": "20150424-Parsoid",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T93974"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T63165",
+          "T93715"
+        ],
+        "preClosed": [
+          "T63165"
+        ]
+      }
+    },
+    {
+      "ir": "20150519-RESTBase",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T93428"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T93433",
+          "T93439",
+          "T95533",
+          "T97031",
+          "T97036"
+        ],
+        "preClosed": [
+          "T95533"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T94611",
+          "T93433",
+          "T93439",
+          "T73212"
+        ],
+        "preClosed": []
+      }
+    },
+    {
+      "ir": "20150527-GridEngine",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T63897",
+          "T90546"
+        ],
+        "preClosed": [
+          "T90546"
+        ]
+      },
+      "childTasks": {
+        "pre": [
+          "T91733",
+          "T93691",
+          "T95288",
+          "T99133"
+        ],
+        "preClosed": [
+          "T91733",
+          "T93691"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      }
+    },
+    {
+      "ir": "20150615-Elasticsearch",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T90889"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T100500",
+          "T102159",
+          "T101530",
+          "T102008",
+          "T99244"
+        ],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T711"
+        ],
+        "preClosed": [
+          "T711"
+        ]
+      }
+    },
+    {
+      "ir": "20150617-LabsNFSOutage",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T102626",
+          "T102520",
+          "T94609",
+          "T95559",
+          "T102240"
+        ],
+        "preClosed": [
+          "T102626"
+        ]
+      },
+      "childTasks": {
+        "pre": [
+          "T94607",
+          "T85604",
+          "T85606",
+          "T85605",
+          "T93740",
+          "T85608",
+          "T93792",
+          "T85607",
+          "T91640",
+          "T91677",
+          "T102368",
+          "T95924",
+          "T102369",
+          "T102370",
+          "T102371",
+          "T102372",
+          "T102373",
+          "T102379",
+          "T102380",
+          "T102381",
+          "T102383",
+          "T102384",
+          "T102385",
+          "T102386",
+          "T102388",
+          "T102169",
+          "T102391",
+          "T102392",
+          "T102402",
+          "T102468",
+          "T102519",
+          "T90610"
+        ],
+        "preClosed": [
+          "T85605",
+          "T93740",
+          "T93792",
+          "T85607",
+          "T91640",
+          "T91677",
+          "T102368",
+          "T95924",
+          "T102392"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T97688",
+          "T87870"
+        ],
+        "preClosed": [
+          "T97688"
+        ]
+      }
+    },
+    {
+      "ir": "20150817-ToolLabs-WebgridOutage",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T50668",
+          "T90542"
+        ],
+        "preClosed": [
+          "T50668"
+        ]
+      }
+    },
+    {
+      "ir": "20150901-Elasticsearch",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T104962"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T107278"
+        ],
+        "preClosed": [
+          "T107278"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      }
+    },
+    {
+      "ir": "20151214-Math-and-Mathoid",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T116147"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T102030",
+          "T107934"
+        ],
+        "preClosed": [
+          "T102030"
+        ]
+      }
+    },
+    {
+      "ir": "20160112-20160111-toollabs-SGE",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T122638"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T123034",
+          "T92614"
+        ],
+        "preClosed": [
+          "T92614"
+        ]
+      }
+    },
+    {
+      "ir": "20160126-WikimediaDomainRedirection",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T45266",
+          "T72068",
+          "T114801",
+          "T1256"
+        ],
+        "preClosed": [
+          "T72068"
+        ]
+      },
+      "childTasks": {
+        "pre": [
+          "T47499",
+          "T55594",
+          "T55683",
+          "T56762",
+          "T58317",
+          "T55978",
+          "T53556",
+          "T84988",
+          "T84989",
+          "T84940",
+          "T85933",
+          "T86168",
+          "T85611",
+          "T85609",
+          "T85605",
+          "T86172",
+          "T86171",
+          "T97472",
+          "T86658",
+          "T105901",
+          "T86659",
+          "T86175",
+          "T86174",
+          "T93143",
+          "T93559",
+          "T93558",
+          "T96463",
+          "T95675",
+          "T98737",
+          "T101966",
+          "T87294",
+          "T113394",
+          "T91996",
+          "T91997",
+          "T91854",
+          "T90943",
+          "T91176",
+          "T92557",
+          "T94326",
+          "T94327",
+          "T96690",
+          "T109913",
+          "T86170",
+          "T86167",
+          "T76955",
+          "T114801"
+        ],
+        "preClosed": [
+          "T55978",
+          "T84988",
+          "T84940",
+          "T85933",
+          "T86168",
+          "T85611",
+          "T85605",
+          "T86172",
+          "T86171",
+          "T97472",
+          "T86658",
+          "T105901",
+          "T86175",
+          "T86174",
+          "T93143",
+          "T93559",
+          "T93558",
+          "T96463",
+          "T95675",
+          "T98737",
+          "T101966",
+          "T87294",
+          "T113394",
+          "T91854",
+          "T90943",
+          "T91176",
+          "T92557",
+          "T94326",
+          "T94327",
+          "T109913",
+          "T86170",
+          "T86167",
+          "T76955"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T45266",
+          "T72068"
+        ],
+        "preClosed": [
+          "T72068"
+        ]
+      }
+    },
+    {
+      "ir": "20160128-MediaWiki-API",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T119637"
+        ],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T88732"
+        ],
+        "preClosed": [
+          "T88732"
+        ]
+      }
+    },
+    {
+      "ir": "20160204-Phabricator",
+      "irMentionedCRs": {
+        "pre": [
+          "262742"
+        ],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T114363"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T113072",
+          "T116207"
+        ],
+        "preClosed": [
+          "T116207"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      }
+    },
+    {
+      "ir": "20160712-EchoCentralAuth",
+      "irMentionedCRs": {
+        "pre": [
+          "297946",
+          "297936"
+        ],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T117872",
+          "T137811",
+          "T137843",
+          "T139198",
+          "T110451",
+          "T138673",
+          "T138725",
+          "T138781",
+          "T139234"
+        ],
+        "preClosed": [
+          "T139234"
+        ]
+      }
+    },
+    {
+      "ir": "20160713-MediaWiki",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T38891"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T38892",
+          "T112501",
+          "T112200"
+        ],
+        "preClosed": [
+          "T112501",
+          "T112200"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      }
+    },
+    {
+      "ir": "20160801-ORES",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T102512",
+          "T130404"
+        ],
+        "preClosed": [
+          "T130404"
+        ]
+      }
+    },
+    {
+      "ir": "20160829-ToolLabs-Outage",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T126083"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T85606",
+          "T85605",
+          "T93740",
+          "T85608",
+          "T93792",
+          "T104881",
+          "T122508",
+          "T97861",
+          "T127367",
+          "T127368",
+          "T91806",
+          "T95766",
+          "T91822",
+          "T98652",
+          "T100572",
+          "T121890",
+          "T121905",
+          "T123740",
+          "T124991",
+          "T122743",
+          "T124877",
+          "T124822",
+          "T126085",
+          "T126089",
+          "T127490",
+          "T133397",
+          "T126090",
+          "T126237",
+          "T126623",
+          "T127559",
+          "T127560",
+          "T127561",
+          "T127567",
+          "T128083",
+          "T117453",
+          "T121629",
+          "T134896",
+          "T140483"
+        ],
+        "preClosed": [
+          "T85606",
+          "T85605",
+          "T93740",
+          "T85608",
+          "T93792",
+          "T104881",
+          "T95766",
+          "T91822",
+          "T98652",
+          "T100572",
+          "T123740",
+          "T122743",
+          "T124877",
+          "T126089",
+          "T127490",
+          "T133397",
+          "T126090",
+          "T126237",
+          "T127560",
+          "T127561",
+          "T128083",
+          "T117453",
+          "T140483"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      }
+    },
+    {
+      "ir": "20160915-MediaWiki",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T111441",
+          "T140942"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T123243",
+          "T117470",
+          "T140943",
+          "T119736",
+          "T142313"
+        ],
+        "preClosed": [
+          "T119736"
+        ]
+      }
+    },
+    {
+      "ir": "20160924-ORES",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T146090"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T142313",
+          "T145839"
+        ],
+        "preClosed": [
+          "T145839"
+        ]
+      }
+    },
+    {
+      "ir": "20161112-OurMine",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T150300",
+          "T11838",
+          "T107707",
+          "T32574",
+          "T57420",
+          "T100375",
+          "T145915"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T111303",
+          "T47843",
+          "T136383",
+          "T124445",
+          "T131359",
+          "T150529",
+          "T131788"
+        ],
+        "preClosed": [
+          "T131359"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T140167",
+          "T137194",
+          "T68699",
+          "T145915",
+          "T131788",
+          "T119451"
+        ],
+        "preClosed": [
+          "T137194",
+          "T68699"
+        ]
+      }
+    },
+    {
+      "ir": "20161204-labservices1001",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T123590",
+          "T137460"
+        ],
+        "preClosed": [
+          "T123590"
+        ]
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      }
+    },
+    {
+      "ir": "2017-03-23_wikibase",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T158360",
+          "T121597"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T78802",
+          "T48653",
+          "T45917",
+          "T49301",
+          "T103879",
+          "T107515",
+          "T119747",
+          "T130317",
+          "T133913",
+          "T50002",
+          "T142784",
+          "T154646"
+        ],
+        "preClosed": [
+          "T45917",
+          "T119747",
+          "T142784",
+          "T154646"
+        ]
+      }
+    },
+    {
+      "ir": "2017-04-19_ContentTranslation",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T163105",
+          "T160984"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T163105",
+          "T102729",
+          "T149421",
+          "T160985",
+          "T97192",
+          "T160914"
+        ],
+        "preClosed": [
+          "T160914"
+        ]
+      }
+    },
+    {
+      "ir": "2017-04-19_restbase",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T158908",
+          "T156199",
+          "T144431",
+          "T160570"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T157173",
+          "T137419"
+        ],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T157354",
+          "T144431",
+          "T153588",
+          "T156209",
+          "T120171",
+          "T93751",
+          "T125368",
+          "T97692",
+          "T97710",
+          "T100705",
+          "T94121",
+          "T133395",
+          "T92355",
+          "T108611",
+          "T156199"
+        ],
+        "preClosed": [
+          "T157354",
+          "T153588",
+          "T97692",
+          "T97710",
+          "T94121",
+          "T133395",
+          "T92355",
+          "T108611"
+        ]
+      }
+    },
+    {
+      "ir": "2017-04-19_ToolsProxy",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T120335"
+        ],
+        "preClosed": [
+          "T120335"
+        ]
+      }
+    },
+    {
+      "ir": "2017-04-26_ORES",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T148992",
+          "T159486"
+        ],
+        "preClosed": [
+          "T159486"
+        ]
+      }
+    },
+    {
+      "ir": "2017-04-27_ocg",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T150871"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T135022",
+          "T154964",
+          "T159857",
+          "T162913",
+          "T163287",
+          "T163752",
+          "T142207",
+          "T146757",
+          "T146387",
+          "T160745",
+          "T135643",
+          "T135616",
+          "T135613",
+          "T137431",
+          "T137432",
+          "T142201",
+          "T142202",
+          "T142204",
+          "T145413",
+          "T146894",
+          "T146895",
+          "T147842",
+          "T149086",
+          "T149189",
+          "T142226",
+          "T143129",
+          "T143132",
+          "T143336",
+          "T148567",
+          "T148576",
+          "T143410",
+          "T150326",
+          "T150872",
+          "T150874",
+          "T150875",
+          "T150917",
+          "T163272",
+          "T161312"
+        ],
+        "preClosed": [
+          "T159857",
+          "T162913",
+          "T146387",
+          "T135616",
+          "T135613",
+          "T137431",
+          "T137432",
+          "T142201",
+          "T142202",
+          "T142204",
+          "T145413",
+          "T146894",
+          "T146895",
+          "T147842",
+          "T149086",
+          "T149189",
+          "T142226",
+          "T143129",
+          "T143132",
+          "T143336",
+          "T148576",
+          "T150326",
+          "T163272"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T129142",
+          "T134205",
+          "T135022",
+          "T135643",
+          "T146757",
+          "T150326"
+        ],
+        "preClosed": [
+          "T134205",
+          "T150326"
+        ]
+      }
+    },
+    {
+      "ir": "2017-05-03_missing_index",
+      "irMentionedCRs": {
+        "pre": [
+          "349872"
+        ],
+        "preClosed": [
+          "349872"
+        ]
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T162774"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T162774"
+        ],
+        "preClosed": []
+      }
+    },
+    {
+      "ir": "2017-05-12_API",
+      "irMentionedCRs": {
+        "pre": [
+          "352577"
+        ],
+        "preClosed": [
+          "352577"
+        ]
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      }
+    },
+    {
+      "ir": "2017-06-01_Maps",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T148883"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T146400"
+        ],
+        "preClosed": [
+          "T146400"
+        ]
+      }
+    },
+    {
+      "ir": "2017-06-07_scrape",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T163233"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T154704",
+          "T118365"
+        ],
+        "preClosed": [
+          "T118365"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      }
+    },
+    {
+      "ir": "2017-06-13_ORES",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T146664",
+          "T157222"
+        ],
+        "preClosed": [
+          "T157222"
+        ]
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T165171",
+          "T162765",
+          "T157222"
+        ],
+        "preClosed": [
+          "T157222"
+        ]
+      }
+    },
+    {
+      "ir": "2017-07-18_JobQueue",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T129148",
+          "T167104"
+        ],
+        "preClosed": [
+          "T129148"
+        ]
+      },
+      "childTasks": {
+        "pre": [
+          "T167098",
+          "T167104"
+        ],
+        "preClosed": [
+          "T167098"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T167104",
+          "T167098",
+          "T146352",
+          "T129148"
+        ],
+        "preClosed": [
+          "T167098",
+          "T146352",
+          "T129148"
+        ]
+      }
+    },
+    {
+      "ir": "2017-09-22_REST-API-alert-pageimage-update",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T150560"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T167400",
+          "T152135"
+        ],
+        "preClosed": [
+          "T152135"
+        ]
+      }
+    },
+    {
+      "ir": "2017-11-28_ORES",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T168073"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T122676",
+          "T167149"
+        ],
+        "preClosed": [
+          "T167149"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      }
+    },
+    {
+      "ir": "20170617-Phabricator-spam",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T162996"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T156803",
+          "T161859"
+        ],
+        "preClosed": [
+          "T156803"
+        ]
+      }
+    },
+    {
+      "ir": "20170623-ORES",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T149010",
+          "T168007"
+        ],
+        "preClosed": [
+          "T149010"
+        ]
+      }
+    },
+    {
+      "ir": "2018-02-06_Phabricator",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T160714"
+        ],
+        "preClosed": [
+          "T160714"
+        ]
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T182832"
+        ],
+        "preClosed": []
+      }
+    },
+    {
+      "ir": "2018-02-26_WikibaseQualityConstraints",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T184937",
+          "T182994"
+        ],
+        "preClosed": [
+          "T182994"
+        ]
+      }
+    },
+    {
+      "ir": "2018-03-02_Train",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T188479"
+        ],
+        "preClosed": [
+          "T188479"
+        ]
+      }
+    },
+    {
+      "ir": "2018-04-23_wdqs",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T178492"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T179850",
+          "T184083",
+          "T187766",
+          "T187800",
+          "T188303",
+          "T182991",
+          "T187767"
+        ],
+        "preClosed": [
+          "T179850",
+          "T184083",
+          "T187800",
+          "T188303"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      }
+    },
+    {
+      "ir": "2018-06-26_LoadBalancers",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T184715"
+        ],
+        "preClosed": [
+          "T184715"
+        ]
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T184721"
+        ],
+        "preClosed": [
+          "T184721"
+        ]
+      }
+    },
+    {
+      "ir": "2018-07-17_Train",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T199495",
+          "T199504"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T117737",
+          "T58849",
+          "T191059",
+          "T194015"
+        ],
+        "preClosed": [
+          "T194015"
+        ]
+      }
+    },
+    {
+      "ir": "2018-07-24_Train",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T172480",
+          "T198640"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T172479"
+        ],
+        "preClosed": [
+          "T172479"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T129148",
+          "T171371",
+          "T200043",
+          "T191060",
+          "T196609",
+          "T178652"
+        ],
+        "preClosed": [
+          "T129148",
+          "T171371",
+          "T196609"
+        ]
+      }
+    },
+    {
+      "ir": "2018-07-31_Phabricator",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T172489"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T200509",
+          "T171928",
+          "T191400"
+        ],
+        "preClosed": [
+          "T171928"
+        ]
+      }
+    },
+    {
+      "ir": "2018-10-02_maps",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T186732"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T109776",
+          "T198622",
+          "T187300",
+          "T108435"
+        ],
+        "preClosed": [
+          "T187300",
+          "T108435"
+        ]
+      }
+    },
+    {
+      "ir": "2019-01-17_RESTBase-Parsoid",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T202905",
+          "T204608",
+          "T198421",
+          "T204624",
+          "T187958",
+          "T205337"
+        ],
+        "preClosed": [
+          "T198421",
+          "T204624"
+        ]
+      }
+    },
+    {
+      "ir": "2019-02-08_logstash-mediawiki",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T205856",
+          "T88732",
+          "T214720",
+          "T213081"
+        ],
+        "preClosed": [
+          "T88732",
+          "T213081"
+        ]
+      }
+    },
+    {
+      "ir": "2019-02-13_PAWS",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T193264",
+          "T196507",
+          "T194855"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T196507",
+          "T194855",
+          "T208754"
+        ],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T194855",
+          "T196507",
+          "T196751"
+        ],
+        "preClosed": [
+          "T196751"
+        ]
+      }
+    },
+    {
+      "ir": "2019-02-14_labsdb1005",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T193264"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T196507",
+          "T194855",
+          "T208754",
+          "T187456",
+          "T209527",
+          "T214835"
+        ],
+        "preClosed": [
+          "T214835"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T194855",
+          "T196507",
+          "T196751"
+        ],
+        "preClosed": [
+          "T196751"
+        ]
+      }
+    },
+    {
+      "ir": "2019-02-20_irc-outage",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T185319"
+        ],
+        "preClosed": [
+          "T185319"
+        ]
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      }
+    },
+    {
+      "ir": "2019-03-20_ORES",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T122676"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T167149",
+          "T196889",
+          "T210577",
+          "T210579",
+          "T210580",
+          "T210582",
+          "T210605"
+        ],
+        "preClosed": [
+          "T167149",
+          "T196889",
+          "T210579"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T210580",
+          "T216838",
+          "T210584",
+          "T148506",
+          "T163326"
+        ],
+        "preClosed": [
+          "T210584",
+          "T148506",
+          "T163326"
+        ]
+      }
+    },
+    {
+      "ir": "2019-03-27_gerrit",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T184086"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T215004",
+          "T177197",
+          "T182759"
+        ],
+        "preClosed": [
+          "T215004"
+        ]
+      }
+    },
+    {
+      "ir": "2019-04-17_Jobqueue",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T215339",
+          "T172480"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T220804",
+          "T172479"
+        ],
+        "preClosed": [
+          "T172479"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T186993",
+          "T129148",
+          "T171371"
+        ],
+        "preClosed": [
+          "T129148",
+          "T171371"
+        ]
+      }
+    },
+    {
+      "ir": "2019-06-24_wdqs",
+      "irMentionedCRs": {
+        "pre": [
+          "517555"
+        ],
+        "preClosed": [
+          "517555"
+        ]
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T221774"
+        ],
+        "preClosed": []
+      }
+    },
+    {
+      "ir": "2019-07-15_logstash",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T150106",
+          "T223483"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T150195"
+        ],
+        "preClosed": [
+          "T150195"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T148251",
+          "T176335",
+          "T180051"
+        ],
+        "preClosed": [
+          "T148251"
+        ]
+      }
+    },
+    {
+      "ir": "2019-08-02_api-overload-parsoid",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T167906",
+          "T228878"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T229262"
+        ],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T229262",
+          "T223458",
+          "T225140"
+        ],
+        "preClosed": [
+          "T223458"
+        ]
+      }
+    },
+    {
+      "ir": "2019-08-20_logstash",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T228089"
+        ],
+        "preClosed": [
+          "T228089"
+        ]
+      }
+    },
+    {
+      "ir": "2019-08-23_network_codfw",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T196432",
+          "T167306",
+          "T228388",
+          "T169860"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T189552",
+          "T196030",
+          "T174616",
+          "T226424",
+          "T226422"
+        ],
+        "preClosed": [
+          "T189552",
+          "T196030",
+          "T226422"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T228575",
+          "T229397"
+        ],
+        "preClosed": []
+      }
+    },
+    {
+      "ir": "2019-09-10_toolforge-kubernetes",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T214513",
+          "T142862"
+        ],
+        "preClosed": [
+          "T142862"
+        ]
+      },
+      "childTasks": {
+        "pre": [
+          "T111914",
+          "T142862",
+          "T215663",
+          "T215530",
+          "T215679",
+          "T215975",
+          "T172855",
+          "T215531",
+          "T215529",
+          "T226098",
+          "T228267",
+          "T228500",
+          "T228660",
+          "T228887",
+          "T229009",
+          "T215553",
+          "T169287",
+          "T119814",
+          "T144153",
+          "T215678",
+          "T227290",
+          "T224273",
+          "T228499",
+          "T229058"
+        ],
+        "preClosed": [
+          "T111914",
+          "T142862",
+          "T215663",
+          "T215530",
+          "T215975",
+          "T215529",
+          "T226098",
+          "T228267",
+          "T228660",
+          "T228887",
+          "T169287",
+          "T119814",
+          "T144153",
+          "T224273"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T228499",
+          "T119814",
+          "T169287",
+          "T111885",
+          "T153943",
+          "T148929",
+          "T215531"
+        ],
+        "preClosed": [
+          "T119814",
+          "T169287",
+          "T111885",
+          "T153943",
+          "T148929"
+        ]
+      }
+    },
+    {
+      "ir": "2019-09-23_s3_primary_db_master_crash",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T196366",
+          "T172497",
+          "T230783"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T221159",
+          "T225391",
+          "T231638",
+          "T113834",
+          "T120047"
+        ],
+        "preClosed": [
+          "T225391",
+          "T113834",
+          "T120047"
+        ]
+      }
+    },
+    {
+      "ir": "2019-10-16_network_eqsin",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T196432"
+        ],
+        "preClosed": [
+          "T196432"
+        ]
+      }
+    },
+    {
+      "ir": "2019-12-10_updateCategoryCounts",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T221795",
+          "T108255"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T224321",
+          "T195397"
+        ],
+        "preClosed": [
+          "T195397"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T221795",
+          "T224321",
+          "T108255",
+          "T195578",
+          "T239877",
+          "T119371",
+          "T147875",
+          "T138778",
+          "T67807",
+          "T117854",
+          "T121489",
+          "T112637",
+          "T109179",
+          "T17441"
+        ],
+        "preClosed": [
+          "T138778",
+          "T67807",
+          "T117854",
+          "T112637"
+        ]
+      }
+    },
+    {
+      "ir": "2020-01-08_mw-api",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T217924",
+          "T183146"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T185968",
+          "T241593"
+        ],
+        "preClosed": [
+          "T185968"
+        ]
+      }
+    },
+    {
+      "ir": "2020-02-06_mediawiki",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T243009",
+          "T217924",
+          "T183999",
+          "T223602",
+          "T220775"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T243009",
+          "T236104",
+          "T239301",
+          "T169821",
+          "T223602"
+        ],
+        "preClosed": [
+          "T239301"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T243009",
+          "T124205",
+          "T212460",
+          "T214560",
+          "T224491",
+          "T189152",
+          "T223602",
+          "T208493"
+        ],
+        "preClosed": [
+          "T124205",
+          "T214560",
+          "T224491",
+          "T208493"
+        ]
+      }
+    },
+    {
+      "ir": "2020-02-11_caching-proxies",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T244761"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T184715"
+        ],
+        "preClosed": [
+          "T184715"
+        ]
+      }
+    },
+    {
+      "ir": "2020-03-19_parsercache",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T133523",
+          "T247787",
+          "T247788"
+        ],
+        "preClosed": [
+          "T247788"
+        ]
+      },
+      "childTasks": {
+        "pre": [
+          "T210725"
+        ],
+        "preClosed": [
+          "T210725"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T247788",
+          "T210725",
+          "T167784",
+          "T133337",
+          "T132317",
+          "T133523",
+          "T247787"
+        ],
+        "preClosed": [
+          "T247788",
+          "T210725",
+          "T167784",
+          "T133337",
+          "T132317"
+        ]
+      }
+    },
+    {
+      "ir": "2020-05-22_thumbnails",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T240281"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T38587",
+          "T187491",
+          "T198177",
+          "T204879",
+          "T204881",
+          "T205567",
+          "T208539",
+          "T228292",
+          "T235550"
+        ],
+        "preClosed": [
+          "T235550"
+        ]
+      }
+    },
+    {
+      "ir": "2020-05-28_commons_read-only",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T196366"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T197084"
+        ],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T214516"
+        ],
+        "preClosed": [
+          "T214516"
+        ]
+      }
+    },
+    {
+      "ir": "2020-06-11_sessionstore%2Bkubernetes",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T252185",
+          "T241850"
+        ],
+        "preClosed": [
+          "T241850"
+        ]
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T215904",
+          "T252185",
+          "T241852",
+          "T254916"
+        ],
+        "preClosed": [
+          "T241852"
+        ]
+      }
+    },
+    {
+      "ir": "2020-07-23_wdqs-outage",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T199228"
+        ],
+        "preClosed": [
+          "T199228"
+        ]
+      }
+    },
+    {
+      "ir": "2020-09-02_wdqs-outage",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T258754"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T199228"
+        ],
+        "preClosed": [
+          "T199228"
+        ]
+      }
+    },
+    {
+      "ir": "2020-09-08_Rack_D_hosts_outage",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T256112",
+          "T226703"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T257153",
+          "T196487",
+          "T247881",
+          "T252797",
+          "T222424",
+          "T199406"
+        ],
+        "preClosed": [
+          "T257153",
+          "T222424"
+        ]
+      }
+    },
+    {
+      "ir": "2020-09-25_s5_replication_lag",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T207253"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T260042"
+        ],
+        "preClosed": [
+          "T260042"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T246946",
+          "T258077",
+          "T259436",
+          "T260482",
+          "T260551",
+          "T207253",
+          "T260042",
+          "T104459",
+          "T206743"
+        ],
+        "preClosed": [
+          "T246946",
+          "T258077",
+          "T259436",
+          "T260482",
+          "T260551",
+          "T260042",
+          "T206743"
+        ]
+      }
+    },
+    {
+      "ir": "2020-10-06_cloud-vps",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T5"
+        ],
+        "preClosed": [
+          "T5"
+        ]
+      }
+    },
+    {
+      "ir": "2021-02-01_swift-codfw",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T221904",
+          "T267338",
+          "T271415",
+          "T272837"
+        ],
+        "preClosed": [
+          "T221904"
+        ]
+      }
+    },
+    {
+      "ir": "2021-07-26_ruwikinews_DynamicPageList",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T263220"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T266775"
+        ],
+        "preClosed": [
+          "T266775"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T266775",
+          "T262240",
+          "T262391",
+          "T113114",
+          "T263220"
+        ],
+        "preClosed": [
+          "T266775",
+          "T262240",
+          "T262391"
+        ]
+      }
+    },
+    {
+      "ir": "2021-10-22_eqiad_return_path_timeouts",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T293726"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T167841",
+          "T200277",
+          "T283163",
+          "T293726"
+        ],
+        "preClosed": [
+          "T283163"
+        ]
+      }
+    },
+    {
+      "ir": "2021-10-29_graphite",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T294355",
+          "T228380"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T205870",
+          "T233089",
+          "T233448",
+          "T239833",
+          "T240685",
+          "T249164",
+          "T292311",
+          "T292269",
+          "T240995",
+          "T241176",
+          "T247820",
+          "T277857",
+          "T175087",
+          "T190936",
+          "T293761",
+          "T233956"
+        ],
+        "preClosed": [
+          "T233448",
+          "T239833",
+          "T292311",
+          "T292269",
+          "T241176",
+          "T247820",
+          "T277857",
+          "T190936",
+          "T233956"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T228380",
+          "T233089",
+          "T240685",
+          "T249164",
+          "T205870"
+        ],
+        "preClosed": []
+      }
+    },
+    {
+      "ir": "2021-11-18_codfw_ipv6_network",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T163996"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T133387"
+        ],
+        "preClosed": [
+          "T133387"
+        ]
+      }
+    },
+    {
+      "ir": "2021-11-23_Core_Network_Routing",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T295672"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T167841",
+          "T200277",
+          "T283163",
+          "T293726",
+          "T295650"
+        ],
+        "preClosed": [
+          "T283163",
+          "T293726",
+          "T295650"
+        ]
+      }
+    },
+    {
+      "ir": "2021-11-25_eventgate-main_outage",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T277677",
+          "T260663",
+          "T288685"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T260663",
+          "T271483",
+          "T271376",
+          "T195680",
+          "T271374",
+          "T271375",
+          "T271377",
+          "T271383",
+          "T276633",
+          "T271480",
+          "T271481",
+          "T274435",
+          "T280881",
+          "T290283",
+          "T261017",
+          "T273020",
+          "T271479",
+          "T288532",
+          "T288535",
+          "T288536",
+          "T288539",
+          "T288542",
+          "T288551",
+          "T284352",
+          "T284346",
+          "T276370",
+          "T276373",
+          "T276374",
+          "T272623",
+          "T278503",
+          "T278882",
+          "T278885",
+          "T279741",
+          "T273237",
+          "T276405",
+          "T287716",
+          "T288557",
+          "T288832",
+          "T290357",
+          "T293157"
+        ],
+        "preClosed": [
+          "T271483",
+          "T271376",
+          "T195680",
+          "T271374",
+          "T271375",
+          "T271377",
+          "T271383",
+          "T276633",
+          "T271480",
+          "T271481",
+          "T274435",
+          "T290283",
+          "T261017",
+          "T273020",
+          "T271479",
+          "T288532",
+          "T288536",
+          "T288539",
+          "T288542",
+          "T284346",
+          "T276370",
+          "T276373",
+          "T276374",
+          "T272623",
+          "T278503",
+          "T278882",
+          "T278885",
+          "T279741",
+          "T273237",
+          "T276405",
+          "T287716",
+          "T288557",
+          "T288832",
+          "T293157"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T277191",
+          "T277740",
+          "T277741",
+          "T260663",
+          "T271480",
+          "T285710"
+        ],
+        "preClosed": [
+          "T277191",
+          "T277740",
+          "T277741",
+          "T271480",
+          "T285710"
+        ]
+      }
+    },
+    {
+      "ir": "2022-02-06_wdqs_updater",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T293063"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T238751",
+          "T251305"
+        ],
+        "preClosed": [
+          "T251305"
+        ]
+      }
+    },
+    {
+      "ir": "2022-02-22_wdqs_updater_codfw",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T238751"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T239392"
+        ],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T239392",
+          "T221774"
+        ],
+        "preClosed": [
+          "T221774"
+        ]
+      }
+    },
+    {
+      "ir": "2022-05-05_Wikimedia_full_site_outage",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T307501"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T301879",
+          "T306747"
+        ],
+        "preClosed": [
+          "T306747"
+        ]
+      }
+    },
+    {
+      "ir": "2022-06-16_MariaDB_password_leak",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T167973"
+        ],
+        "preClosed": [
+          "T167973"
+        ]
+      }
+    },
+    {
+      "ir": "2022-07-20_network_interruption",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T304712",
+          "T256112",
+          "T308339",
+          "T232883"
+        ],
+        "preClosed": [
+          "T256112",
+          "T232883"
+        ]
+      }
+    },
+    {
+      "ir": "2022-08-16_x2_databases_replication_breakage",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T312809",
+          "T314658"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T113916",
+          "T212129"
+        ],
+        "preClosed": [
+          "T113916",
+          "T212129"
+        ]
+      }
+    },
+    {
+      "ir": "2022-09-09_Elastic_Autocomplete_Missing",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T313095"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T311939"
+        ],
+        "preClosed": [
+          "T311939"
+        ]
+      }
+    },
+    {
+      "ir": "2022-09-15_sessionstore_quorum_issues",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T253244"
+        ],
+        "preClosed": [
+          "T253244"
+        ]
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T252898"
+        ],
+        "preClosed": [
+          "T252898"
+        ]
+      }
+    },
+    {
+      "ir": "2022-10-15_s6_master_failure",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T196366"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T281249"
+        ],
+        "preClosed": [
+          "T281249"
+        ]
+      }
+    },
+    {
+      "ir": "2022-11-03_conf_disk_space",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T298485"
+        ],
+        "preClosed": [
+          "T298485"
+        ]
+      }
+    },
+    {
+      "ir": "2022-11-15_asw1-eqsin",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T316532"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T269340",
+          "T295690",
+          "T295691",
+          "T316529"
+        ],
+        "preClosed": [
+          "T269340",
+          "T295690",
+          "T295691",
+          "T316529"
+        ]
+      }
+    },
+    {
+      "ir": "2022-12-18_World_Cup",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T321961"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T41813",
+          "T249293",
+          "T291630",
+          "T299583"
+        ],
+        "preClosed": [
+          "T291630",
+          "T299583"
+        ]
+      }
+    },
+    {
+      "ir": "2023-01-09_API_errors_-_db1143",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T314020"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T315270",
+          "T265386",
+          "T322689"
+        ],
+        "preClosed": [
+          "T322689"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T252091",
+          "T311106"
+        ],
+        "preClosed": [
+          "T311106"
+        ]
+      }
+    },
+    {
+      "ir": "2023-01-24_sessionstore_quorum_issues",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T320401"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T320401",
+          "T128590",
+          "T253244",
+          "T283838",
+          "T327524"
+        ],
+        "preClosed": [
+          "T128590",
+          "T253244",
+          "T283838"
+        ]
+      }
+    },
+    {
+      "ir": "2023-01-30_kartotherian",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T198901"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T205919",
+          "T201611",
+          "T205920",
+          "T207694",
+          "T207696",
+          "T211708",
+          "T182331",
+          "T182332",
+          "T210264",
+          "T210268",
+          "T211625",
+          "T210267",
+          "T222199",
+          "T210269",
+          "T214054",
+          "T219708",
+          "T207200",
+          "T212801",
+          "T211247",
+          "T213561",
+          "T213963",
+          "T213195",
+          "T213194",
+          "T213193",
+          "T218396",
+          "T213090",
+          "T213197",
+          "T213198",
+          "T225678",
+          "T267327",
+          "T269215",
+          "T225680",
+          "T238830",
+          "T240594",
+          "T225681",
+          "T216826",
+          "T223275",
+          "T231009",
+          "T322522",
+          "T231006",
+          "T324471",
+          "T322647",
+          "T323360",
+          "T218733",
+          "T215539",
+          "T258186",
+          "T223953",
+          "T226538",
+          "T226536",
+          "T235437",
+          "T249919",
+          "T238658",
+          "T241230",
+          "T220399",
+          "T244387",
+          "T245803",
+          "T220401",
+          "T220821",
+          "T220822",
+          "T224041",
+          "T255595",
+          "T255596",
+          "T256281",
+          "T238770",
+          "T238771",
+          "T238773",
+          "T238767",
+          "T238774",
+          "T265324",
+          "T265876",
+          "T276095",
+          "T324439",
+          "T238776",
+          "T259817",
+          "T260828",
+          "T260830",
+          "T262453",
+          "T262458",
+          "T265177",
+          "T240862",
+          "T267060",
+          "T268368",
+          "T269617",
+          "T262460",
+          "T271448",
+          "T262455",
+          "T271274",
+          "T273521",
+          "T273676",
+          "T274182",
+          "T271472",
+          "T271477",
+          "T272092",
+          "T279323",
+          "T260827",
+          "T261360",
+          "T268698",
+          "T238436",
+          "T237148",
+          "T264209",
+          "T284628",
+          "T286046",
+          "T286054",
+          "T271475",
+          "T276145",
+          "T279322",
+          "T287041",
+          "T287042",
+          "T287993",
+          "T294453",
+          "T294454",
+          "T294455",
+          "T294457",
+          "T294459",
+          "T294462",
+          "T294466",
+          "T295494",
+          "T295495",
+          "T303755",
+          "T303967",
+          "T308474",
+          "T308476",
+          "T287045",
+          "T287046",
+          "T279324",
+          "T279340",
+          "T255672",
+          "T261809",
+          "T262987"
+        ],
+        "preClosed": [
+          "T205919",
+          "T201611",
+          "T205920",
+          "T207694",
+          "T207696",
+          "T211708",
+          "T182331",
+          "T182332",
+          "T210264",
+          "T210268",
+          "T211625",
+          "T210267",
+          "T222199",
+          "T210269",
+          "T214054",
+          "T219708",
+          "T207200",
+          "T212801",
+          "T211247",
+          "T213963",
+          "T213195",
+          "T213194",
+          "T213193",
+          "T218396",
+          "T213090",
+          "T213197",
+          "T213198",
+          "T269215",
+          "T225680",
+          "T238830",
+          "T240594",
+          "T225681",
+          "T223275",
+          "T231009",
+          "T324471",
+          "T218733",
+          "T215539",
+          "T258186",
+          "T223953",
+          "T226538",
+          "T226536",
+          "T235437",
+          "T249919",
+          "T238658",
+          "T241230",
+          "T220399",
+          "T244387",
+          "T245803",
+          "T220401",
+          "T220821",
+          "T220822",
+          "T255595",
+          "T255596",
+          "T256281",
+          "T238773",
+          "T238767",
+          "T238774",
+          "T265324",
+          "T324439",
+          "T238776",
+          "T259817",
+          "T260828",
+          "T260830",
+          "T262453",
+          "T262458",
+          "T265177",
+          "T240862",
+          "T267060",
+          "T268368",
+          "T269617",
+          "T262460",
+          "T271448",
+          "T262455",
+          "T271274",
+          "T273521",
+          "T273676",
+          "T274182",
+          "T271472",
+          "T271477",
+          "T272092",
+          "T279323",
+          "T260827",
+          "T261360",
+          "T268698",
+          "T238436",
+          "T237148",
+          "T264209",
+          "T284628",
+          "T286046",
+          "T286054",
+          "T271475",
+          "T276145",
+          "T287041",
+          "T287042",
+          "T287993",
+          "T294453",
+          "T294454",
+          "T294455",
+          "T294457",
+          "T294459",
+          "T294462",
+          "T294466",
+          "T295494",
+          "T295495",
+          "T303755",
+          "T303967",
+          "T308474",
+          "T308476",
+          "T287045",
+          "T287046",
+          "T279324",
+          "T255672",
+          "T261809",
+          "T262987"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T182331",
+          "T210268",
+          "T255672",
+          "T238658",
+          "T213806"
+        ],
+        "preClosed": [
+          "T182331",
+          "T210268",
+          "T255672",
+          "T238658",
+          "T213806"
+        ]
+      }
+    },
+    {
+      "ir": "2023-05-02_Phabricator_outage_during_GitLab_maintenance",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T333347"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T334970",
+          "T324149",
+          "T325245"
+        ],
+        "preClosed": [
+          "T334970",
+          "T324149",
+          "T325245"
+        ]
+      }
+    },
+    {
+      "ir": "2023-05-05_prometheus_down_in_ulsfo_and_eqsin",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T335406",
+          "T309979"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T333627",
+          "T333719",
+          "T333721",
+          "T333720",
+          "T335584",
+          "T335585",
+          "T335587",
+          "T335588"
+        ],
+        "preClosed": [
+          "T333627",
+          "T333719",
+          "T333721",
+          "T333720"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T309979",
+          "T335588"
+        ],
+        "preClosed": []
+      }
+    },
+    {
+      "ir": "2023-05-19_videoscaler_jobrunner",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T279100"
+        ],
+        "preClosed": [
+          "T279100"
+        ]
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T273915",
+          "T279309"
+        ],
+        "preClosed": [
+          "T273915",
+          "T279309"
+        ]
+      }
+    },
+    {
+      "ir": "2023-09-27_Kafka-jumbo_mirror-makers",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T300102"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T302610"
+        ],
+        "preClosed": [
+          "T302610"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T213561",
+          "T253058",
+          "T307944"
+        ],
+        "preClosed": [
+          "T307944"
+        ]
+      }
+    },
+    {
+      "ir": "2023-09-28_mw-page-content-change-enrich",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T345806"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T338231"
+        ],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T309699"
+        ],
+        "preClosed": [
+          "T309699"
+        ]
+      }
+    },
+    {
+      "ir": "2024-02-28_etcd-mirror",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T350565",
+          "T317537"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T352153",
+          "T352155"
+        ],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T350565",
+          "T332010",
+          "T314489"
+        ],
+        "preClosed": [
+          "T332010"
+        ]
+      }
+    },
+    {
+      "ir": "2024-04-28_WMCS_Toolforge_Redis_refusing_connections",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T309014",
+          "T318479"
+        ],
+        "preClosed": [
+          "T309014"
+        ]
+      }
+    },
+    {
+      "ir": "2024-11-26_WMCS_network_problems",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [
+          "T325172",
+          "T325174",
+          "T325166",
+          "T325167",
+          "T325175",
+          "T325160",
+          "T325162",
+          "T325163",
+          "T325164",
+          "T325165",
+          "T330096",
+          "T330757",
+          "T320284",
+          "T379924"
+        ],
+        "preClosed": [
+          "T325166",
+          "T325167",
+          "T325175",
+          "T325160",
+          "T325162",
+          "T325163",
+          "T325164",
+          "T325165",
+          "T330096",
+          "T330757"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": []
+      }
+    },
+    {
+      "ir": "2025-03-12_cirrus-streaming-updater_overloaded_ES_Cluster",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T371069"
+        ],
+        "preClosed": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T370304",
+          "T375497",
+          "T371069"
+        ],
+        "preClosed": [
+          "T370304"
+        ]
+      }
+    }
+  ]
+}

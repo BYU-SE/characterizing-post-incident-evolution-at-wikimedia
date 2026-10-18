@@ -1,0 +1,2303 @@
+[
+  {
+    "key": "remov",
+    "ir_count": 12,
+    "ir_percent": 0.10256410256410256,
+    "others_count": 83,
+    "others_percent": 0.083,
+    "diff": 0.019564102564102556
+  },
+  {
+    "key": "t373037",
+    "ir_count": 11,
+    "ir_percent": 0.09401709401709402,
+    "others_percent": 0,
+    "diff": 0.09401709401709402
+  },
+  {
+    "key": "set",
+    "ir_count": 18,
+    "ir_percent": 0.15384615384615385,
+    "others_count": 80,
+    "others_percent": 0.08,
+    "diff": 0.07384615384615385
+  },
+  {
+    "key": "bug",
+    "ir_count": 116,
+    "ir_percent": 0.9914529914529915,
+    "others_count": 528,
+    "others_percent": 0.528,
+    "diff": 0.46345299145299146
+  },
+  {
+    "key": "change-id",
+    "ir_count": 117,
+    "ir_percent": 1,
+    "others_count": 921,
+    "others_percent": 0.921,
+    "diff": 0.07899999999999996
+  },
+  {
+    "key": "parsercach",
+    "ir_count": 11,
+    "ir_percent": 0.09401709401709402,
+    "others_count": 1,
+    "others_percent": 0.001,
+    "diff": 0.09301709401709402
+  },
+  {
+    "key": "start",
+    "ir_count": 9,
+    "ir_percent": 0.07692307692307693,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": 0.06792307692307693
+  },
+  {
+    "key": "connect",
+    "ir_count": 6,
+    "ir_percent": 0.05128205128205128,
+    "others_count": 3,
+    "others_percent": 0.003,
+    "diff": 0.04828205128205128
+  },
+  {
+    "key": "server",
+    "ir_count": 6,
+    "ir_percent": 0.05128205128205128,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": 0.039282051282051283
+  },
+  {
+    "key": "issu",
+    "ir_count": 6,
+    "ir_percent": 0.05128205128205128,
+    "others_count": 4,
+    "others_percent": 0.004,
+    "diff": 0.04728205128205128
+  },
+  {
+    "key": "local",
+    "ir_count": 8,
+    "ir_percent": 0.06837606837606838,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": 0.056376068376068386
+  },
+  {
+    "key": "kei",
+    "ir_count": 8,
+    "ir_percent": 0.06837606837606838,
+    "others_count": 5,
+    "others_percent": 0.005,
+    "diff": 0.06337606837606838
+  },
+  {
+    "key": "new",
+    "ir_count": 12,
+    "ir_percent": 0.10256410256410256,
+    "others_count": 50,
+    "others_percent": 0.05,
+    "diff": 0.05256410256410256
+  },
+  {
+    "key": "enabl",
+    "ir_count": 13,
+    "ir_percent": 0.1111111111111111,
+    "others_count": 148,
+    "others_percent": 0.148,
+    "diff": -0.03688888888888889
+  },
+  {
+    "key": "bump",
+    "ir_count": 6,
+    "ir_percent": 0.05128205128205128,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": 0.03728205128205128
+  },
+  {
+    "key": "spec",
+    "ir_count": 6,
+    "ir_percent": 0.05128205128205128,
+    "others_percent": 0,
+    "diff": 0.05128205128205128
+  },
+  {
+    "key": "ratio",
+    "ir_count": 7,
+    "ir_percent": 0.05982905982905983,
+    "others_count": 1,
+    "others_percent": 0.001,
+    "diff": 0.05882905982905983
+  },
+  {
+    "key": "testwiki",
+    "ir_count": 6,
+    "ir_percent": 0.05128205128205128,
+    "others_count": 33,
+    "others_percent": 0.033,
+    "diff": 0.01828205128205128
+  },
+  {
+    "key": "beta",
+    "ir_count": 14,
+    "ir_percent": 0.11965811965811966,
+    "others_count": 64,
+    "others_percent": 0.064,
+    "diff": 0.05565811965811966
+  },
+  {
+    "key": "password",
+    "ir_count": 6,
+    "ir_percent": 0.05128205128205128,
+    "others_count": 4,
+    "others_percent": 0.004,
+    "diff": 0.04728205128205128
+  },
+  {
+    "key": "store",
+    "ir_count": 9,
+    "ir_percent": 0.07692307692307693,
+    "others_count": 5,
+    "others_percent": 0.005,
+    "diff": 0.07192307692307692
+  },
+  {
+    "key": "not",
+    "ir_count": 19,
+    "ir_percent": 0.1623931623931624,
+    "others_count": 54,
+    "others_percent": 0.054,
+    "diff": 0.1083931623931624
+  },
+  {
+    "key": "user",
+    "ir_count": 6,
+    "ir_percent": 0.05128205128205128,
+    "others_count": 43,
+    "others_percent": 0.043,
+    "diff": 0.008282051282051284
+  },
+  {
+    "key": "instead",
+    "ir_count": 7,
+    "ir_percent": 0.05982905982905983,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": 0.04882905982905983
+  },
+  {
+    "key": "php",
+    "ir_count": 15,
+    "ir_percent": 0.1282051282051282,
+    "others_count": 155,
+    "others_percent": 0.155,
+    "diff": -0.026794871794871805
+  },
+  {
+    "key": "revert",
+    "ir_count": 16,
+    "ir_percent": 0.13675213675213677,
+    "others_count": 85,
+    "others_percent": 0.085,
+    "diff": 0.05175213675213676
+  },
+  {
+    "key": "fix",
+    "ir_count": 7,
+    "ir_percent": 0.05982905982905983,
+    "others_count": 32,
+    "others_percent": 0.032,
+    "diff": 0.02782905982905983
+  },
+  {
+    "key": "test",
+    "ir_count": 10,
+    "ir_percent": 0.08547008547008547,
+    "others_count": 39,
+    "others_percent": 0.039,
+    "diff": 0.04647008547008547
+  },
+  {
+    "key": "commit",
+    "ir_count": 16,
+    "ir_percent": 0.13675213675213677,
+    "others_count": 83,
+    "others_percent": 0.083,
+    "diff": 0.05375213675213676
+  },
+  {
+    "key": "cluster",
+    "ir_count": 8,
+    "ir_percent": 0.06837606837606838,
+    "others_count": 31,
+    "others_percent": 0.031,
+    "diff": 0.03737606837606838
+  },
+  {
+    "key": "read",
+    "ir_count": 6,
+    "ir_percent": 0.05128205128205128,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": 0.04128205128205128
+  },
+  {
+    "key": "config",
+    "ir_count": 10,
+    "ir_percent": 0.08547008547008547,
+    "others_count": 42,
+    "others_percent": 0.042,
+    "diff": 0.04347008547008547
+  },
+  {
+    "key": "will",
+    "ir_count": 15,
+    "ir_percent": 0.1282051282051282,
+    "others_count": 53,
+    "others_percent": 0.053,
+    "diff": 0.0752051282051282
+  },
+  {
+    "key": "part",
+    "ir_count": 8,
+    "ir_percent": 0.06837606837606838,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": 0.06037606837606838
+  },
+  {
+    "key": "disabl",
+    "ir_count": 15,
+    "ir_percent": 0.1282051282051282,
+    "others_count": 36,
+    "others_percent": 0.036,
+    "diff": 0.09220512820512819
+  },
+  {
+    "key": "file",
+    "ir_count": 7,
+    "ir_percent": 0.05982905982905983,
+    "others_count": 27,
+    "others_percent": 0.027,
+    "diff": 0.03282905982905983
+  },
+  {
+    "key": "db-eqiad",
+    "ir_count": 6,
+    "ir_percent": 0.05128205128205128,
+    "others_count": 95,
+    "others_percent": 0.095,
+    "diff": -0.04371794871794872
+  },
+  {
+    "key": "provid",
+    "ir_count": 6,
+    "ir_percent": 0.05128205128205128,
+    "others_count": 3,
+    "others_percent": 0.003,
+    "diff": 0.04828205128205128
+  },
+  {
+    "key": "wiki",
+    "ir_count": 18,
+    "ir_percent": 0.15384615384615385,
+    "others_count": 147,
+    "others_percent": 0.147,
+    "diff": 0.006846153846153863
+  },
+  {
+    "key": "dpl",
+    "ir_count": 11,
+    "ir_percent": 0.09401709401709402,
+    "others_percent": 0,
+    "diff": 0.09401709401709402
+  },
+  {
+    "key": "t287916",
+    "ir_count": 7,
+    "ir_percent": 0.05982905982905983,
+    "others_percent": 0,
+    "diff": 0.05982905982905983
+  },
+  {
+    "key": "t263220",
+    "ir_count": 6,
+    "ir_percent": 0.05128205128205128,
+    "others_percent": 0,
+    "diff": 0.05128205128205128
+  },
+  {
+    "key": "poolcount",
+    "ir_count": 9,
+    "ir_percent": 0.07692307692307693,
+    "others_count": 3,
+    "others_percent": 0.003,
+    "diff": 0.07392307692307692
+  },
+  {
+    "key": "add",
+    "ir_count": 8,
+    "ir_percent": 0.06837606837606838,
+    "others_count": 118,
+    "others_percent": 0.118,
+    "diff": -0.04962393162393161
+  },
+  {
+    "key": "log",
+    "ir_count": 11,
+    "ir_percent": 0.09401709401709402,
+    "others_count": 22,
+    "others_percent": 0.022,
+    "diff": 0.07201709401709402
+  },
+  {
+    "key": "productionservic",
+    "ir_count": 7,
+    "ir_percent": 0.05982905982905983,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": 0.05182905982905983
+  },
+  {
+    "key": "envoi",
+    "ir_count": 8,
+    "ir_percent": 0.06837606837606838,
+    "others_percent": 0,
+    "diff": 0.06837606837606838
+  },
+  {
+    "key": "t244843",
+    "ir_count": 10,
+    "ir_percent": 0.08547008547008547,
+    "others_percent": 0,
+    "diff": 0.08547008547008547
+  },
+  {
+    "key": "move",
+    "ir_count": 8,
+    "ir_percent": 0.06837606837606838,
+    "others_count": 21,
+    "others_percent": 0.021,
+    "diff": 0.04737606837606838
+  },
+  {
+    "key": "t223602",
+    "ir_count": 17,
+    "ir_percent": 0.1452991452991453,
+    "others_percent": 0,
+    "diff": 0.1452991452991453
+  },
+  {
+    "key": "chang",
+    "ir_count": 10,
+    "ir_percent": 0.08547008547008547,
+    "others_count": 51,
+    "others_percent": 0.051,
+    "diff": 0.034470085470085475
+  },
+  {
+    "key": "variant",
+    "ir_count": 9,
+    "ir_percent": 0.07692307692307693,
+    "others_count": 3,
+    "others_percent": 0.003,
+    "diff": 0.07392307692307692
+  },
+  {
+    "key": "configur",
+    "ir_count": 11,
+    "ir_percent": 0.09401709401709402,
+    "others_count": 46,
+    "others_percent": 0.046,
+    "diff": 0.04801709401709402
+  },
+  {
+    "key": "t180714",
+    "ir_count": 6,
+    "ir_percent": 0.05128205128205128,
+    "others_percent": 0,
+    "diff": 0.05128205128205128
+  },
+  {
+    "key": "extens",
+    "ir_count": 2,
+    "ir_percent": 0.017094017094017096,
+    "others_count": 43,
+    "others_percent": 0.043,
+    "diff": -0.0259059829059829
+  },
+  {
+    "key": "current",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": 0.01464102564102564
+  },
+  {
+    "key": "wmf",
+    "ir_percent": 0,
+    "others_count": 18,
+    "others_percent": 0.018,
+    "diff": -0.018
+  },
+  {
+    "key": "result",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.0025470085470085477
+  },
+  {
+    "key": "growth",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "avail",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "low",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.00045299145299145145
+  },
+  {
+    "key": "without",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "variabl",
+    "ir_count": 2,
+    "ir_percent": 0.017094017094017096,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": 0.0050940170940170955
+  },
+  {
+    "key": "load",
+    "ir_count": 2,
+    "ir_percent": 0.017094017094017096,
+    "others_count": 16,
+    "others_percent": 0.016,
+    "diff": 0.0010940170940170954
+  },
+  {
+    "key": "wikimedia",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 29,
+    "others_percent": 0.029,
+    "diff": -0.020452991452991454
+  },
+  {
+    "key": "depool",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 96,
+    "others_percent": 0.096,
+    "diff": -0.07035897435897437
+  },
+  {
+    "key": "metawiki",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "group",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 38,
+    "others_percent": 0.038,
+    "diff": -0.012358974358974359
+  },
+  {
+    "key": "give",
+    "ir_count": 2,
+    "ir_percent": 0.017094017094017096,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": 0.009094017094017096
+  },
+  {
+    "key": "right",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 18,
+    "others_percent": 0.018,
+    "diff": -0.00945299145299145
+  },
+  {
+    "key": "empti",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "arrai",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": 0.0005470085470085477
+  },
+  {
+    "key": "fals",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "transwiki",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "import",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "sourc",
+    "ir_percent": 0,
+    "others_count": 16,
+    "others_percent": 0.016,
+    "diff": -0.016
+  },
+  {
+    "key": "wikipedia",
+    "ir_percent": 0,
+    "others_count": 35,
+    "others_percent": 0.035,
+    "diff": -0.035
+  },
+  {
+    "key": "updat",
+    "ir_count": 2,
+    "ir_percent": 0.017094017094017096,
+    "others_count": 43,
+    "others_percent": 0.043,
+    "diff": -0.0259059829059829
+  },
+  {
+    "key": "stream",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.012
+  },
+  {
+    "key": "event",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": -0.0044529914529914515
+  },
+  {
+    "key": "reason",
+    "ir_count": 4,
+    "ir_percent": 0.03418803418803419,
+    "others_count": 22,
+    "others_percent": 0.022,
+    "diff": 0.012188034188034193
+  },
+  {
+    "key": "db-codfw",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 21,
+    "others_percent": 0.021,
+    "diff": -0.012452991452991453
+  },
+  {
+    "key": "commonset",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.019641025641025642
+  },
+  {
+    "key": "cleanup",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "logo",
+    "ir_percent": 0,
+    "others_count": 29,
+    "others_percent": 0.029,
+    "diff": -0.029
+  },
+  {
+    "key": "0-wmf",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 70,
+    "others_percent": 0.07,
+    "diff": -0.044358974358974367
+  },
+  {
+    "key": "due",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": 0.01864102564102564
+  },
+  {
+    "key": "group2",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.0034529914529914524
+  },
+  {
+    "key": "drop",
+    "ir_count": 2,
+    "ir_percent": 0.017094017094017096,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": 0.0070940170940170955
+  },
+  {
+    "key": "unus",
+    "ir_count": 2,
+    "ir_percent": 0.017094017094017096,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": 0.006094017094017096
+  },
+  {
+    "key": "time",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 16,
+    "others_percent": 0.016,
+    "diff": 0.00964102564102564
+  },
+  {
+    "key": "page",
+    "ir_count": 2,
+    "ir_percent": 0.017094017094017096,
+    "others_count": 23,
+    "others_percent": 0.023,
+    "diff": -0.005905982905982904
+  },
+  {
+    "key": "http",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 24,
+    "others_percent": 0.024,
+    "diff": 0.0016410256410256396
+  },
+  {
+    "key": "merg",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 88,
+    "others_percent": 0.088,
+    "diff": -0.062358974358974355
+  },
+  {
+    "key": "survei",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "type",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.00045299145299145145
+  },
+  {
+    "key": "data",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.0024529914529914515
+  },
+  {
+    "key": "wikibas",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": 0.01164102564102564
+  },
+  {
+    "key": "default",
+    "ir_count": 5,
+    "ir_percent": 0.042735042735042736,
+    "others_count": 47,
+    "others_percent": 0.047,
+    "diff": -0.004264957264957264
+  },
+  {
+    "key": "wikidatawiki",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.0025470085470085477
+  },
+  {
+    "key": "back",
+    "ir_count": 5,
+    "ir_percent": 0.042735042735042736,
+    "others_count": 15,
+    "others_percent": 0.015,
+    "diff": 0.027735042735042736
+  },
+  {
+    "key": "svg",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "gener",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": 0.015641025641025638
+  },
+  {
+    "key": "write",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 16,
+    "others_percent": 0.016,
+    "diff": 0.00964102564102564
+  },
+  {
+    "key": "eventlog",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "api",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.012
+  },
+  {
+    "key": "alter",
+    "ir_percent": 0,
+    "others_count": 21,
+    "others_percent": 0.021,
+    "diff": -0.021
+  },
+  {
+    "key": "tabl",
+    "ir_count": 5,
+    "ir_percent": 0.042735042735042736,
+    "others_count": 24,
+    "others_percent": 0.024,
+    "diff": 0.018735042735042735
+  },
+  {
+    "key": "follow",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": 0.01264102564102564
+  },
+  {
+    "key": "list",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": 0.01164102564102564
+  },
+  {
+    "key": "it'",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": 0.01664102564102564
+  },
+  {
+    "key": "lab",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 28,
+    "others_percent": 0.028,
+    "diff": -0.019452991452991453
+  },
+  {
+    "key": "need",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 30,
+    "others_percent": 0.03,
+    "diff": -0.004358974358974359
+  },
+  {
+    "key": "follow-up",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": 0.0015470085470085477
+  },
+  {
+    "key": "next",
+    "ir_count": 2,
+    "ir_percent": 0.017094017094017096,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": 0.010094017094017096
+  },
+  {
+    "key": "editor",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "visualeditor",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "patch",
+    "ir_count": 2,
+    "ir_percent": 0.017094017094017096,
+    "others_count": 18,
+    "others_percent": 0.018,
+    "diff": -0.0009059829059829029
+  },
+  {
+    "key": "addit",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "properti",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "common",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 21,
+    "others_percent": 0.021,
+    "diff": 0.004641025641025639
+  },
+  {
+    "key": "prepar",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": 0.0015470085470085477
+  },
+  {
+    "key": "temporari",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.0014529914529914523
+  },
+  {
+    "key": "re-en",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.00045299145299145145
+  },
+  {
+    "key": "wikitech",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.0024529914529914515
+  },
+  {
+    "key": "portal",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "master",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 20,
+    "others_percent": 0.02,
+    "diff": -0.011452991452991453
+  },
+  {
+    "key": "parsoid",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.0025470085470085477
+  },
+  {
+    "key": "mobil",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": 0.01664102564102564
+  },
+  {
+    "key": "includ",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "comment",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": -0.0044529914529914515
+  },
+  {
+    "key": "promot",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "script",
+    "ir_count": 2,
+    "ir_percent": 0.017094017094017096,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.011094017094017096
+  },
+  {
+    "key": "error",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": 0.01864102564102564
+  },
+  {
+    "key": "actual",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": 0.015641025641025638
+  },
+  {
+    "key": "symlink",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": -0.005452991452991452
+  },
+  {
+    "key": "work",
+    "ir_count": 4,
+    "ir_percent": 0.03418803418803419,
+    "others_count": 22,
+    "others_percent": 0.022,
+    "diff": 0.012188034188034193
+  },
+  {
+    "key": "instal",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "scap",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": 0.0015470085470085477
+  },
+  {
+    "key": "wikivoyag",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "block",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "requir",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.0014529914529914523
+  },
+  {
+    "key": "org",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 21,
+    "others_percent": 0.021,
+    "diff": -0.012452991452991453
+  },
+  {
+    "key": "wordmark",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "ruwiki",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "flow",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.0024529914529914515
+  },
+  {
+    "key": "let'",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": 0.01864102564102564
+  },
+  {
+    "key": "profil",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "true",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "off",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "turn",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.0034529914529914524
+  },
+  {
+    "key": "test2wiki",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": 0.0015470085470085477
+  },
+  {
+    "key": "separ",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": 0.0015470085470085477
+  },
+  {
+    "key": "mediawiki",
+    "ir_percent": 0,
+    "others_count": 18,
+    "others_percent": 0.018,
+    "diff": -0.018
+  },
+  {
+    "key": "messag",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "help",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "special",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.0034529914529914524
+  },
+  {
+    "key": "alias",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "talk",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 15,
+    "others_percent": 0.015,
+    "diff": -0.006452991452991452
+  },
+  {
+    "key": "creat",
+    "ir_count": 2,
+    "ir_percent": 0.017094017094017096,
+    "others_count": 23,
+    "others_percent": 0.023,
+    "diff": -0.005905982905982904
+  },
+  {
+    "key": "namespac",
+    "ir_percent": 0,
+    "others_count": 32,
+    "others_percent": 0.032,
+    "diff": -0.032
+  },
+  {
+    "key": "adjust",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "case",
+    "ir_count": 2,
+    "ir_percent": 0.017094017094017096,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.011094017094017096
+  },
+  {
+    "key": "point",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.0034529914529914524
+  },
+  {
+    "key": "product",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 19,
+    "others_percent": 0.019,
+    "diff": 0.006641025641025641
+  },
+  {
+    "key": "overrid",
+    "ir_count": 2,
+    "ir_percent": 0.017094017094017096,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": 0.009094017094017096
+  },
+  {
+    "key": "ref",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.0024529914529914515
+  },
+  {
+    "key": "link",
+    "ir_percent": 0,
+    "others_count": 19,
+    "others_percent": 0.019,
+    "diff": -0.019
+  },
+  {
+    "key": "have",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.0025470085470085477
+  },
+  {
+    "key": "eswiki",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "rather",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": 0.0005470085470085477
+  },
+  {
+    "key": "per",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.0034529914529914524
+  },
+  {
+    "key": "pool",
+    "ir_count": 2,
+    "ir_percent": 0.017094017094017096,
+    "others_count": 15,
+    "others_percent": 0.015,
+    "diff": 0.0020940170940170963
+  },
+  {
+    "key": "increas",
+    "ir_count": 2,
+    "ir_percent": 0.017094017094017096,
+    "others_count": 19,
+    "others_percent": 0.019,
+    "diff": -0.0019059829059829038
+  },
+  {
+    "key": "debug",
+    "ir_count": 2,
+    "ir_percent": 0.017094017094017096,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": 0.008094017094017096
+  },
+  {
+    "key": "wgcopyuploadsdomain",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "mariadb",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 22,
+    "others_percent": 0.022,
+    "diff": 0.0036410256410256414
+  },
+  {
+    "key": "mainten",
+    "ir_percent": 0,
+    "others_count": 24,
+    "others_percent": 0.024,
+    "diff": -0.024
+  },
+  {
+    "key": "renam",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.0025470085470085477
+  },
+  {
+    "key": "previous",
+    "ir_count": 2,
+    "ir_percent": 0.017094017094017096,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.011094017094017096
+  },
+  {
+    "key": "filter",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "everywher",
+    "ir_count": 2,
+    "ir_percent": 0.017094017094017096,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": 0.0050940170940170955
+  },
+  {
+    "key": "cach",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": 0.01364102564102564
+  },
+  {
+    "key": "wikidata",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 16,
+    "others_percent": 0.016,
+    "diff": 0.00964102564102564
+  },
+  {
+    "key": "usag",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "stop",
+    "ir_count": 2,
+    "ir_percent": 0.017094017094017096,
+    "others_count": 18,
+    "others_percent": 0.018,
+    "diff": -0.0009059829059829029
+  },
+  {
+    "key": "slowli",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.0025470085470085477
+  },
+  {
+    "key": "check",
+    "ir_count": 2,
+    "ir_percent": 0.017094017094017096,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": 0.0070940170940170955
+  },
+  {
+    "key": "repool",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 26,
+    "others_percent": 0.026,
+    "diff": -0.01745299145299145
+  },
+  {
+    "key": "done",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.00045299145299145145
+  },
+  {
+    "key": "version",
+    "ir_percent": 0,
+    "others_count": 15,
+    "others_percent": 0.015,
+    "diff": -0.015
+  },
+  {
+    "key": "alreadi",
+    "ir_percent": 0,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": -0.014
+  },
+  {
+    "key": "upload",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 15,
+    "others_percent": 0.015,
+    "diff": -0.006452991452991452
+  },
+  {
+    "key": "sysop",
+    "ir_percent": 0,
+    "others_count": 16,
+    "others_percent": 0.016,
+    "diff": -0.016
+  },
+  {
+    "key": "allow",
+    "ir_count": 2,
+    "ir_percent": 0.017094017094017096,
+    "others_count": 18,
+    "others_percent": 0.018,
+    "diff": -0.0009059829059829029
+  },
+  {
+    "key": "cirrussearch",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "search",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.0014529914529914523
+  },
+  {
+    "key": "host",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 16,
+    "others_percent": 0.016,
+    "diff": 0.00964102564102564
+  },
+  {
+    "key": "caus",
+    "ir_count": 5,
+    "ir_percent": 0.042735042735042736,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.03673504273504274
+  },
+  {
+    "key": "handl",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": 0.0005470085470085477
+  },
+  {
+    "key": "limit",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.0014529914529914523
+  },
+  {
+    "key": "request",
+    "ir_count": 4,
+    "ir_percent": 0.03418803418803419,
+    "others_count": 15,
+    "others_percent": 0.015,
+    "diff": 0.019188034188034192
+  },
+  {
+    "key": "group1",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 28,
+    "others_percent": 0.028,
+    "diff": -0.0023589743589743604
+  },
+  {
+    "key": "public",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "depends-on",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": -0.005452991452991452
+  },
+  {
+    "key": "edit",
+    "ir_percent": 0,
+    "others_count": 17,
+    "others_percent": 0.017,
+    "diff": -0.017
+  },
+  {
+    "key": "name",
+    "ir_count": 5,
+    "ir_percent": 0.042735042735042736,
+    "others_count": 17,
+    "others_percent": 0.017,
+    "diff": 0.025735042735042735
+  },
+  {
+    "key": "switch",
+    "ir_count": 5,
+    "ir_percent": 0.042735042735042736,
+    "others_count": 19,
+    "others_percent": 0.019,
+    "diff": 0.023735042735042736
+  },
+  {
+    "key": "weight",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 24,
+    "others_percent": 0.024,
+    "diff": 0.0016410256410256396
+  },
+  {
+    "key": "eqiad",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.00045299145299145145
+  },
+  {
+    "key": "old",
+    "ir_count": 2,
+    "ir_percent": 0.017094017094017096,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": 0.0030940170940170954
+  },
+  {
+    "key": "group0",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 27,
+    "others_percent": 0.027,
+    "diff": -0.018452991452991452
+  },
+  {
+    "key": "flag",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.012
+  },
+  {
+    "key": "featur",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 17,
+    "others_percent": 0.017,
+    "diff": -0.008452991452991453
+  },
+  {
+    "key": "decommiss",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "migrat",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": -0.0044529914529914515
+  },
+  {
+    "key": "valu",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": 0.01264102564102564
+  },
+  {
+    "key": "run",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 18,
+    "others_percent": 0.018,
+    "diff": -0.00945299145299145
+  },
+  {
+    "key": "wikibook",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.0025470085470085477
+  },
+  {
+    "key": "echo",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": 0.0005470085470085477
+  },
+  {
+    "key": "schema",
+    "ir_count": 2,
+    "ir_percent": 0.017094017094017096,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": 0.004094017094017096
+  },
+  {
+    "key": "traffic",
+    "ir_count": 4,
+    "ir_percent": 0.03418803418803419,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": 0.021188034188034194
+  },
+  {
+    "key": "base",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.019641025641025642
+  },
+  {
+    "key": "instanc",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": 0.0015470085470085477
+  },
+  {
+    "key": "cirru",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": -0.005452991452991452
+  },
+  {
+    "key": "longer",
+    "ir_count": 2,
+    "ir_percent": 0.017094017094017096,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": 0.0030940170940170954
+  },
+  {
+    "key": "rollback",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "better",
+    "ir_count": 2,
+    "ir_percent": 0.017094017094017096,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": 0.008094017094017096
+  },
+  {
+    "key": "exist",
+    "ir_count": 5,
+    "ir_percent": 0.042735042735042736,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": 0.034735042735042736
+  },
+  {
+    "key": "dblist",
+    "ir_count": 4,
+    "ir_percent": 0.03418803418803419,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": 0.02518803418803419
+  },
+  {
+    "key": "initialiseset",
+    "ir_count": 4,
+    "ir_percent": 0.03418803418803419,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": 0.02618803418803419
+  },
+  {
+    "key": "copi",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "initi",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.00045299145299145145
+  },
+  {
+    "key": "project",
+    "ir_percent": 0,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": -0.013
+  },
+  {
+    "key": "enwiki",
+    "ir_percent": 0,
+    "others_count": 21,
+    "others_percent": 0.021,
+    "diff": -0.021
+  },
+  {
+    "key": "permiss",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "replac",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.0034529914529914524
+  },
+  {
+    "key": "mobilefrontend",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "undeploi",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "whitelist",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "legaci",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "kernel",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "upgrad",
+    "ir_percent": 0,
+    "others_count": 18,
+    "others_percent": 0.018,
+    "diff": -0.018
+  },
+  {
+    "key": "wikisourc",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.0025470085470085477
+  },
+  {
+    "key": "standard",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "note",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": 0.0005470085470085477
+  },
+  {
+    "key": "hit",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.0025470085470085477
+  },
+  {
+    "key": "url",
+    "ir_percent": 0,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": -0.013
+  },
+  {
+    "key": "languag",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "code",
+    "ir_count": 2,
+    "ir_percent": 0.017094017094017096,
+    "others_count": 19,
+    "others_percent": 0.019,
+    "diff": -0.0019059829059829038
+  },
+  {
+    "key": "job",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": 0.0005470085470085477
+  },
+  {
+    "key": "suggest",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "keep",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "throttl",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "rule",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "wiktionari",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "deploi",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": 0.01164102564102564
+  },
+  {
+    "key": "just",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": 0.015641025641025638
+  },
+  {
+    "key": "abusefilt",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "math",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.0025470085470085477
+  },
+  {
+    "key": "entri",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.0025470085470085477
+  },
+  {
+    "key": "growthexperi",
+    "ir_percent": 0,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": -0.014
+  },
+  {
+    "key": "delet",
+    "ir_count": 2,
+    "ir_percent": 0.017094017094017096,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.011094017094017096
+  },
+  {
+    "key": "meta",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "avoid",
+    "ir_count": 5,
+    "ir_percent": 0.042735042735042736,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": 0.032735042735042734
+  },
+  {
+    "key": "interwiki",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "reduc",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.019641025641025642
+  },
+  {
+    "key": "creation",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "except",
+    "ir_count": 5,
+    "ir_percent": 0.042735042735042736,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": 0.03573504273504274
+  },
+  {
+    "key": "clean",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.0034529914529914524
+  },
+  {
+    "key": "queri",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": 0.0005470085470085477
+  },
+  {
+    "key": "codfw",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.00045299145299145145
+  },
+  {
+    "key": "bit",
+    "ir_count": 2,
+    "ir_percent": 0.017094017094017096,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": 0.009094017094017096
+  },
+  {
+    "key": "grant",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "order",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "recommend",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "collect",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "mysql",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "bot",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "account",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "track",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "redi",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "expect",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": 0.0005470085470085477
+  },
+  {
+    "key": "don't",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "line",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "hhvm",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "tool",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "//gerrit",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "translat",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "sever",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "refer",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": 0.0005470085470085477
+  },
+  {
+    "key": "make",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "condit",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "content",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": 0.0015470085470085477
+  },
+  {
+    "key": "explicitli",
+    "ir_count": 4,
+    "ir_percent": 0.03418803418803419,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.028188034188034193
+  },
+  {
+    "key": "categori",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "two",
+    "ir_count": 3,
+    "ir_percent": 0.02564102564102564,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": 0.01764102564102564
+  },
+  {
+    "key": "english",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "place",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.0025470085470085477
+  },
+  {
+    "key": "abl",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.0025470085470085477
+  },
+  {
+    "key": "onc",
+    "ir_count": 1,
+    "ir_percent": 0.008547008547008548,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.0025470085470085477
+  }
+]

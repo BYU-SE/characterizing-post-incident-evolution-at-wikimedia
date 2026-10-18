@@ -1,0 +1,146 @@
+{
+  "yearly": [
+    {
+      "year": "Pre-2015",
+      "irs": 0,
+      "actionables": 0,
+      "tasks": 10,
+      "codeReviews": 0,
+      "commits": 0,
+      "ocTasks": 0,
+      "ocCodeReviews": 0,
+      "ocCommits": 0
+    },
+    {
+      "year": 2015,
+      "irs": 71,
+      "actionables": 165,
+      "tasks": 109,
+      "codeReviews": 99,
+      "commits": 87,
+      "ocTasks": 63,
+      "ocCodeReviews": 37,
+      "ocCommits": 30
+    },
+    {
+      "year": 2016,
+      "irs": 53,
+      "actionables": 168,
+      "tasks": 111,
+      "codeReviews": 169,
+      "commits": 145,
+      "ocTasks": 47,
+      "ocCodeReviews": 24,
+      "ocCommits": 19
+    },
+    {
+      "year": 2017,
+      "irs": 54,
+      "actionables": 152,
+      "tasks": 100,
+      "codeReviews": 119,
+      "commits": 102,
+      "ocTasks": 42,
+      "ocCodeReviews": 36,
+      "ocCommits": 33
+    },
+    {
+      "year": 2018,
+      "irs": 47,
+      "actionables": 142,
+      "tasks": 103,
+      "codeReviews": 221,
+      "commits": 179,
+      "ocTasks": 46,
+      "ocCodeReviews": 43,
+      "ocCommits": 38
+    },
+    {
+      "year": 2019,
+      "irs": 58,
+      "actionables": 200,
+      "tasks": 101,
+      "codeReviews": 229,
+      "commits": 212,
+      "ocTasks": 50,
+      "ocCodeReviews": 41,
+      "ocCommits": 37
+    },
+    {
+      "year": 2020,
+      "irs": 38,
+      "actionables": 159,
+      "tasks": 81,
+      "codeReviews": 304,
+      "commits": 268,
+      "ocTasks": 56,
+      "ocCodeReviews": 65,
+      "ocCommits": 61
+    },
+    {
+      "year": 2021,
+      "irs": 39,
+      "actionables": 103,
+      "tasks": 57,
+      "codeReviews": 165,
+      "commits": 147,
+      "ocTasks": 45,
+      "ocCodeReviews": 61,
+      "ocCommits": 57
+    },
+    {
+      "year": 2022,
+      "irs": 62,
+      "actionables": 144,
+      "tasks": 65,
+      "codeReviews": 178,
+      "commits": 154,
+      "ocTasks": 47,
+      "ocCodeReviews": 78,
+      "ocCommits": 73
+    },
+    {
+      "year": 2023,
+      "irs": 34,
+      "actionables": 86,
+      "tasks": 44,
+      "codeReviews": 153,
+      "commits": 141,
+      "ocTasks": 45,
+      "ocCodeReviews": 56,
+      "ocCommits": 55
+    },
+    {
+      "year": 2024,
+      "irs": 21,
+      "actionables": 43,
+      "tasks": 29,
+      "codeReviews": 60,
+      "commits": 55,
+      "ocTasks": 51,
+      "ocCodeReviews": 59,
+      "ocCommits": 55
+    },
+    {
+      "year": 2025,
+      "irs": 0,
+      "actionables": 0,
+      "tasks": 0,
+      "codeReviews": 6,
+      "commits": 5,
+      "ocTasks": 0,
+      "ocCodeReviews": 0,
+      "ocCommits": 0
+    }
+  ],
+  "totals": {
+    "irs": 477,
+    "actionables": 1362,
+    "tasks": 810,
+    "codeReviews": 1703,
+    "commits": 1495,
+    "ocTasks": 492,
+    "ocCodeReviews": 500,
+    "ocCommits": 458
+  }
+}

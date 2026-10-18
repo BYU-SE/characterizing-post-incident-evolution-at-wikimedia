@@ -1,0 +1,865 @@
+- ir: 20131118-CirrusSearch
+  tasksCount: 7
+  tasksAfterCount: 5
+  diffs:
+    T59068: -3 # bug reported from the outage and migration (which spanned weeks before)
+    T58798: -9 # bug reported from the outage and migration (which spanned weeks before)
+- ir: 20140313-API-Parsoid
+  tasksCount: 2
+  tasksAfterCount: 0
+  diffs:
+    T83580: -9
+    T59882: -100
+- ir: 20140403-Deploy
+  tasksCount: 2
+  tasksAfterCount: 1
+  diffs:
+    T45722: -450
+- ir: 20150206-EventLogging
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T88692: 0
+- ir: 20150406-Flow
+  tasksCount: 7
+  tasksAfterCount: 6
+  diffs:
+    T89398: -52
+- ir: 20150413-LabsNFS
+  tasksCount: 4
+  tasksAfterCount: 3
+  diffs:
+    T94609: -12
+- ir: 20150424-Parsoid
+  tasksCount: 2
+  tasksAfterCount: 1
+  diffs:
+    T93974: -29
+- ir: 20150503-JobQueueRedis
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T62105: -472
+- ir: 20150519-RESTBase
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T93428: -59
+- ir: 20150527-Cookie
+  tasksCount: 3
+  tasksAfterCount: 2
+  diffs:
+    T100920: .nan # no date on task
+- ir: 20150527-GridEngine
+  tasksCount: 2
+  tasksAfterCount: 0
+  diffs:
+    T63897: -455
+    T90546: -91
+- ir: 20150615-Elasticsearch
+  tasksCount: 3
+  tasksAfterCount: 2
+  diffs:
+    T90889: -108
+- ir: 20150617-LabsNFSOutage
+  tasksCount: 7
+  tasksAfterCount: 2
+  diffs:
+    T102626: 0
+    T95559: -68
+    T102520: -1
+    T94609: -77
+    T102240: -4
+- ir: 20150806-poolcounter
+  tasksCount: 2
+  tasksAfterCount: 1
+  diffs:
+    T105378: -27
+- ir: 20150820-OCSP
+  tasksCount: 4
+  tasksAfterCount: 3
+  diffs:
+    T93927: -147
+- ir: 20150825-Redis
+  tasksCount: 6
+  tasksAfterCount: 4
+  diffs:
+    T91498: -173
+    T62105: -586
+- ir: 20150901-Elasticsearch
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T104962: -55
+- ir: 20150914-extension1
+  tasksCount: 2
+  tasksAfterCount: 0
+  diffs:
+    T112473: 0
+    T99485: -119
+- ir: 20151127-EventLogging
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T118315: -16
+- ir: 20151127-PartialNetworkOutage
+  tasksCount: 2
+  tasksAfterCount: 1
+  diffs:
+    T83992: -535 # Discovered an alarm during another task (that had gone unnoticed for 4 months). Ticket was generalized form of "we should add monitoring" to solve this class of defect
+- ir: 20151214-Math-and-Mathoid
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T116147: -53 # Already existing idea to open up the endpoint (which is risky) and therefore this is largely a request for comments.
+- ir: 20151217-cxserver
+  tasksCount: 2
+  tasksAfterCount: 1
+  diffs:
+    T121072: -6
+- ir: 20160112-20160111-toollabs-SGE
+  tasksCount: 2
+  tasksAfterCount: 1
+  diffs:
+    T122638: -12
+- ir: 20160126-WikimediaDomainRedirection
+  tasksCount: 6
+  tasksAfterCount: 2
+  diffs:
+    T72068: -517
+    T1256: -439
+    T45266: -1132 # Declined eventually. Seems like an idea more than anything else for how to ensure test coverage. Eventually declined and it is a lot of work to do and a lot has changed since initial suggestion
+    T114801: -111
+- ir: 20160204-Phabricator
+  tasksCount: 3
+  tasksAfterCount: 2
+  diffs:
+    T114363: -125
+- ir: 20160212-AllWikisOutage
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T121597: -58
+- ir: 20160503-Wikidata-Query-Service
+  tasksCount: 3
+  tasksAfterCount: 1
+  diffs:
+    T124627: -98 # it says tasks opened in the IR but thats obviously not true. Seems to come from an observation that some machines are idled.
+    T124862: -96 # it says tasks opened in the IR but thats obviously not true. Seems to come from an observation relating to redundancy (around same time as task above, so likely as part of audit or related task)
+- ir: 20160601-MediaWiki
+  tasksCount: 5
+  tasksAfterCount: 4
+  diffs:
+    T121597: -168
+- ir: 20160608-gallium-disk-failure
+  tasksCount: 4
+  tasksAfterCount: 2
+  diffs:
+    T80385: .nan # no date on task
+    T133300: -47 # Unclear. There was a comment about it being outdated, but then it basically sat in feedback for a while.
+- ir: 20160705-commons-replication
+  tasksCount: 2
+  tasksAfterCount: 1
+  diffs:
+    T104459: -369
+- ir: 20160713-MediaWiki
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T38891: -1519
+- ir: 20160807-CI
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T126552: -178
+- ir: 20160809-MediaWiki
+  tasksCount: 2
+  tasksAfterCount: 1
+  diffs:
+    T141785: -7
+- ir: 20160818-Elasticsearch
+  tasksCount: 3
+  tasksAfterCount: 2
+  diffs:
+    T133844: -111
+- ir: 20160829-ToolLabs-Outage
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T126083: -205
+- ir: 20160915-MediaWiki
+  tasksCount: 6
+  tasksAfterCount: 4
+  diffs:
+    T111441: -377
+    T140942: -56
+- ir: 20160924-ORES
+  tasksCount: 2
+  tasksAfterCount: 1
+  diffs:
+    T146090: -4
+- ir: 20161112-OurMine
+  tasksCount: 16
+  tasksAfterCount: 7
+  diffs:
+    T107707: -467
+    T32574: -1905
+    T57420: -1131
+    T145915: -56
+    T100375: -536
+    T150300: -3
+    T11838: -3476
+    T150576: .nan # no date on task
+    T112359: .nan # no date on task
+- ir: 20161204-labservices1001
+  tasksCount: 5
+  tasksAfterCount: 3
+  diffs:
+    T137460: -177
+    T123590: -325
+- ir: 2017-01-11_multiversion
+  tasksCount: 3
+  tasksAfterCount: 0
+  diffs:
+    T121597: -392
+    T154646: -5
+    T152005: -41
+- ir: 2017-03-23_wikibase
+  tasksCount: 3
+  tasksAfterCount: 1
+  diffs:
+    T158360: -34
+    T121597: -463
+- ir: 2017-04-19_ContentTranslation
+  tasksCount: 5
+  tasksAfterCount: 3
+  diffs:
+    T160984: -28
+    T163105: -1
+- ir: 2017-04-19_restbase
+  tasksCount: 5
+  tasksAfterCount: 1
+  diffs:
+    T160570: -34
+    T156199: -84
+    T158908: -54
+    T144431: -230
+- ir: 2017-04-27_archiva
+  tasksCount: 3
+  tasksAfterCount: 2
+  diffs:
+    T158131: -71
+- ir: 2017-04-27_ocg
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T150871: -161
+- ir: 2017-05-03_missing_index
+  tasksCount: 2
+  tasksAfterCount: 1
+  diffs:
+    T162774: -20
+- ir: 2017-06-01_Maps
+  tasksCount: 3
+  tasksAfterCount: 2
+  diffs:
+    T148883: -222
+- ir: 2017-06-07_scrape
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T163233: -49
+- ir: 2017-06-13_ORES
+  tasksCount: 4
+  tasksAfterCount: 2
+  diffs:
+    T146664: -259
+    T157222: -127
+- ir: 2017-07-18_JobQueue
+  tasksCount: 4
+  tasksAfterCount: 0
+  diffs:
+    T129148: -497
+    T167104: -41
+- ir: 2017-09-22_REST-API-alert-pageimage-update
+  tasksCount: 3
+  tasksAfterCount: 2
+  diffs:
+    T150560: -314
+- ir: 2017-11-28_ORES
+  tasksCount: 4
+  tasksAfterCount: 3
+  diffs:
+    T168073: -164
+- ir: 2017-11-30_wdqs
+  tasksCount: 3
+  tasksAfterCount: 2
+  diffs:
+    T178492: -42
+- ir: 20170617-Phabricator-spam
+  tasksCount: 3
+  tasksAfterCount: 2
+  diffs:
+    T162996: -63
+- ir: 20170629-ganeti
+  tasksCount: 8
+  tasksAfterCount: 7
+  diffs:
+    TX: .nan # no date on task
+- ir: 2018-01-29_MediaWiki
+  tasksCount: 5
+  tasksAfterCount: 4
+  diffs:
+    T183999: -26
+- ir: 2018-02-06_Phabricator
+  tasksCount: 2
+  tasksAfterCount: 1
+  diffs:
+    T160714: -326
+- ir: 2018-04-10_Routing
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T191667: -3
+- ir: 2018-04-23_wdqs
+  tasksCount: 2
+  tasksAfterCount: 0
+  diffs:
+    T178492: -186
+    T192759: .nan # no date on task
+- ir: 2018-06-15_phabricator-vandalism
+  tasksCount: 6
+  tasksAfterCount: 3
+  diffs:
+    T197922: .nan # no date on task
+    T199741: .nan # no date on task
+    T198283: .nan # no date on task
+- ir: 2018-06-25_wdqs
+  tasksCount: 4
+  tasksAfterCount: 3
+  diffs:
+    T197645: -5
+- ir: 2018-06-26_LoadBalancers
+  tasksCount: 2
+  tasksAfterCount: 1
+  diffs:
+    T184715: -165
+- ir: 2018-07-11_fundraising_undeliverable_mail
+  tasksCount: 2
+  tasksAfterCount: 1
+  diffs:
+    T161567: -470
+- ir: 2018-07-17_Train
+  tasksCount: 12
+  tasksAfterCount: 10
+  diffs:
+    T199495: -4
+    T199504: -3
+- ir: 2018-07-24_Train
+  tasksCount: 10
+  tasksAfterCount: 8
+  diffs:
+    T172480: -354
+    T198640: -21
+- ir: 2018-07-31_Phabricator
+  tasksCount: 2
+  tasksAfterCount: 1
+  diffs:
+    T172489: -360
+- ir: 2018-08-08_Network
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T201145: -4
+- ir: 2018-10-02_maps
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T186732: -236
+- ir: 2018-10-16_eqiad_parsercache_empty_post-switchover
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T206992: 0 # IR includes outages from before IR date - the 4 and 5 days before the IR date. Its unclear why the IR was tagged with Oct 16th. when outages were on the 10th and 11th.
+- ir: 2018-12-04_Toolforge-Kubernetes
+  tasksCount: 4
+  tasksAfterCount: 3
+  diffs:
+    T211029: 0 # Long standing discussion finally got a ticket right around the time the incident occurred. Incident timing may make the incident a trigger.
+- ir: 2019-02-13_cloudvps
+  tasksCount: 7
+  tasksAfterCount: 6
+  diffs:
+    T90364: -1452
+- ir: 2019-02-13_PAWS
+  tasksCount: 3
+  tasksAfterCount: 0
+  diffs:
+    T193264: -291
+    T196507: -252
+    T194855: -272
+- ir: 2019-02-14_labsdb1005
+  tasksCount: 8
+  tasksAfterCount: 7
+  diffs:
+    T193264: -292
+- ir: 2019-02-20_irc-outage
+  tasksCount: 3
+  tasksAfterCount: 2
+  diffs:
+    T185319: -396
+- ir: 2019-03-20_ORES
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T122676: -1175
+- ir: 2019-03-27_gerrit
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T184086: -447
+- ir: 2019-04-17_Jobqueue
+  tasksCount: 3
+  tasksAfterCount: 0
+  diffs:
+    T215339: -70
+    T172480: -621
+- ir: 2019-05-06_zuul
+  tasksCount: 4
+  tasksAfterCount: 1
+  diffs:
+    T158054: -810
+    T105474: -1395
+    T140297: .nan # no date on task
+- ir: 2019-05-29_NFS-keystone
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T223902: -8
+- ir: 2019-06-04_blubberoid
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T207804: -223
+- ir: 2019-06-13_wdqs
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T219477: -77
+- ir: 2019-06-16_AQS
+  tasksCount: 4
+  tasksAfterCount: 3
+  diffs:
+    T220111: -72
+- ir: 2019-07-15_logstash
+  tasksCount: 5
+  tasksAfterCount: 2
+  diffs:
+    T150106: -981
+    T223483: -59
+- ir: 2019-08-02_api-overload-parsoid
+  tasksCount: 2
+  tasksAfterCount: 0
+  diffs:
+    T228878: -8
+    T167906: -778
+- ir: 2019-08-23_network_codfw
+  tasksCount: 4
+  tasksAfterCount: 0
+  diffs:
+    T167306: -806
+    T228388: -35
+    T169860: -777
+    T196432: -443
+- ir: 2019-09-10_toolforge-kubernetes
+  tasksCount: 5
+  tasksAfterCount: 3
+  diffs:
+    T214513: -229
+    T142862: -1123
+- ir: 2019-09-23_s3_primary_db_master_crash
+  tasksCount: 8
+  tasksAfterCount: 4
+  diffs:
+    T196366: -475
+    T172497: -779
+    T233567: .nan # no date on task
+    T230783: -33
+- ir: 2019-12-10_updateCategoryCounts
+  tasksCount: 3
+  tasksAfterCount: 1
+  diffs:
+    T221795: -229
+    T108255: -1586
+- ir: 2020-01-08_mw-api
+  tasksCount: 6
+  tasksAfterCount: 4
+  diffs:
+    T217924: -305
+    T183146: -750
+- ir: 2020-02-04_app_server_latency
+  tasksCount: 6
+  tasksAfterCount: 4
+  diffs:
+    T243955: -4
+    T235773: .nan # no date on task
+- ir: 2020-02-04_maps
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T228497: -199
+- ir: 2020-02-06_mediawiki
+  tasksCount: 8
+  tasksAfterCount: 3
+  diffs:
+    T217924: -334
+    T223602: -264
+    T220775: -300
+    T243009: -20
+    T183999: -764
+- ir: 2020-02-07_wikidata
+  tasksCount: 4
+  tasksAfterCount: 3
+  diffs:
+    T218412: -328
+- ir: 2020-02-11_caching-proxies
+  tasksCount: 4
+  tasksAfterCount: 3
+  diffs:
+    T244761: 0
+- ir: 2020-02-25_mediawiki_interface_language
+  tasksCount: 3
+  tasksAfterCount: 1
+  diffs:
+    T236104: -126
+- ir: 2020-03-19_parsercache
+  tasksCount: 3
+  tasksAfterCount: 2
+  diffs:
+    T133523: -1420
+- ir: 2020-04-07_Wikidata%27s_wb_items_per_site_table_dropped
+  tasksCount: 4
+  tasksAfterCount: 2
+  diffs:
+    T157651: -1153
+    T205094: -563
+- ir: 2020-05-22_thumbnails
+  tasksCount: 7
+  tasksAfterCount: 4
+  diffs:
+    T240281: -164
+- ir: 2020-05-28_commons_read-only
+  tasksCount: 5
+  tasksAfterCount: 4
+  diffs:
+    T196366: -723
+- ir: 2020-06-11_sessionstore%2Bkubernetes
+  tasksCount: 6
+  tasksAfterCount: 4
+  diffs:
+    T252185: -33
+    T241850: -159
+- ir: 2020-06-25_caching-sessions
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T260098: .nan # no date on task
+- ir: 2020-07-03_Lilypond_down
+  tasksCount: 2
+  tasksAfterCount: 1
+  diffs:
+    T248866: -94
+- ir: 2020-08-12_appservers_oom
+  tasksCount: 2
+  tasksAfterCount: 1
+  diffs:
+    T260329: .nan # no date on task
+- ir: 2020-09-02_wdqs-outage
+  tasksCount: 3
+  tasksAfterCount: 2
+  diffs:
+    T258754: -40
+- ir: 2020-09-08_Rack_D_hosts_outage
+  tasksCount: 4
+  tasksAfterCount: 2
+  diffs:
+    T256112: -76
+    T226703: -438
+- ir: 2020-09-25_s5_replication_lag
+  tasksCount: 3
+  tasksAfterCount: 2
+  diffs:
+    T207253: -708 # From previous IR 2018-10-16_Replication_gap_on_s8_eqiad_hosts. Got some work but then on hold. Just never gotten too.
+- ir: 2021-03-14_MediaWiki_API
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T193050: -1053 # A random thought that came up one day during conversation. We'll get to this next quarter for years. Eventually declined. Its a "cool idea" which was thrown out there largely as a "request for comments"
+- ir: 2021-04-20_MediaWiki_API_slowdown
+  tasksCount: 2
+  tasksAfterCount: 1
+  diffs:
+    T280232: -4
+- ir: 2021-06-29_trwikivoyage_primary_db
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T260297: -320
+- ir: 2021-07-26_ruwikinews_DynamicPageList
+  tasksCount: 5
+  tasksAfterCount: 4
+  diffs:
+    T263220: -311
+- ir: 2021-09-04_appserver_latency
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T277416: .nan # no date on task
+- ir: 2021-09-12_Esams_upload
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T288106: -38
+- ir: 2021-09-18_appserver_latency
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T284419: .nan # no date on task
+- ir: 2021-09-26_appserver_latency
+  tasksCount: 2
+  tasksAfterCount: 0
+  diffs:
+    T291767: .nan # no date on task
+    T251885: .nan # no date on task
+- ir: 2021-10-22_eqiad_return_path_timeouts
+  tasksCount: 3
+  tasksAfterCount: 2
+  diffs:
+    T293726: -2
+- ir: 2021-10-29_graphite
+  tasksCount: 4
+  tasksAfterCount: 2
+  diffs:
+    T294355: -2
+    T228380: -833 # Large movement that required buyin after evaluation of better alternative. This task is to continue and speed up this task (a very long tech debt task, sunsetting of graphite)
+- ir: 2021-11-04_large_file_upload_timeouts
+  tasksCount: 3
+  tasksAfterCount: 2
+  diffs:
+    T283045: -170
+- ir: 2021-11-18_codfw_ipv6_network
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T163996: -1665
+- ir: 2021-11-23_Core_Network_Routing
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T295672: -7
+- ir: 2021-11-25_eventgate-main_outage
+  tasksCount: 4
+  tasksAfterCount: 1
+  diffs:
+    T277677: -252
+    T260663: -463
+    T288685: -105
+- ir: 2022-02-06_wdqs_updater
+  tasksCount: 2
+  tasksAfterCount: 1
+  diffs:
+    T293063: -116
+- ir: 2022-02-22_wdqs_updater_codfw
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T238751: -824
+- ir: 2022-03-04_esams_availability_banner_sampling
+  tasksCount: 2
+  tasksAfterCount: 0
+  diffs:
+    T303155: .nan # no date on task
+    T303326: .nan # no date on task
+- ir: 2022-03-06_wdqs-categories
+  tasksCount: 2
+  tasksAfterCount: 1
+  diffs:
+    T293862: -136
+- ir: 2022-03-27_wdqs_outage
+  tasksCount: 3
+  tasksAfterCount: 0
+  diffs:
+    T293862: -157
+    T242453: -806
+    T303134: -20
+- ir: 2022-05-05_Wikimedia_full_site_outage
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T307501: -1
+- ir: 2022-05-25_de.wikipedia.org
+  tasksCount: 3
+  tasksAfterCount: 2
+  diffs:
+    T309147: .nan # no date on task
+- ir: 2022-06-10_overload_varnish_haproxy
+  tasksCount: 2
+  tasksAfterCount: 1
+  diffs:
+    T310609: .nan # no date on task
+- ir: 2022-07-03_shellbox_request_spike
+  tasksCount: 2
+  tasksAfterCount: 1
+  diffs:
+    T310557: -19
+- ir: 2022-07-11_FrontendUnavailable_cache_text
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T311106: -19
+- ir: 2022-07-11_Shellbox_and_parsoid_saturation
+  tasksCount: 2
+  tasksAfterCount: 0
+  diffs:
+    T312319: -4
+    T314663: .nan # no date on task
+- ir: 2022-07-13_brief_outbound_bandwidth_spike_eqsin
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T310997: .nan # no date on task
+- ir: 2022-08-16_x2_databases_replication_breakage
+  tasksCount: 5
+  tasksAfterCount: 3
+  diffs:
+    T312809: -35
+    T314658: -10
+- ir: 2022-09-09_Elastic_Autocomplete_Missing
+  tasksCount: 2
+  tasksAfterCount: 1
+  diffs:
+    T313095: -56
+- ir: 2022-09-15_sessionstore_quorum_issues
+  tasksCount: 3
+  tasksAfterCount: 2
+  diffs:
+    T253244: -847
+- ir: 2022-10-15_s6_master_failure
+  tasksCount: 2
+  tasksAfterCount: 1
+  diffs:
+    T196366: -1593 # direct task of 2019-09-23_s3_primary_db_master_crash but never done. High level of risk script because its a tool for incidents. Was supposed to start work 7 months before this incident. Just something never gotten too. At one point it was labeled too big.
+- ir: 2022-11-15_asw1-eqsin
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T316532: -77
+- ir: 2022-12-18_World_Cup
+  tasksCount: 3
+  tasksAfterCount: 2
+  diffs:
+    T321961: -50
+- ir: 2023-01-09_API_errors_-_db1143
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T314020: -164
+- ir: 2023-01-10_eqsin_network_outage
+  tasksCount: 3
+  tasksAfterCount: 0
+  diffs:
+    T327265: .nan # no date on task
+    T322529: .nan # no date on task
+    T230835: -1238 # long-standing, low-priority open task that represents a "cool idea" that was considered.
+- ir: 2023-01-24_sessionstore_quorum_issues
+  tasksCount: 3
+  tasksAfterCount: 2
+  diffs:
+    T320401: -105
+- ir: 2023-01-30_kartotherian
+  tasksCount: 4
+  tasksAfterCount: 3
+  diffs:
+    T198901: -1669
+- ir: 2023-04-17_eqiad_LVS
+  tasksCount: 2
+  tasksAfterCount: 1
+  diffs:
+    T334703: -3
+- ir: 2023-05-02_Phabricator_outage_during_GitLab_maintenance
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T333347: -34
+- ir: 2023-05-05_prometheus_down_in_ulsfo_and_eqsin
+  tasksCount: 4
+  tasksAfterCount: 1
+  diffs:
+    T335406: -8
+    T309979: -332
+- ir: 2023-05-19_videoscaler_jobrunner
+  tasksCount: 2
+  tasksAfterCount: 1
+  diffs:
+    T279100: -777
+- ir: 2023-05-25_eqiad_LVS
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T334703: -41
+- ir: 2023-05-28_wikireplicas_lag
+  tasksCount: 1
+  tasksAfterCount: 0
+  diffs:
+    T337446: -3
+- ir: 2023-09-20_Elasticsearch_unavailable
+  tasksCount: 2
+  tasksAfterCount: 1
+  diffs:
+    T285347: -819
+- ir: 2023-09-27_Kafka-jumbo_mirror-makers
+  tasksCount: 2
+  tasksAfterCount: 1
+  diffs:
+    T300102: -608
+- ir: 2023-09-28_mw-page-content-change-enrich
+  tasksCount: 3
+  tasksAfterCount: 2
+  diffs:
+    T345806: -20
+- ir: 2023-09-29_CloudVPS_vms_losing_network_connectivity
+  tasksCount: 4
+  tasksAfterCount: 3
+  diffs:
+    T288053: -785
+- ir: 2024-02-28_etcd-mirror
+  tasksCount: 3
+  tasksAfterCount: 1
+  diffs:
+    T350565: -113
+    T317537: -533
+- ir: 2024-06-12_WMCS_toolforge_k8s_control_plane
+  tasksCount: 3
+  tasksAfterCount: 2
+  diffs:
+    T333934: -434
+- ir: 2024-09-23_pc1013_hardware_issue
+  tasksCount: 2
+  tasksAfterCount: 1
+  diffs:
+    T373037: -32
+- ir: 2024-09-28_cr2-eqsin_down
+  tasksCount: 2
+  tasksAfterCount: 1
+  diffs:
+    T375961: .nan # no date on task
+- ir: 2024-11-25_WMCS_proxy_nginx_failure
+  tasksCount: 2
+  tasksAfterCount: 1
+  diffs:
+    T379927: -10
+- ir: 2025-03-12_cirrus-streaming-updater_overloaded_ES_Cluster
+  tasksCount: 4
+  tasksAfterCount: 3
+  diffs:
+    T371069: -229

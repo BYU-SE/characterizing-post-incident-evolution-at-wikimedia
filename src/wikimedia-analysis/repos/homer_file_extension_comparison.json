@@ -1,0 +1,41 @@
+{
+  "irs": {
+    "yaml": 26,
+    "py": 91,
+    "rst": 16,
+    "conf": 12,
+    "netbox": 1,
+    "transports": 2,
+    "ini": 4,
+    "devices": 1,
+    "config": 1,
+    "exceptions": 1,
+    "coveragerc": 1,
+    "gitignore": 1,
+    "": 3,
+    "css": 1,
+    "cfg": 1
+  },
+  "others": {
+    "py": 235,
+    "svc": 1,
+    "rst": 35,
+    "yaml": 20,
+    "templates": 2,
+    "gitignore": 6,
+    "devices": 1,
+    "netbox": 1,
+    "transports": 2,
+    "ini": 15,
+    "cfg": 3,
+    "": 1,
+    "conf": 2,
+    "diff": 1,
+    "typed": 1,
+    "json": 3,
+    "gql": 1,
+    "wmfconfig": 1,
+    "interactive": 1,
+    "gitreview": 1
+  }
+}

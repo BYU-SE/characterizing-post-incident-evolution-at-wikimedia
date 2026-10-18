@@ -1,0 +1,63 @@
+  Total commits: 112478
+  Commits in period (2015-01-01 to 2020-01-01): 42966
+  Post-incident commits: 773
+  Post-incident commits in period: 763
+
+  Total commits: 33173
+  Commits in period (2015-01-01 to 2020-01-01): 15938
+  Post-incident commits: 119
+  Post-incident commits in period: 118
+
+  Total commits: 130815
+  Commits in period (2015-01-01 to 2020-01-01): 33102
+  Post-incident commits: 94
+  Post-incident commits in period: 78
+
+  Total commits: 8255
+  Commits in period (2015-01-01 to 2020-01-01): 477
+  Post-incident commits: 53
+  Post-incident commits in period: 53
+
+  Total commits: 42169
+  Commits in period (2015-01-01 to 2020-01-01): 15260
+  Post-incident commits: 42
+  Post-incident commits in period: 36
+
+  Total commits: 7749
+  Commits in period (2015-01-01 to 2020-01-01): 3276
+  Post-incident commits: 40
+  Post-incident commits in period: 40
+
+  Total commits: 1622
+  Commits in period (2015-01-01 to 2020-01-01): 162
+  Post-incident commits: 27
+  Post-incident commits in period: 26
+
+  Total commits: 163
+  Commits in period (2015-01-01 to 2020-01-01): 44
+  Post-incident commits: 22
+  Post-incident commits in period: 22
+
+  Total commits: 1345
+  Commits in period (2015-01-01 to 2020-01-01): 298
+  Post-incident commits: 17
+  Post-incident commits in period: 17
+
+  Total commits: 14009
+  Commits in period (2015-01-01 to 2020-01-01): 7083
+  Post-incident commits: 15
+  Post-incident commits in period: 15
+
+Summary:
+Project					Total	Period	Post-Inc	Post-Inc-Period
+================================================================================
+operations/puppet                                 	112478	42966	773	763
+operations/mediawiki-config                       	33173	15938	119	118
+mediawiki/core                                    	130815	33102	94	78
+operations/deployment-charts                      	8255	477	53	53
+mediawiki/extensions/Wikibase                     	42169	15260	42	36
+operations/dns                                    	7749	3276	40	40
+operations/cookbooks                              	1622	162	27	26
+operations/software/homer                         	163	44	22	22
+operations/homer/public                           	1345	298	17	17
+integration/config                                	14009	7083	15	15

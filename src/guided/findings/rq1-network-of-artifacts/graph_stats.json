@@ -1,0 +1,21 @@
+{
+  "total_nodes": 6574,
+  "total_edges": 13256,
+  "nodes_by_type": {
+    "IR": 560,
+    "ActionItem": 1509,
+    "Task": 2006,
+    "CodeReview": 2499
+  },
+  "edges_by_type": {
+    "has_actionable": 1531,
+    "references_task": 948,
+    "references_code_review": 141,
+    "has_code_review": 2414,
+    "has_subtask": 1889,
+    "belongs_to_ir": 1531,
+    "mentions_ir": 0,
+    "mentions_task": 2560,
+    "mentions_code_review": 2242
+  }
+}

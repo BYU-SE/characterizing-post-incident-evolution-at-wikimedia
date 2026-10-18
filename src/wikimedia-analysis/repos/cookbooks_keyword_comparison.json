@@ -1,0 +1,4089 @@
+[
+  {
+    "key": "switchdc",
+    "ir_count": 7,
+    "ir_percent": 0.30434782608695654,
+    "others_count": 61,
+    "others_percent": 0.061,
+    "diff": 0.24334782608695654
+  },
+  {
+    "key": "add",
+    "ir_count": 10,
+    "ir_percent": 0.43478260869565216,
+    "others_count": 274,
+    "others_percent": 0.274,
+    "diff": 0.16078260869565214
+  },
+  {
+    "key": "sre",
+    "ir_count": 13,
+    "ir_percent": 0.5652173913043478,
+    "others_count": 650,
+    "others_percent": 0.65,
+    "diff": -0.08478260869565224
+  },
+  {
+    "key": "bug",
+    "ir_count": 23,
+    "ir_percent": 1,
+    "others_count": 454,
+    "others_percent": 0.454,
+    "diff": 0.546
+  },
+  {
+    "key": "change-id",
+    "ir_count": 23,
+    "ir_percent": 1,
+    "others_count": 999,
+    "others_percent": 0.999,
+    "diff": 0.0010000000000000009
+  },
+  {
+    "key": "t330771",
+    "ir_count": 7,
+    "ir_percent": 0.30434782608695654,
+    "others_percent": 0,
+    "diff": 0.30434782608695654
+  },
+  {
+    "key": "provis",
+    "ir_percent": 0,
+    "others_count": 42,
+    "others_percent": 0.042,
+    "diff": -0.042
+  },
+  {
+    "key": "new",
+    "ir_count": 2,
+    "ir_percent": 0.08695652173913043,
+    "others_count": 118,
+    "others_percent": 0.118,
+    "diff": -0.03104347826086956
+  },
+  {
+    "key": "network",
+    "ir_percent": 0,
+    "others_count": 38,
+    "others_percent": 0.038,
+    "diff": -0.038
+  },
+  {
+    "key": "devic",
+    "ir_percent": 0,
+    "others_count": 16,
+    "others_percent": 0.016,
+    "diff": -0.016
+  },
+  {
+    "key": "via",
+    "ir_percent": 0,
+    "others_count": 16,
+    "others_percent": 0.016,
+    "diff": -0.016
+  },
+  {
+    "key": "cookbook",
+    "ir_count": 5,
+    "ir_percent": 0.21739130434782608,
+    "others_count": 313,
+    "others_percent": 0.313,
+    "diff": -0.09560869565217392
+  },
+  {
+    "key": "mediawiki",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 55,
+    "others_percent": 0.055,
+    "diff": -0.011521739130434784
+  },
+  {
+    "key": "servic",
+    "ir_count": 4,
+    "ir_percent": 0.17391304347826086,
+    "others_count": 65,
+    "others_percent": 0.065,
+    "diff": 0.10891304347826086
+  },
+  {
+    "key": "contain",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "consist",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "end",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 21,
+    "others_percent": 0.021,
+    "diff": 0.022478260869565215
+  },
+  {
+    "key": "part",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 23,
+    "others_percent": 0.023,
+    "diff": 0.020478260869565217
+  },
+  {
+    "key": "argument",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 50,
+    "others_percent": 0.05,
+    "diff": -0.006521739130434787
+  },
+  {
+    "key": "error",
+    "ir_count": 2,
+    "ir_percent": 0.08695652173913043,
+    "others_count": 54,
+    "others_percent": 0.054,
+    "diff": 0.03295652173913043
+  },
+  {
+    "key": "need",
+    "ir_percent": 0,
+    "others_count": 100,
+    "others_percent": 0.1,
+    "diff": -0.1
+  },
+  {
+    "key": "not",
+    "ir_count": 3,
+    "ir_percent": 0.13043478260869565,
+    "others_count": 164,
+    "others_percent": 0.164,
+    "diff": -0.03356521739130436
+  },
+  {
+    "key": "statu",
+    "ir_percent": 0,
+    "others_count": 25,
+    "others_percent": 0.025,
+    "diff": -0.025
+  },
+  {
+    "key": "version",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 42,
+    "others_percent": 0.042,
+    "diff": 0.0014782608695652136
+  },
+  {
+    "key": "upgrad",
+    "ir_count": 3,
+    "ir_percent": 0.13043478260869565,
+    "others_count": 52,
+    "others_percent": 0.052,
+    "diff": 0.07843478260869566
+  },
+  {
+    "key": "attempt",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "firmwar",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "keep",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "correct",
+    "ir_percent": 0,
+    "others_count": 23,
+    "others_percent": 0.023,
+    "diff": -0.023
+  },
+  {
+    "key": "alreadi",
+    "ir_percent": 0,
+    "others_count": 24,
+    "others_percent": 0.024,
+    "diff": -0.024
+  },
+  {
+    "key": "upgrade-firmwar",
+    "ir_percent": 0,
+    "others_count": 27,
+    "others_percent": 0.027,
+    "diff": -0.027
+  },
+  {
+    "key": "logic",
+    "ir_percent": 0,
+    "others_count": 33,
+    "others_percent": 0.033,
+    "diff": -0.033
+  },
+  {
+    "key": "hardwar",
+    "ir_percent": 0,
+    "others_count": 34,
+    "others_percent": 0.034,
+    "diff": -0.034
+  },
+  {
+    "key": "skip",
+    "ir_percent": 0,
+    "others_count": 36,
+    "others_percent": 0.036,
+    "diff": -0.036
+  },
+  {
+    "key": "current",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 53,
+    "others_percent": 0.053,
+    "diff": -0.009521739130434782
+  },
+  {
+    "key": "set",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 71,
+    "others_percent": 0.071,
+    "diff": -0.027521739130434777
+  },
+  {
+    "key": "updat",
+    "ir_count": 3,
+    "ir_percent": 0.13043478260869565,
+    "others_count": 72,
+    "others_percent": 0.072,
+    "diff": 0.058434782608695654
+  },
+  {
+    "key": "parser",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "implement",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "class",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 30,
+    "others_percent": 0.03,
+    "diff": 0.013478260869565217
+  },
+  {
+    "key": "default",
+    "ir_percent": 0,
+    "others_count": 39,
+    "others_percent": 0.039,
+    "diff": -0.039
+  },
+  {
+    "key": "spicerack",
+    "ir_percent": 0,
+    "others_count": 61,
+    "others_percent": 0.061,
+    "diff": -0.061
+  },
+  {
+    "key": "cookbookbas",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "simplifi",
+    "ir_percent": 0,
+    "others_count": 21,
+    "others_percent": 0.021,
+    "diff": -0.021
+  },
+  {
+    "key": "method",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 23,
+    "others_percent": 0.023,
+    "diff": 0.020478260869565217
+  },
+  {
+    "key": "api",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 31,
+    "others_percent": 0.031,
+    "diff": 0.012478260869565216
+  },
+  {
+    "key": "call",
+    "ir_percent": 0,
+    "others_count": 57,
+    "others_percent": 0.057,
+    "diff": -0.057
+  },
+  {
+    "key": "roll-restart-mast",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "improv",
+    "ir_percent": 0,
+    "others_count": 34,
+    "others_percent": 0.034,
+    "diff": -0.034
+  },
+  {
+    "key": "hadoop",
+    "ir_percent": 0,
+    "others_count": 50,
+    "others_percent": 0.05,
+    "diff": -0.05
+  },
+  {
+    "key": "log",
+    "ir_count": 3,
+    "ir_percent": 0.13043478260869565,
+    "others_count": 58,
+    "others_percent": 0.058,
+    "diff": 0.07243478260869565
+  },
+  {
+    "key": "init-hadoop-work",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "usag",
+    "ir_percent": 0,
+    "others_count": 15,
+    "others_percent": 0.015,
+    "diff": -0.015
+  },
+  {
+    "key": "run",
+    "ir_count": 3,
+    "ir_percent": 0.13043478260869565,
+    "others_count": 151,
+    "others_percent": 0.151,
+    "diff": -0.020565217391304347
+  },
+  {
+    "key": "fix",
+    "ir_count": 5,
+    "ir_percent": 0.21739130434782608,
+    "others_count": 199,
+    "others_percent": 0.199,
+    "diff": 0.01839130434782607
+  },
+  {
+    "key": "automat",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 21,
+    "others_percent": 0.021,
+    "diff": 0.022478260869565215
+  },
+  {
+    "key": "dhcp",
+    "ir_percent": 0,
+    "others_count": 18,
+    "others_percent": 0.018,
+    "diff": -0.018
+  },
+  {
+    "key": "manag",
+    "ir_percent": 0,
+    "others_count": 25,
+    "others_percent": 0.025,
+    "diff": -0.025
+  },
+  {
+    "key": "record",
+    "ir_count": 3,
+    "ir_percent": 0.13043478260869565,
+    "others_count": 18,
+    "others_percent": 0.018,
+    "diff": 0.11243478260869565
+  },
+  {
+    "key": "migrat",
+    "ir_percent": 0,
+    "others_count": 24,
+    "others_percent": 0.024,
+    "diff": -0.024
+  },
+  {
+    "key": "will",
+    "ir_count": 2,
+    "ir_percent": 0.08695652173913043,
+    "others_count": 80,
+    "others_percent": 0.08,
+    "diff": 0.006956521739130431
+  },
+  {
+    "key": "hardcod",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "we'v",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "paramet",
+    "ir_percent": 0,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": -0.013
+  },
+  {
+    "key": "temporari",
+    "ir_percent": 0,
+    "others_count": 16,
+    "others_percent": 0.016,
+    "diff": -0.016
+  },
+  {
+    "key": "onc",
+    "ir_percent": 0,
+    "others_count": 21,
+    "others_percent": 0.021,
+    "diff": -0.021
+  },
+  {
+    "key": "experiment",
+    "ir_percent": 0,
+    "others_count": 22,
+    "others_percent": 0.022,
+    "diff": -0.022
+  },
+  {
+    "key": "instal",
+    "ir_percent": 0,
+    "others_count": 22,
+    "others_percent": 0.022,
+    "diff": -0.022
+  },
+  {
+    "key": "code",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 27,
+    "others_percent": 0.027,
+    "diff": 0.016478260869565216
+  },
+  {
+    "key": "list",
+    "ir_count": 2,
+    "ir_percent": 0.08695652173913043,
+    "others_count": 44,
+    "others_percent": 0.044,
+    "diff": 0.042956521739130435
+  },
+  {
+    "key": "case",
+    "ir_count": 2,
+    "ir_percent": 0.08695652173913043,
+    "others_count": 52,
+    "others_percent": 0.052,
+    "diff": 0.034956521739130435
+  },
+  {
+    "key": "support",
+    "ir_percent": 0,
+    "others_count": 59,
+    "others_percent": 0.059,
+    "diff": -0.059
+  },
+  {
+    "key": "remov",
+    "ir_percent": 0,
+    "others_count": 96,
+    "others_percent": 0.096,
+    "diff": -0.096
+  },
+  {
+    "key": "reimag",
+    "ir_percent": 0,
+    "others_count": 112,
+    "others_percent": 0.112,
+    "diff": -0.112
+  },
+  {
+    "key": "host",
+    "ir_count": 3,
+    "ir_percent": 0.13043478260869565,
+    "others_count": 282,
+    "others_percent": 0.282,
+    "diff": -0.15156521739130432
+  },
+  {
+    "key": "restart",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 63,
+    "others_percent": 0.063,
+    "diff": -0.019521739130434784
+  },
+  {
+    "key": "puppet",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 96,
+    "others_percent": 0.096,
+    "diff": -0.052521739130434786
+  },
+  {
+    "key": "place",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "let",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "copi",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "similar",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "daemon",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "doesn't",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 23,
+    "others_percent": 0.023,
+    "diff": 0.020478260869565217
+  },
+  {
+    "key": "order",
+    "ir_percent": 0,
+    "others_count": 23,
+    "others_percent": 0.023,
+    "diff": -0.023
+  },
+  {
+    "key": "don't",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 37,
+    "others_percent": 0.037,
+    "diff": 0.006478260869565218
+  },
+  {
+    "key": "disabl",
+    "ir_percent": 0,
+    "others_count": 38,
+    "others_percent": 0.038,
+    "diff": -0.038
+  },
+  {
+    "key": "state",
+    "ir_percent": 0,
+    "others_count": 38,
+    "others_percent": 0.038,
+    "diff": -0.038
+  },
+  {
+    "key": "requir",
+    "ir_percent": 0,
+    "others_count": 38,
+    "others_percent": 0.038,
+    "diff": -0.038
+  },
+  {
+    "key": "instead",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 59,
+    "others_percent": 0.059,
+    "diff": -0.01552173913043478
+  },
+  {
+    "key": "reboot",
+    "ir_percent": 0,
+    "others_count": 48,
+    "others_percent": 0.048,
+    "diff": -0.048
+  },
+  {
+    "key": "machin",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "prepar",
+    "ir_count": 3,
+    "ir_percent": 0.13043478260869565,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": 0.12343478260869564
+  },
+  {
+    "key": "type",
+    "ir_percent": 0,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": -0.014
+  },
+  {
+    "key": "appli",
+    "ir_percent": 0,
+    "others_count": 16,
+    "others_percent": 0.016,
+    "diff": -0.016
+  },
+  {
+    "key": "instanc",
+    "ir_percent": 0,
+    "others_count": 22,
+    "others_percent": 0.022,
+    "diff": -0.022
+  },
+  {
+    "key": "ganeti",
+    "ir_percent": 0,
+    "others_count": 65,
+    "others_percent": 0.065,
+    "diff": -0.065
+  },
+  {
+    "key": "messag",
+    "ir_count": 2,
+    "ir_percent": 0.08695652173913043,
+    "others_count": 36,
+    "others_percent": 0.036,
+    "diff": 0.050956521739130435
+  },
+  {
+    "key": "downtim",
+    "ir_percent": 0,
+    "others_count": 36,
+    "others_percent": 0.036,
+    "diff": -0.036
+  },
+  {
+    "key": "effect",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "result",
+    "ir_percent": 0,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": -0.013
+  },
+  {
+    "key": "base",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 19,
+    "others_percent": 0.019,
+    "diff": 0.024478260869565217
+  },
+  {
+    "key": "variabl",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "clone",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.012
+  },
+  {
+    "key": "fqdn",
+    "ir_percent": 0,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": -0.014
+  },
+  {
+    "key": "renumber-nod",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.012
+  },
+  {
+    "key": "specifi",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 15,
+    "others_percent": 0.015,
+    "diff": 0.028478260869565217
+  },
+  {
+    "key": "allow",
+    "ir_count": 2,
+    "ir_percent": 0.08695652173913043,
+    "others_count": 70,
+    "others_percent": 0.07,
+    "diff": 0.016956521739130426
+  },
+  {
+    "key": "session",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "post",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "timeout",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "directli",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "redfish",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.012
+  },
+  {
+    "key": "request",
+    "ir_percent": 0,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": -0.014
+  },
+  {
+    "key": "switch",
+    "ir_count": 2,
+    "ir_percent": 0.08695652173913043,
+    "others_count": 29,
+    "others_percent": 0.029,
+    "diff": 0.057956521739130434
+  },
+  {
+    "key": "cumin",
+    "ir_percent": 0,
+    "others_count": 17,
+    "others_percent": 0.017,
+    "diff": -0.017
+  },
+  {
+    "key": "alias",
+    "ir_percent": 0,
+    "others_count": 18,
+    "others_percent": 0.018,
+    "diff": -0.018
+  },
+  {
+    "key": "full",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "variou",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "roll",
+    "ir_percent": 0,
+    "others_count": 16,
+    "others_percent": 0.016,
+    "diff": -0.016
+  },
+  {
+    "key": "perform",
+    "ir_percent": 0,
+    "others_count": 19,
+    "others_percent": 0.019,
+    "diff": -0.019
+  },
+  {
+    "key": "oper",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 43,
+    "others_percent": 0.043,
+    "diff": 0.0004782608695652196
+  },
+  {
+    "key": "core",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": 0.03647826086956522
+  },
+  {
+    "key": "alwai",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "least",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": 0.034478260869565215
+  },
+  {
+    "key": "lot",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "small",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "rolling-oper",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "differ",
+    "ir_count": 2,
+    "ir_percent": 0.08695652173913043,
+    "others_count": 21,
+    "others_percent": 0.021,
+    "diff": 0.06595652173913043
+  },
+  {
+    "key": "refactor",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 24,
+    "others_percent": 0.024,
+    "diff": 0.019478260869565216
+  },
+  {
+    "key": "gener",
+    "ir_percent": 0,
+    "others_count": 29,
+    "others_percent": 0.029,
+    "diff": -0.029
+  },
+  {
+    "key": "elasticsearch",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 32,
+    "others_percent": 0.032,
+    "diff": 0.011478260869565216
+  },
+  {
+    "key": "option",
+    "ir_percent": 0,
+    "others_count": 39,
+    "others_percent": 0.039,
+    "diff": -0.039
+  },
+  {
+    "key": "hostnam",
+    "ir_percent": 0,
+    "others_count": 16,
+    "others_percent": 0.016,
+    "diff": -0.016
+  },
+  {
+    "key": "server",
+    "ir_percent": 0,
+    "others_count": 38,
+    "others_percent": 0.038,
+    "diff": -0.038
+  },
+  {
+    "key": "pass",
+    "ir_percent": 0,
+    "others_count": 40,
+    "others_percent": 0.04,
+    "diff": -0.04
+  },
+  {
+    "key": "netbox",
+    "ir_percent": 0,
+    "others_count": 66,
+    "others_percent": 0.066,
+    "diff": -0.066
+  },
+  {
+    "key": "interfac",
+    "ir_percent": 0,
+    "others_count": 19,
+    "others_percent": 0.019,
+    "diff": -0.019
+  },
+  {
+    "key": "properli",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "catch",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": 0.03147826086956522
+  },
+  {
+    "key": "get",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.012
+  },
+  {
+    "key": "mgmt",
+    "ir_percent": 0,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": -0.013
+  },
+  {
+    "key": "miss",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 16,
+    "others_percent": 0.016,
+    "diff": 0.027478260869565216
+  },
+  {
+    "key": "script",
+    "ir_percent": 0,
+    "others_count": 27,
+    "others_percent": 0.027,
+    "diff": -0.027
+  },
+  {
+    "key": "icinga",
+    "ir_percent": 0,
+    "others_count": 29,
+    "others_percent": 0.029,
+    "diff": -0.029
+  },
+  {
+    "key": "work",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 34,
+    "others_percent": 0.034,
+    "diff": 0.009478260869565214
+  },
+  {
+    "key": "decommiss",
+    "ir_percent": 0,
+    "others_count": 49,
+    "others_percent": 0.049,
+    "diff": -0.049
+  },
+  {
+    "key": "fail",
+    "ir_percent": 0,
+    "others_count": 66,
+    "others_percent": 0.066,
+    "diff": -0.066
+  },
+  {
+    "key": "kerbero",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "file",
+    "ir_count": 2,
+    "ir_percent": 0.08695652173913043,
+    "others_count": 36,
+    "others_percent": 0.036,
+    "diff": 0.050956521739130435
+  },
+  {
+    "key": "config",
+    "ir_percent": 0,
+    "others_count": 24,
+    "others_percent": 0.024,
+    "diff": -0.024
+  },
+  {
+    "key": "auth",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "repositori",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "basic",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "store",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "backup",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": 0.03147826086956522
+  },
+  {
+    "key": "mai",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": 0.03147826086956522
+  },
+  {
+    "key": "autom",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.012
+  },
+  {
+    "key": "delet",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.012
+  },
+  {
+    "key": "clean",
+    "ir_percent": 0,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": -0.013
+  },
+  {
+    "key": "match",
+    "ir_percent": 0,
+    "others_count": 23,
+    "others_percent": 0.023,
+    "diff": -0.023
+  },
+  {
+    "key": "manual",
+    "ir_percent": 0,
+    "others_count": 24,
+    "others_percent": 0.024,
+    "diff": -0.024
+  },
+  {
+    "key": "exampl",
+    "ir_count": 2,
+    "ir_percent": 0.08695652173913043,
+    "others_count": 28,
+    "others_percent": 0.028,
+    "diff": 0.058956521739130435
+  },
+  {
+    "key": "step",
+    "ir_percent": 0,
+    "others_count": 32,
+    "others_percent": 0.032,
+    "diff": -0.032
+  },
+  {
+    "key": "first",
+    "ir_percent": 0,
+    "others_count": 36,
+    "others_percent": 0.036,
+    "diff": -0.036
+  },
+  {
+    "key": "connect",
+    "ir_percent": 0,
+    "others_count": 16,
+    "others_percent": 0.016,
+    "diff": -0.016
+  },
+  {
+    "key": "continu",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "switchov",
+    "ir_count": 2,
+    "ir_percent": 0.08695652173913043,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": 0.07595652173913044
+  },
+  {
+    "key": "chang",
+    "ir_count": 2,
+    "ir_percent": 0.08695652173913043,
+    "others_count": 104,
+    "others_percent": 0.104,
+    "diff": -0.017043478260869563
+  },
+  {
+    "key": "point",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.03747826086956522
+  },
+  {
+    "key": "read-onli",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "didn't",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": 0.03647826086956522
+  },
+  {
+    "key": "found",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "entri",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "down",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "correctli",
+    "ir_count": 2,
+    "ir_percent": 0.08695652173913043,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": 0.07595652173913044
+  },
+  {
+    "key": "due",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "pick",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": 0.03247826086956522
+  },
+  {
+    "key": "report",
+    "ir_percent": 0,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": -0.013
+  },
+  {
+    "key": "master",
+    "ir_count": 4,
+    "ir_percent": 0.17391304347826086,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": 0.16091304347826085
+  },
+  {
+    "key": "process",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": 0.03047826086956522
+  },
+  {
+    "key": "last",
+    "ir_percent": 0,
+    "others_count": 17,
+    "others_percent": 0.017,
+    "diff": -0.017
+  },
+  {
+    "key": "caus",
+    "ir_percent": 0,
+    "others_count": 20,
+    "others_percent": 0.02,
+    "diff": -0.02
+  },
+  {
+    "key": "mode",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 21,
+    "others_percent": 0.021,
+    "diff": 0.022478260869565215
+  },
+  {
+    "key": "try",
+    "ir_percent": 0,
+    "others_count": 23,
+    "others_percent": 0.023,
+    "diff": -0.023
+  },
+  {
+    "key": "start",
+    "ir_percent": 0,
+    "others_count": 30,
+    "others_percent": 0.03,
+    "diff": -0.03
+  },
+  {
+    "key": "exist",
+    "ir_percent": 0,
+    "others_count": 32,
+    "others_percent": 0.032,
+    "diff": -0.032
+  },
+  {
+    "key": "typo",
+    "ir_percent": 0,
+    "others_count": 26,
+    "others_percent": 0.026,
+    "diff": -0.026
+  },
+  {
+    "key": "time",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 36,
+    "others_percent": 0.036,
+    "diff": 0.007478260869565219
+  },
+  {
+    "key": "check",
+    "ir_count": 4,
+    "ir_percent": 0.17391304347826086,
+    "others_count": 79,
+    "others_percent": 0.079,
+    "diff": 0.09491304347826086
+  },
+  {
+    "key": "extract",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.03747826086956522
+  },
+  {
+    "key": "none",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "two",
+    "ir_count": 2,
+    "ir_percent": 0.08695652173913043,
+    "others_count": 21,
+    "others_percent": 0.021,
+    "diff": 0.06595652173913043
+  },
+  {
+    "key": "depool",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 35,
+    "others_percent": 0.035,
+    "diff": 0.008478260869565213
+  },
+  {
+    "key": "simpler",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "endpoint",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "renew-cert",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "queri",
+    "ir_percent": 0,
+    "others_count": 24,
+    "others_percent": 0.024,
+    "diff": -0.024
+  },
+  {
+    "key": "name",
+    "ir_count": 2,
+    "ir_percent": 0.08695652173913043,
+    "others_count": 41,
+    "others_percent": 0.041,
+    "diff": 0.04595652173913043
+  },
+  {
+    "key": "there'",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "drop",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "certain",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "either",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "turn",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "broken",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "success",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "batch",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "print",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.012
+  },
+  {
+    "key": "confirm",
+    "ir_percent": 0,
+    "others_count": 32,
+    "others_percent": 0.032,
+    "diff": -0.032
+  },
+  {
+    "key": "failur",
+    "ir_percent": 0,
+    "others_count": 32,
+    "others_percent": 0.032,
+    "diff": -0.032
+  },
+  {
+    "key": "user",
+    "ir_percent": 0,
+    "others_count": 47,
+    "others_percent": 0.047,
+    "diff": -0.047
+  },
+  {
+    "key": "data",
+    "ir_percent": 0,
+    "others_count": 25,
+    "others_percent": 0.025,
+    "diff": -0.025
+  },
+  {
+    "key": "common",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": 0.03047826086956522
+  },
+  {
+    "key": "kei",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "access",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "load",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "look",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "sync-netbox-hiera",
+    "ir_percent": 0,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": -0.014
+  },
+  {
+    "key": "actual",
+    "ir_percent": 0,
+    "others_count": 16,
+    "others_percent": 0.016,
+    "diff": -0.016
+  },
+  {
+    "key": "featur",
+    "ir_percent": 0,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": -0.014
+  },
+  {
+    "key": "intern",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "yaml",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "address",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": 0.03647826086956522
+  },
+  {
+    "key": "safe",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "port",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.012
+  },
+  {
+    "key": "initi",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.012
+  },
+  {
+    "key": "output",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 20,
+    "others_percent": 0.02,
+    "diff": 0.023478260869565216
+  },
+  {
+    "key": "happen",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 20,
+    "others_percent": 0.02,
+    "diff": 0.023478260869565216
+  },
+  {
+    "key": "ensur",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 26,
+    "others_percent": 0.026,
+    "diff": 0.017478260869565217
+  },
+  {
+    "key": "problem",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "job",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "etc",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "like",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "select",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": 0.03047826086956522
+  },
+  {
+    "key": "reason",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 27,
+    "others_percent": 0.027,
+    "diff": 0.016478260869565216
+  },
+  {
+    "key": "node",
+    "ir_percent": 0,
+    "others_count": 53,
+    "others_percent": 0.053,
+    "diff": -0.053
+  },
+  {
+    "key": "cluster",
+    "ir_count": 3,
+    "ir_percent": 0.13043478260869565,
+    "others_count": 67,
+    "others_percent": 0.067,
+    "diff": 0.06343478260869564
+  },
+  {
+    "key": "prompt",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "handl",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 37,
+    "others_percent": 0.037,
+    "diff": 0.006478260869565218
+  },
+  {
+    "key": "just",
+    "ir_percent": 0,
+    "others_count": 38,
+    "others_percent": 0.038,
+    "diff": -0.038
+  },
+  {
+    "key": "string",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 17,
+    "others_percent": 0.017,
+    "diff": 0.026478260869565215
+  },
+  {
+    "key": "sync",
+    "ir_percent": 0,
+    "others_count": 19,
+    "others_percent": 0.019,
+    "diff": -0.019
+  },
+  {
+    "key": "howev",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "depends-on",
+    "ir_percent": 0,
+    "others_count": 24,
+    "others_percent": 0.024,
+    "diff": -0.024
+  },
+  {
+    "key": "druid",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "roll-restart-work",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "import",
+    "ir_percent": 0,
+    "others_count": 15,
+    "others_percent": 0.015,
+    "diff": -0.015
+  },
+  {
+    "key": "boot",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "ipmi",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "overrid",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "pxe",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "forc",
+    "ir_percent": 0,
+    "others_count": 21,
+    "others_percent": 0.021,
+    "diff": -0.021
+  },
+  {
+    "key": "addnod",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "setup",
+    "ir_percent": 0,
+    "others_count": 18,
+    "others_percent": 0.018,
+    "diff": -0.018
+  },
+  {
+    "key": "otherwis",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "interact",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "renam",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 24,
+    "others_percent": 0.024,
+    "diff": 0.019478260869565216
+  },
+  {
+    "key": "format",
+    "ir_count": 2,
+    "ir_percent": 0.08695652173913043,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": 0.07295652173913043
+  },
+  {
+    "key": "t199079",
+    "ir_percent": 0,
+    "others_count": 24,
+    "others_percent": 0.024,
+    "diff": -0.024
+  },
+  {
+    "key": "prospector",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "issu",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 33,
+    "others_percent": 0.033,
+    "diff": 0.010478260869565215
+  },
+  {
+    "key": "newli",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "newer",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": 0.035478260869565216
+  },
+  {
+    "key": "limit",
+    "ir_percent": 0,
+    "others_count": 15,
+    "others_percent": 0.015,
+    "diff": -0.015
+  },
+  {
+    "key": "ask",
+    "ir_percent": 0,
+    "others_count": 33,
+    "others_percent": 0.033,
+    "diff": -0.033
+  },
+  {
+    "key": "kafka",
+    "ir_percent": 0,
+    "others_count": 20,
+    "others_percent": 0.02,
+    "diff": -0.02
+  },
+  {
+    "key": "min",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "partit",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "t229003",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "procedur",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "increas",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "avoid",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 29,
+    "others_percent": 0.029,
+    "diff": 0.014478260869565215
+  },
+  {
+    "key": "sleep",
+    "ir_percent": 0,
+    "others_count": 29,
+    "others_percent": 0.029,
+    "diff": -0.029
+  },
+  {
+    "key": "repool",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.012
+  },
+  {
+    "key": "custom",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "properti",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "action",
+    "ir_count": 2,
+    "ir_percent": 0.08695652173913043,
+    "others_count": 27,
+    "others_percent": 0.027,
+    "diff": 0.059956521739130436
+  },
+  {
+    "key": "addit",
+    "ir_percent": 0,
+    "others_count": 20,
+    "others_percent": 0.02,
+    "diff": -0.02
+  },
+  {
+    "key": "wait",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 32,
+    "others_percent": 0.032,
+    "diff": 0.011478260869565216
+  },
+  {
+    "key": "function",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 22,
+    "others_percent": 0.022,
+    "diff": 0.021478260869565217
+  },
+  {
+    "key": "srebatchrunnerbas",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "misc-clust",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "document",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": 0.035478260869565216
+  },
+  {
+    "key": "enabl",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "number",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "convert",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "configur",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "sure",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.012
+  },
+  {
+    "key": "init",
+    "ir_percent": 0,
+    "others_count": 15,
+    "others_percent": 0.015,
+    "diff": -0.015
+  },
+  {
+    "key": "complet",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 15,
+    "others_percent": 0.015,
+    "diff": 0.028478260869565217
+  },
+  {
+    "key": "introduc",
+    "ir_percent": 0,
+    "others_count": 17,
+    "others_percent": 0.017,
+    "diff": -0.017
+  },
+  {
+    "key": "make",
+    "ir_percent": 0,
+    "others_count": 23,
+    "others_percent": 0.023,
+    "diff": -0.023
+  },
+  {
+    "key": "t269925",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "recent",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "worker",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "roll-restart",
+    "ir_percent": 0,
+    "others_count": 15,
+    "others_percent": 0.015,
+    "diff": -0.015
+  },
+  {
+    "key": "commit",
+    "ir_percent": 0,
+    "others_count": 28,
+    "others_percent": 0.028,
+    "diff": -0.028
+  },
+  {
+    "key": "long",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": 0.035478260869565216
+  },
+  {
+    "key": "take",
+    "ir_percent": 0,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": -0.014
+  },
+  {
+    "key": "expect",
+    "ir_count": 2,
+    "ir_percent": 0.08695652173913043,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": 0.07495652173913044
+  },
+  {
+    "key": "longer",
+    "ir_percent": 0,
+    "others_count": 15,
+    "others_percent": 0.015,
+    "diff": -0.015
+  },
+  {
+    "key": "it'",
+    "ir_percent": 0,
+    "others_count": 36,
+    "others_percent": 0.036,
+    "diff": -0.036
+  },
+  {
+    "key": "wmc",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.012
+  },
+  {
+    "key": "field",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "team",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "prometheu",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "minut",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": 0.035478260869565216
+  },
+  {
+    "key": "return",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 32,
+    "others_percent": 0.032,
+    "diff": 0.011478260869565216
+  },
+  {
+    "key": "etcd",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "wipe",
+    "ir_percent": 0,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": -0.013
+  },
+  {
+    "key": "wdq",
+    "ir_percent": 0,
+    "others_count": 44,
+    "others_percent": 0.044,
+    "diff": -0.044
+  },
+  {
+    "key": "transfer",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.012
+  },
+  {
+    "key": "data-transf",
+    "ir_percent": 0,
+    "others_count": 16,
+    "others_percent": 0.016,
+    "diff": -0.016
+  },
+  {
+    "key": "warn",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 16,
+    "others_percent": 0.016,
+    "diff": 0.027478260869565216
+  },
+  {
+    "key": "isn't",
+    "ir_percent": 0,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": -0.013
+  },
+  {
+    "key": "merg",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.012
+  },
+  {
+    "key": "mysql",
+    "ir_percent": 0,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": -0.014
+  },
+  {
+    "key": "pool",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 21,
+    "others_percent": 0.021,
+    "diff": 0.022478260869565215
+  },
+  {
+    "key": "http",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 39,
+    "others_percent": 0.039,
+    "diff": 0.004478260869565216
+  },
+  {
+    "key": "wikimedia",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 39,
+    "others_percent": 0.039,
+    "diff": 0.004478260869565216
+  },
+  {
+    "key": "phase",
+    "ir_percent": 0,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": -0.014
+  },
+  {
+    "key": "replic",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.03747826086956522
+  },
+  {
+    "key": "org/wiki/switch",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "//wikitech",
+    "ir_percent": 0,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": -0.014
+  },
+  {
+    "key": "datacent",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 44,
+    "others_percent": 0.044,
+    "diff": -0.0005217391304347813
+  },
+  {
+    "key": "stop",
+    "ir_percent": 0,
+    "others_count": 23,
+    "others_percent": 0.023,
+    "diff": -0.023
+  },
+  {
+    "key": "driver",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "roll-restart-varnish",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "true",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "cli",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": 0.033478260869565214
+  },
+  {
+    "key": "cdn",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": 0.029478260869565218
+  },
+  {
+    "key": "valu",
+    "ir_percent": 0,
+    "others_count": 17,
+    "others_percent": 0.017,
+    "diff": -0.017
+  },
+  {
+    "key": "second",
+    "ir_percent": 0,
+    "others_count": 17,
+    "others_percent": 0.017,
+    "diff": -0.017
+  },
+  {
+    "key": "sal",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": 0.034478260869565215
+  },
+  {
+    "key": "avail",
+    "ir_percent": 0,
+    "others_count": 16,
+    "others_percent": 0.016,
+    "diff": -0.016
+  },
+  {
+    "key": "remot",
+    "ir_percent": 0,
+    "others_count": 18,
+    "others_percent": 0.018,
+    "diff": -0.018
+  },
+  {
+    "key": "wikireplica",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "activ",
+    "ir_count": 2,
+    "ir_percent": 0.08695652173913043,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": 0.07995652173913043
+  },
+  {
+    "key": "traffic",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": 0.035478260869565216
+  },
+  {
+    "key": "backend",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "lock",
+    "ir_percent": 0,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": -0.014
+  },
+  {
+    "key": "singl",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": 0.029478260869565218
+  },
+  {
+    "key": "move",
+    "ir_percent": 0,
+    "others_count": 43,
+    "others_percent": 0.043,
+    "diff": -0.043
+  },
+  {
+    "key": "failov",
+    "ir_count": 2,
+    "ir_percent": 0.08695652173913043,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": 0.07895652173913043
+  },
+  {
+    "key": "task",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "self",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": 0.03247826086956522
+  },
+  {
+    "key": "next",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "command",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 36,
+    "others_percent": 0.036,
+    "diff": 0.007478260869565219
+  },
+  {
+    "key": "follow",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 21,
+    "others_percent": 0.021,
+    "diff": 0.022478260869565215
+  },
+  {
+    "key": "doubl",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "phabric",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.03747826086956522
+  },
+  {
+    "key": "rollback",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "condit",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "valid",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 16,
+    "others_percent": 0.016,
+    "diff": 0.027478260869565216
+  },
+  {
+    "key": "makevm",
+    "ir_percent": 0,
+    "others_count": 29,
+    "others_percent": 0.029,
+    "diff": -0.029
+  },
+  {
+    "key": "exclud",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 15,
+    "others_percent": 0.015,
+    "diff": 0.028478260869565217
+  },
+  {
+    "key": "exclus",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "queue",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "empti",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "write",
+    "ir_percent": 0,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": -0.014
+  },
+  {
+    "key": "patch",
+    "ir_percent": 0,
+    "others_count": 22,
+    "others_percent": 0.022,
+    "diff": -0.022
+  },
+  {
+    "key": "reli",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "modul",
+    "ir_percent": 0,
+    "others_count": 15,
+    "others_percent": 0.015,
+    "diff": -0.015
+  },
+  {
+    "key": "homer",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "decom",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "done",
+    "ir_percent": 0,
+    "others_count": 18,
+    "others_percent": 0.018,
+    "diff": -0.018
+  },
+  {
+    "key": "test",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 38,
+    "others_percent": 0.038,
+    "diff": 0.005478260869565217
+  },
+  {
+    "key": "data-reload",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "pars",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "less",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "old",
+    "ir_percent": 0,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": -0.013
+  },
+  {
+    "key": "revert",
+    "ir_percent": 0,
+    "others_count": 19,
+    "others_percent": 0.019,
+    "diff": -0.019
+  },
+  {
+    "key": "discoveri",
+    "ir_count": 3,
+    "ir_percent": 0.13043478260869565,
+    "others_count": 33,
+    "others_percent": 0.033,
+    "diff": 0.09743478260869565
+  },
+  {
+    "key": "dell",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "mean",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "back",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 17,
+    "others_percent": 0.017,
+    "diff": 0.026478260869565215
+  },
+  {
+    "key": "bridg",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "control",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "reload",
+    "ir_percent": 0,
+    "others_count": 15,
+    "others_percent": 0.015,
+    "diff": -0.015
+  },
+  {
+    "key": "t233183",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "size",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "invoc",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "retri",
+    "ir_percent": 0,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": -0.014
+  },
+  {
+    "key": "find",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "puppetdb",
+    "ir_percent": 0,
+    "others_count": 16,
+    "others_percent": 0.016,
+    "diff": -0.016
+  },
+  {
+    "key": "flag",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 21,
+    "others_percent": 0.021,
+    "diff": 0.022478260869565215
+  },
+  {
+    "key": "without",
+    "ir_percent": 0,
+    "others_count": 15,
+    "others_percent": 0.015,
+    "diff": -0.015
+  },
+  {
+    "key": "tox",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "fals",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "posit",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "gitlab",
+    "ir_count": 2,
+    "ir_percent": 0.08695652173913043,
+    "others_count": 21,
+    "others_percent": 0.021,
+    "diff": 0.06595652173913043
+  },
+  {
+    "key": "org",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "alertmanag",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "monitor",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "prevent",
+    "ir_percent": 0,
+    "others_count": 23,
+    "others_percent": 0.023,
+    "diff": -0.023
+  },
+  {
+    "key": "supermicro",
+    "ir_percent": 0,
+    "others_count": 15,
+    "others_percent": 0.015,
+    "diff": -0.015
+  },
+  {
+    "key": "client",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "group",
+    "ir_percent": 0,
+    "others_count": 18,
+    "others_percent": 0.018,
+    "diff": -0.018
+  },
+  {
+    "key": "vrt",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "t366078",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "t323569",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "packag",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "categori",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "map",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": 0.03647826086956522
+  },
+  {
+    "key": "re-imag",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "clear",
+    "ir_percent": 0,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": -0.013
+  },
+  {
+    "key": "cach",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": 0.029478260869565218
+  },
+  {
+    "key": "yet",
+    "ir_percent": 0,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": -0.014
+  },
+  {
+    "key": "workaround",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": 0.035478260869565216
+  },
+  {
+    "key": "nic",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "arg",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 21,
+    "others_percent": 0.021,
+    "diff": 0.022478260869565215
+  },
+  {
+    "key": "wrong",
+    "ir_percent": 0,
+    "others_count": 15,
+    "others_percent": 0.015,
+    "diff": -0.015
+  },
+  {
+    "key": "line",
+    "ir_percent": 0,
+    "others_count": 17,
+    "others_percent": 0.017,
+    "diff": -0.017
+  },
+  {
+    "key": "exit",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "fine",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "tune",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "deploi",
+    "ir_percent": 0,
+    "others_count": 15,
+    "others_percent": 0.015,
+    "diff": -0.015
+  },
+  {
+    "key": "per",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "previou",
+    "ir_percent": 0,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": -0.013
+  },
+  {
+    "key": "main",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "reboot-clust",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "sens",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "inact",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "given",
+    "ir_percent": 0,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": -0.014
+  },
+  {
+    "key": "creation",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "anymor",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "site",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "repo",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "t258729",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "vlan",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "abl",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "idrac",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "restor",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "good",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "t365372",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "bio",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "disk",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "raid",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "virtual",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "swift",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": 0.033478260869565214
+  },
+  {
+    "key": "cleanup",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "possibl",
+    "ir_percent": 0,
+    "others_count": 16,
+    "others_percent": 0.016,
+    "diff": -0.016
+  },
+  {
+    "key": "descript",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.03747826086956522
+  },
+  {
+    "key": "t341973",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "timestamp",
+    "ir_count": 2,
+    "ir_percent": 0.08695652173913043,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.08095652173913043
+  },
+  {
+    "key": "bit",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": 0.03047826086956522
+  },
+  {
+    "key": "execut",
+    "ir_percent": 0,
+    "others_count": 16,
+    "others_percent": 0.016,
+    "diff": -0.016
+  },
+  {
+    "key": "role",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "push",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "reduc",
+    "ir_percent": 0,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": -0.013
+  },
+  {
+    "key": "help",
+    "ir_percent": 0,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": -0.013
+  },
+  {
+    "key": "anyth",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "path",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": 0.029478260869565218
+  },
+  {
+    "key": "t269596",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "reboot-work",
+    "ir_percent": 0,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": -0.014
+  },
+  {
+    "key": "directori",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "product",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "give",
+    "ir_percent": 0,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": -0.013
+  },
+  {
+    "key": "admin",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 16,
+    "others_percent": 0.016,
+    "diff": 0.027478260869565216
+  },
+  {
+    "key": "behaviour",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "attribut",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": 0.035478260869565216
+  },
+  {
+    "key": "separ",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "context",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "elast",
+    "ir_percent": 0,
+    "others_count": 21,
+    "others_percent": 0.021,
+    "diff": -0.021
+  },
+  {
+    "key": "wikidata",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "dump",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": 0.03247826086956522
+  },
+  {
+    "key": "model",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "poll",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "earlier",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "creat",
+    "ir_percent": 0,
+    "others_count": 24,
+    "others_percent": 0.024,
+    "diff": -0.024
+  },
+  {
+    "key": "sourc",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.012
+  },
+  {
+    "key": "want",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 17,
+    "others_percent": 0.017,
+    "diff": 0.026478260869565215
+  },
+  {
+    "key": "relat",
+    "ir_percent": 0,
+    "others_count": 18,
+    "others_percent": 0.018,
+    "diff": -0.018
+  },
+  {
+    "key": "adapt",
+    "ir_percent": 0,
+    "others_count": 13,
+    "others_percent": 0.013,
+    "diff": -0.013
+  },
+  {
+    "key": "accordingli",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "target",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "git",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "seem",
+    "ir_count": 2,
+    "ir_percent": 0.08695652173913043,
+    "others_count": 19,
+    "others_percent": 0.019,
+    "diff": 0.06795652173913043
+  },
+  {
+    "key": "explicitli",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "reboot-nod",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "alia",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "provid",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "split",
+    "ir_count": 2,
+    "ir_percent": 0.08695652173913043,
+    "others_count": 17,
+    "others_percent": 0.017,
+    "diff": 0.06995652173913043
+  },
+  {
+    "key": "depend",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "later",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.012
+  },
+  {
+    "key": "multipl",
+    "ir_percent": 0,
+    "others_count": 20,
+    "others_percent": 0.02,
+    "diff": -0.02
+  },
+  {
+    "key": "dry-run",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": 0.03247826086956522
+  },
+  {
+    "key": "mark",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "legaci",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "primari",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "except",
+    "ir_percent": 0,
+    "others_count": 27,
+    "others_percent": 0.027,
+    "diff": -0.027
+  },
+  {
+    "key": "detect",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "better",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": 0.029478260869565218
+  },
+  {
+    "key": "fact",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "behavior",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "upgrade-clust",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "alert",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": 0.034478260869565215
+  },
+  {
+    "key": "minor",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "object",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 18,
+    "others_percent": 0.018,
+    "diff": 0.025478260869565218
+  },
+  {
+    "key": "hdf",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "sudo",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "note",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "refer",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "comment",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": 0.033478260869565214
+  },
+  {
+    "key": "origin",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "present",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.012
+  },
+  {
+    "key": "rais",
+    "ir_percent": 0,
+    "others_count": 17,
+    "others_percent": 0.017,
+    "diff": -0.017
+  },
+  {
+    "key": "replac",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "have",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "latest",
+    "ir_percent": 0,
+    "others_count": 14,
+    "others_percent": 0.014,
+    "diff": -0.014
+  },
+  {
+    "key": "ignor",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.03747826086956522
+  },
+  {
+    "key": "specif",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "pdu",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "thing",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": 0.033478260869565214
+  },
+  {
+    "key": "reboot-singl",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "codfw",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "explicit",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "includ",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": 0.03247826086956522
+  },
+  {
+    "key": "let'",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": 0.03247826086956522
+  },
+  {
+    "key": "we'r",
+    "ir_percent": 0,
+    "others_count": 18,
+    "others_percent": 0.018,
+    "diff": -0.018
+  },
+  {
+    "key": "t327767",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "rather",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.012,
+    "diff": -0.012
+  },
+  {
+    "key": "abil",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "warmup",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "show",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "replica",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "link",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "even",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "password",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "around",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "david",
+    "ir_percent": 0,
+    "others_count": 15,
+    "others_percent": 0.015,
+    "diff": -0.015
+  },
+  {
+    "key": "toolforg",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "sort",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "caro",
+    "ir_percent": 0,
+    "others_count": 15,
+    "others_percent": 0.015,
+    "diff": -0.015
+  },
+  {
+    "key": "dcaro",
+    "ir_percent": 0,
+    "others_count": 15,
+    "others_percent": 0.015,
+    "diff": -0.015
+  },
+  {
+    "key": "signed-off-bi",
+    "ir_percent": 0,
+    "others_count": 17,
+    "others_percent": 0.017,
+    "diff": -0.017
+  },
+  {
+    "key": "wrap",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "local",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": -0.009
+  },
+  {
+    "key": "right",
+    "ir_percent": 0,
+    "others_count": 17,
+    "others_percent": 0.017,
+    "diff": -0.017
+  },
+  {
+    "key": "databas",
+    "ir_count": 5,
+    "ir_percent": 0.21739130434782608,
+    "others_count": 9,
+    "others_percent": 0.009,
+    "diff": 0.20839130434782607
+  },
+  {
+    "key": "search",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "confctl",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "pylint",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "eqiad",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "cassandra",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "appear",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "sometim",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "potenti",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "necessari",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "uefi",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.01,
+    "diff": -0.01
+  },
+  {
+    "key": "nodeset",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "releas",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.011,
+    "diff": -0.011
+  },
+  {
+    "key": "python",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "read",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": 0.03647826086956522
+  },
+  {
+    "key": "docstr",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "whole",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "slow",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.008,
+    "diff": -0.008
+  },
+  {
+    "key": "traceback",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "menu",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "runner",
+    "ir_count": 1,
+    "ir_percent": 0.043478260869565216,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": 0.03747826086956522
+  },
+  {
+    "key": "typeerror",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "certif",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  },
+  {
+    "key": "physic",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.007,
+    "diff": -0.007
+  },
+  {
+    "key": "affect",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.006,
+    "diff": -0.006
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "irs": {
+    "py": 18
+  },
+  "others": {
+    "": 113,
+    "d": 9,
+    "py": 681,
+    "gitignore": 7,
+    "travis": 11,
+    "md": 6,
+    "logrotate": 3,
+    "conf": 8,
+    "systemd": 2,
+    "init": 1,
+    "txt": 6,
+    "ini": 12,
+    "Debian": 3,
+    "postinst": 2,
+    "postrm": 2,
+    "prerm": 2,
+    "ex": 10,
+    "service": 1,
+    "cvsignore": 2,
+    "doc-base": 2,
+    "gitreview": 1
+  }
+}

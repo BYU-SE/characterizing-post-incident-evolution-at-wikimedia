@@ -1,0 +1,4169 @@
+{
+  "byTimeAndTaskBucket": [
+    {
+      "ir": "20130628-Site",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "71056|ABANDONED"
+        ],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T52347|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "20140313-API-Parsoid",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "118435|ABANDONED",
+          "118584|MERGED"
+        ],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T59882|Closed, Invalid",
+          "T83580|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "20140313-Deploy",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "119677|MERGED",
+          "119686|MERGED"
+        ],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T64862|Closed, Resolved"
+        ],
+        "post": [
+          "T68050|Closed, Declined"
+        ]
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "20140503-Thumbnails",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": [
+          "T67477|Closed, Resolved",
+          "T67478|Closed, Declined"
+        ]
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": [
+          "T67477|Closed, Resolved"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "20140619-parsercache",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": [
+          "T70062|Closed, Duplicate"
+        ]
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "20150103-Parsoid",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "183158|MERGED",
+          "182644|MERGED",
+          "182585|MERGED"
+        ],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T85744|Closed, Resolved",
+          "T85939|Closed, Duplicate"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T73853|Closed, Declined"
+        ],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "20150106-Zuul",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T85916|Closed, Duplicate"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "20150331-LabsNFS-Filesystem-Switch",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T94613|Closed, Duplicate",
+          "T94608|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T94643|Closed, Resolved"
+        ],
+        "post": [
+          "T216040|Closed, Resolved"
+        ]
+      }
+    },
+    {
+      "ir": "20150331-LabsNFS-Overload",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T94606|Closed, Resolved",
+          "T94607|Closed, Declined",
+          "T94609|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [
+          "T85604|Closed, Resolved",
+          "T85606|Closed, Resolved",
+          "T85605|Closed, Resolved",
+          "T93740|Closed, Resolved",
+          "T85608|Closed, Declined",
+          "T93792|Closed, Resolved",
+          "T85607|Closed, Resolved",
+          "T91640|Closed, Resolved",
+          "T91677|Closed, Resolved"
+        ],
+        "preClosed": [
+          "T85605|Closed, Resolved",
+          "T93740|Closed, Resolved",
+          "T85607|Closed, Resolved",
+          "T91640|Closed, Resolved",
+          "T91677|Closed, Resolved"
+        ],
+        "during": [
+          "T94607|Closed, Declined"
+        ],
+        "post": [
+          "T103355|Closed, Resolved"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "20150413-LabsNFS",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T94609|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [
+          "T96045|Closed, Resolved",
+          "T96063|Closed, Resolved",
+          "T96065|Closed, Duplicate"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [
+          "T94607|Closed, Declined",
+          "T85604|Closed, Resolved",
+          "T85606|Closed, Resolved",
+          "T85605|Closed, Resolved",
+          "T93740|Closed, Resolved",
+          "T85608|Closed, Declined",
+          "T93792|Closed, Resolved",
+          "T85607|Closed, Resolved",
+          "T91640|Closed, Resolved",
+          "T91677|Closed, Resolved"
+        ],
+        "preClosed": [
+          "T85605|Closed, Resolved",
+          "T93740|Closed, Resolved",
+          "T93792|Closed, Resolved",
+          "T85607|Closed, Resolved",
+          "T91640|Closed, Resolved",
+          "T91677|Closed, Resolved"
+        ],
+        "during": [],
+        "post": [
+          "T103355|Closed, Resolved",
+          "T101011|Closed, Resolved",
+          "T101010|Closed, Resolved"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": [
+          "T101011|Closed, Resolved"
+        ]
+      }
+    },
+    {
+      "ir": "20150607-LabsNFS-Outage",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T101650|Closed, Resolved",
+          "T101742|Closed, Invalid",
+          "T101744|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "20150613-Esams-Text-80",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T102393|Closed, Resolved",
+          "T102394|Closed, Resolved",
+          "T102396|Closed, Declined",
+          "T102397|Closed, Invalid"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T97029|Closed, Resolved",
+          "T7|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [
+          "T102396|Closed, Declined"
+        ],
+        "post": [
+          "T113151|Closed, Resolved",
+          "T106589|Closed, Resolved"
+        ]
+      }
+    },
+    {
+      "ir": "20150615-Elasticsearch",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "218421|ABANDONED"
+        ],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T90889|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [
+          "T102454|Closed, Resolved",
+          "T102464|Closed, Resolved2 Estimated Story Points"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [
+          "T100500|Closed, Resolved",
+          "T102159|Closed, Resolved",
+          "T101530|Closed, Resolved",
+          "T102008|Closed, Resolved",
+          "T99244|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T711|Closed, Resolved"
+        ],
+        "preClosed": [
+          "T711|Closed, Resolved"
+        ],
+        "during": [
+          "T102463|Closed, Resolved"
+        ],
+        "post": [
+          "T111573|Closed, Resolved"
+        ]
+      }
+    },
+    {
+      "ir": "20150617-LabsNFSOutage",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T102626|Closed, Resolved",
+          "T102520|Closed, Resolved",
+          "T94609|Closed, Resolved",
+          "T95559|Closed, Duplicate",
+          "T102240|Closed, Resolved"
+        ],
+        "preClosed": [
+          "T102626|Closed, Resolved"
+        ],
+        "during": [
+          "T103691|Closed, Resolved",
+          "T103265|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [
+          "T94607|Closed, Declined",
+          "T85604|Closed, Resolved",
+          "T85606|Closed, Resolved",
+          "T85605|Closed, Resolved",
+          "T93740|Closed, Resolved",
+          "T85608|Closed, Declined",
+          "T93792|Closed, Resolved",
+          "T85607|Closed, Resolved",
+          "T91640|Closed, Resolved",
+          "T91677|Closed, Resolved",
+          "T102368|Closed, Duplicate",
+          "T95924|Closed, Resolved",
+          "T102369|Closed, Declined",
+          "T102370|Closed, Resolved",
+          "T102371|Closed, Resolved",
+          "T102372|Closed, Resolved",
+          "T102373|Closed, Resolved",
+          "T102379|Closed, Resolved",
+          "T102380|Closed, Resolved",
+          "T102381|Closed, Resolved",
+          "T102383|Closed, Resolved",
+          "T102384|Closed, Resolved",
+          "T102385|Closed, Resolved",
+          "T102386|Closed, Resolved",
+          "T102388|Closed, Resolved",
+          "T102169|Closed, Resolved",
+          "T102391|Closed, Resolved",
+          "T102392|Closed, Resolved",
+          "T102402|Open, Medium",
+          "T102468|Closed, Declined",
+          "T102519|Closed, Resolved",
+          "T90610|Closed, Resolved"
+        ],
+        "preClosed": [
+          "T85605|Closed, Resolved",
+          "T93740|Closed, Resolved",
+          "T93792|Closed, Resolved",
+          "T85607|Closed, Resolved",
+          "T91640|Closed, Resolved",
+          "T91677|Closed, Resolved",
+          "T102368|Closed, Duplicate",
+          "T95924|Closed, Resolved",
+          "T102392|Closed, Resolved"
+        ],
+        "during": [
+          "T102782|Closed, Resolved",
+          "T103268|Closed, Resolved",
+          "T103350|Closed, Resolved",
+          "T103205|Closed, Resolved",
+          "T103689|Closed, Resolved",
+          "T103696|Closed, Resolved",
+          "T103708|Closed, Resolved",
+          "T103725|Closed, Resolved",
+          "T104134|Closed, Resolved",
+          "T103355|Closed, Resolved",
+          "T103731|Closed, Resolved",
+          "T102663|Closed, Resolved",
+          "T102668|Closed, Resolved",
+          "T102672|Closed, Resolved",
+          "T102673|Closed, Resolved",
+          "T102678|Closed, Resolved",
+          "T102679|Closed, Resolved",
+          "T102680|Closed, Resolved",
+          "T102682|Closed, Resolved",
+          "T102688|Closed, Resolved0 Estimated Story Points",
+          "T102695|Closed, Resolved",
+          "T102696|Closed, Resolved",
+          "T102697|Closed, Resolved",
+          "T102700|Closed, Resolved",
+          "T102702|Closed, Resolved",
+          "T102703|Closed, Resolved",
+          "T102704|Closed, Resolved",
+          "T102813|Closed, Resolved",
+          "T102843|Closed, Resolved",
+          "T102844|Closed, Resolved",
+          "T102845|Closed, Resolved",
+          "T102847|Closed, Resolved",
+          "T103312|Closed, Resolved",
+          "T103098|Closed, Resolved",
+          "T103126|Closed, Resolved",
+          "T103130|Closed, Resolved",
+          "T103137|Closed, Resolved",
+          "T103148|Closed, Resolved",
+          "T103156|Closed, Declined",
+          "T103750|Closed, Resolved",
+          "T103755|Closed, Resolved",
+          "T103757|Closed, Resolved",
+          "T103759|Closed, Resolved",
+          "T103760|Closed, Resolved",
+          "T103812|Closed, Resolved",
+          "T103824|Closed, Resolved",
+          "T103840|Closed, Resolved",
+          "T103864|Closed, Resolved",
+          "T103865|Closed, Resolved",
+          "T104256|Closed, Resolved"
+        ],
+        "post": [
+          "T118759|Closed, Declined",
+          "T105014|Closed, Declined",
+          "T105704|Closed, Resolved",
+          "T128816|Closed, Resolved",
+          "T208400|Closed, Resolved",
+          "T208401|Closed, Resolved",
+          "T208402|Closed, Declined",
+          "T255628|Closed, Resolved",
+          "T208403|Closed, Resolved",
+          "T208404|Closed, Resolved",
+          "T208405|Closed, Resolved",
+          "T208406|Closed, Resolved",
+          "T208407|Closed, Resolved",
+          "T208408|Closed, Resolved",
+          "T208409|Closed, Resolved",
+          "T208410|Closed, Resolved",
+          "T208411|Closed, Resolved",
+          "T208412|Closed, Resolved",
+          "T208413|Closed, Resolved",
+          "T208414|Closed, Resolved",
+          "T208415|Closed, Resolved",
+          "T208416|Closed, Resolved",
+          "T208417|Closed, Resolved",
+          "T208418|Closed, Resolved"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T97688|Closed, Resolved",
+          "T87870|Closed, Resolved"
+        ],
+        "preClosed": [
+          "T97688|Closed, Resolved"
+        ],
+        "during": [
+          "T102786|Closed, Resolved"
+        ],
+        "post": [
+          "T123740|Closed, Resolved",
+          "T106464|Closed, Duplicate"
+        ]
+      }
+    },
+    {
+      "ir": "20150702-RESTBase",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "222272|MERGED"
+        ],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T104579|Closed, Invalid",
+          "T104581|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "20150806-poolcounter",
+      "irMentionedCRs": {
+        "pre": [
+          "228137|ABANDONED"
+        ],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T105378|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [
+          "T108303|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": [
+          "T112501|Closed, Resolved",
+          "T112200|Closed, Resolved"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T83729|Closed, Resolved",
+          "T32452|Closed, Resolved",
+          "T65027|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "20150814-MediaWiki",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T109160|Closed, Duplicate"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T109540|Closed, Resolved"
+        ],
+        "post": []
+      }
+    },
+    {
+      "ir": "20150817-ToolLabs-WebgridOutage",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T109728|Closed, Resolved",
+          "T109417|Closed, Resolved",
+          "T109730|Closed, Resolved",
+          "T109732|Closed, Declined"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T50668|Closed, Duplicate",
+          "T90542|Closed, Resolved"
+        ],
+        "preClosed": [
+          "T50668|Closed, Duplicate"
+        ],
+        "during": [
+          "T109412|Closed, Resolved",
+          "T109605|Closed, Resolved"
+        ],
+        "post": [
+          "T236547|Closed, Resolved",
+          "T211684|Closed, Resolved"
+        ]
+      }
+    },
+    {
+      "ir": "20150908-ores",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T111806|Closed, Resolved",
+          "T111826|Closed, Resolved",
+          "T111828|Closed, Invalid"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T106271|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "20150914-extension1",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T112473|Closed, Declined",
+          "T99485|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": [
+          "T119619|Closed, Resolved",
+          "T116793|Open, Medium",
+          "T119461|Closed, Resolved",
+          "T120122|Closed, Resolved",
+          "T120689|Closed, Resolved"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T69223|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [],
+        "post": [
+          "T253120|Closed, Resolved",
+          "T109279|"
+        ]
+      }
+    },
+    {
+      "ir": "20151126-graphite-grafana",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T119718|Closed, Declined",
+          "T119719|Closed, Resolved",
+          "T119721|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "20160112-20160111-toollabs-SGE",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T122638|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [
+          "T123411|Closed, Declined"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T124586|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T123034|Closed, Resolved",
+          "T92614|Closed, Resolved"
+        ],
+        "preClosed": [
+          "T92614|Closed, Resolved"
+        ],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "20160126-WikimediaDomainRedirection",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T45266|Closed, Declined",
+          "T72068|Closed, Resolved",
+          "T114801|Closed, Invalid",
+          "T1256|Closed, Resolved"
+        ],
+        "preClosed": [
+          "T72068|Closed, Resolved"
+        ],
+        "during": [
+          "T124812|Closed, Resolved",
+          "T124835|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [
+          "T47499|Closed, Resolved",
+          "T55594|Closed, Resolved",
+          "T55683|Closed, Resolved",
+          "T56762|Closed, Resolved",
+          "T58317|Closed, Resolved",
+          "T55978|Closed, Duplicate",
+          "T53556|Closed, Resolved",
+          "T84988|Closed, Duplicate",
+          "T84989|Closed, Declined",
+          "T84940|Closed, Declined",
+          "T85933|Closed, Resolved",
+          "T86168|Closed, Declined",
+          "T85611|Closed, Declined",
+          "T85609|Closed, Declined",
+          "T85605|Closed, Resolved",
+          "T86172|Closed, Invalid",
+          "T86171|Closed, Resolved",
+          "T97472|Closed, Declined",
+          "T86658|Closed, Resolved",
+          "T105901|Closed, Resolved",
+          "T86659|Closed, Resolved",
+          "T86175|Closed, Resolved",
+          "T86174|Closed, Resolved",
+          "T93143|Closed, Resolved",
+          "T93559|Closed, Resolved",
+          "T93558|Closed, Resolved",
+          "T96463|Closed, Resolved",
+          "T95675|Closed, Resolved",
+          "T98737|Closed, Resolved",
+          "T101966|Closed, Resolved",
+          "T87294|Closed, Resolved",
+          "T113394|Closed, Resolved",
+          "T91996|Closed, Resolved",
+          "T91997|Closed, Resolved",
+          "T91854|Closed, Resolved",
+          "T90943|Closed, Resolved",
+          "T91176|Closed, Resolved",
+          "T92557|Closed, Resolved",
+          "T94326|Closed, Resolved",
+          "T94327|Closed, Resolved",
+          "T96690|Closed, Resolved",
+          "T109913|Closed, Resolved",
+          "T86170|Closed, Resolved",
+          "T86167|Closed, Resolved",
+          "T76955|Closed, Resolved",
+          "T114801|Closed, Invalid"
+        ],
+        "preClosed": [
+          "T55978|Closed, Duplicate",
+          "T84988|Closed, Duplicate",
+          "T84940|Closed, Declined",
+          "T85933|Closed, Resolved",
+          "T86168|Closed, Declined",
+          "T85611|Closed, Declined",
+          "T85605|Closed, Resolved",
+          "T86172|Closed, Invalid",
+          "T86171|Closed, Resolved",
+          "T97472|Closed, Declined",
+          "T86658|Closed, Resolved",
+          "T105901|Closed, Resolved",
+          "T86175|Closed, Resolved",
+          "T86174|Closed, Resolved",
+          "T93143|Closed, Resolved",
+          "T93559|Closed, Resolved",
+          "T93558|Closed, Resolved",
+          "T96463|Closed, Resolved",
+          "T95675|Closed, Resolved",
+          "T98737|Closed, Resolved",
+          "T101966|Closed, Resolved",
+          "T87294|Closed, Resolved",
+          "T113394|Closed, Resolved",
+          "T91854|Closed, Resolved",
+          "T90943|Closed, Resolved",
+          "T91176|Closed, Resolved",
+          "T92557|Closed, Resolved",
+          "T94326|Closed, Resolved",
+          "T94327|Closed, Resolved",
+          "T109913|Closed, Resolved",
+          "T86170|Closed, Resolved",
+          "T86167|Closed, Resolved",
+          "T76955|Closed, Resolved"
+        ],
+        "during": [],
+        "post": [
+          "T126682|Closed, Resolved",
+          "T127362|Closed, Resolved"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T45266|Closed, Declined",
+          "T72068|Closed, Resolved"
+        ],
+        "preClosed": [
+          "T72068|Closed, Resolved"
+        ],
+        "during": [
+          "T124804|Closed, Resolved"
+        ],
+        "post": []
+      }
+    },
+    {
+      "ir": "20160202-deployment-server-loss",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "267934|ABANDONED",
+          "267929|MERGED"
+        ],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T125527|Closed, Resolved",
+          "T125542|Closed, Resolved",
+          "T125629|Closed, Resolved",
+          "T125685|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [
+          "T104352|Closed, Resolved",
+          "T73212|Closed, Resolved",
+          "T115899|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [],
+        "post": [
+          "T147481|Closed, Resolved",
+          "T163565|Closed, Resolved"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T39968|Closed, Declined",
+          "T103886|Closed, Resolved",
+          "T119637|Closed, Resolved",
+          "T99740|Open, High"
+        ],
+        "preClosed": [],
+        "during": [],
+        "post": [
+          "T147481|Closed, Resolved"
+        ]
+      }
+    },
+    {
+      "ir": "20160505-ChangeProp_RESTBase_Parsoid",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T134456|Closed, Resolved",
+          "T134483|Closed, Resolved",
+          "T134538|Closed, Resolved",
+          "T134516|Closed, Declined",
+          "T134551|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T134537|Closed, Resolved"
+        ],
+        "post": []
+      }
+    },
+    {
+      "ir": "20160525-Toollabs_Webservices",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T136168|Closed, Declined",
+          "T136167|Closed, Resolved",
+          "T136222|Closed, Declined",
+          "T136162|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T136167|Closed, Resolved",
+          "T136168|Closed, Declined",
+          "T136222|Closed, Declined",
+          "T136347|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T136162|Closed, Resolved",
+          "T136168|Closed, Declined"
+        ],
+        "post": []
+      }
+    },
+    {
+      "ir": "20160531-wikilabels",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T137626|Closed, Invalid",
+          "T137625|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "20160601-MediaWiki",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T121597|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [
+          "T136782|Closed, Declined",
+          "T136821|Closed, Declined",
+          "T136828|Open, Low",
+          "T136839|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": [
+          "T204383|Closed, Resolved"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T50002|Closed, Resolved",
+          "T121597|Closed, Resolved",
+          "T119117|Open, Low",
+          "T89945|Closed, Declined"
+        ],
+        "preClosed": [],
+        "during": [
+          "T136782|Closed, Declined",
+          "T136883|Closed, Resolved"
+        ],
+        "post": [
+          "T191921|Closed, Resolved",
+          "T165675|Closed, ResolvedPRODUCTION ERROR",
+          "T200960|Closed, Resolved",
+          "T204907|Closed, Resolved",
+          "T162974|Closed, Resolved",
+          "T173146|Closed, Resolved",
+          "T183952|Closed, Resolved",
+          "T183999|Closed, Resolved",
+          "T142784|Closed, Resolved",
+          "T154646|Closed, Resolved"
+        ]
+      }
+    },
+    {
+      "ir": "20160608-gallium-disk-failure",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T133300|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [
+          "T137279|Closed, Resolved",
+          "T137358|Closed, Declined"
+        ],
+        "post": [
+          "T80385|"
+        ]
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T137323|Closed, Resolved",
+          "T137279|Closed, Resolved",
+          "T137293|Closed, Declined",
+          "T137265|Closed, Resolved",
+          "T137418|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T133300|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [
+          "T137323|Closed, Resolved"
+        ],
+        "post": []
+      }
+    },
+    {
+      "ir": "20160809-MediaWiki",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "304121|ABANDONED",
+          "304327|MERGED"
+        ],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T141785|Closed, ResolvedPRODUCTION ERROR"
+        ],
+        "preClosed": [],
+        "during": [
+          "T142784|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "20160818-Elasticsearch",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T133844|Closed, Declined"
+        ],
+        "preClosed": [],
+        "during": [
+          "T143552|Closed, Declined",
+          "T143553|Open, High5 Estimated Story Points"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": [
+          "T162037|Open, Medium",
+          "T322284|Closed, Resolved8 Estimated Story Points"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T143571|Closed, Resolved"
+        ],
+        "post": []
+      }
+    },
+    {
+      "ir": "20160915-MediaWiki",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T111441|Closed, Resolved",
+          "T140942|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [
+          "T146226|Closed, Declined",
+          "T146090|Closed, Resolved",
+          "T146040|Closed, Resolved",
+          "T146469|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T146090|Closed, Resolved",
+          "T146125|Closed, Resolved"
+        ],
+        "post": [
+          "T153166|Closed, Resolved",
+          "T153041|Closed, Resolved",
+          "T163420|Closed, Resolved",
+          "T153167|Closed, Declined",
+          "T153168|Closed, Resolved",
+          "T153169|Closed, Resolved",
+          "T153170|Closed, Resolved",
+          "T153171|Closed, Resolved",
+          "T153978|Closed, Declined"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T123243|Open, Medium",
+          "T117470|Closed, Resolved",
+          "T140943|Open, Needs Triage",
+          "T119736|Closed, Resolved",
+          "T142313|Closed, Resolved"
+        ],
+        "preClosed": [
+          "T119736|Closed, Resolved"
+        ],
+        "during": [
+          "T146125|Closed, Resolved",
+          "T146090|Closed, Resolved",
+          "T145839|Closed, Duplicate"
+        ],
+        "post": [
+          "T176370|Closed, Resolved",
+          "T152473|Closed, Resolved"
+        ]
+      }
+    },
+    {
+      "ir": "20161112-OurMine",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T150300|Closed, Declined",
+          "T11838|Closed, Resolved",
+          "T107707|Closed, Resolved5 Estimated Story Points",
+          "T32574|Open, Low",
+          "T57420|Closed, ResolvedPRODUCTION ERROR",
+          "T100375|Open, High",
+          "T145915|Open, High"
+        ],
+        "preClosed": [],
+        "during": [
+          "T150903|Open, Medium",
+          "T151010|Closed, ResolvedSecurity",
+          "T151415|Closed, Resolved",
+          "T150647|Closed, Resolved",
+          "T150898|Open, Medium",
+          "T150930|Closed, Resolved",
+          "T151015|Closed, Resolved"
+        ],
+        "post": [
+          "T150576|",
+          "T112359|"
+        ]
+      },
+      "childTasks": {
+        "pre": [
+          "T111303|Closed, Resolved",
+          "T47843|Closed, Resolved",
+          "T136383|Open, Stalled, Medium",
+          "T124445|Open, Medium",
+          "T131359|Closed, Resolved",
+          "T150529|Closed, Resolved",
+          "T131788|Closed, Resolved"
+        ],
+        "preClosed": [
+          "T131359|Closed, Resolved"
+        ],
+        "during": [
+          "T151011|Closed, Declined",
+          "T150562|Open, Medium",
+          "T150899|Closed, Resolved",
+          "T150699|Closed, Resolved",
+          "T150985|Closed, Resolved",
+          "T150900|Closed, Resolved2 Estimated Story Points",
+          "T150601|Open, High",
+          "T150868|Closed, Resolved"
+        ],
+        "post": [
+          "T210696|Closed, ResolvedSecurity",
+          "T211489|Closed, Declined",
+          "T366130|Closed, Resolved",
+          "T197501|Open, Needs Triage",
+          "T265726|Open, Lowest",
+          "T282624|Closed, Declined",
+          "T390386|Open, Needs Triage",
+          "T154723|Closed, Resolved",
+          "T154725|Closed, Duplicate",
+          "T154726|Closed, Resolved",
+          "T154727|Closed, Resolved",
+          "T154728|Closed, Resolved",
+          "T154729|Closed, Resolved",
+          "T158142|Closed, Resolved",
+          "T158253|Closed, Declined",
+          "T158254|Closed, Resolved",
+          "T154414|Closed, Resolved1 Estimated Story Points",
+          "T159470|Open, Lowest",
+          "T159468|Open, Medium",
+          "T227925|Closed, ResolvedBUG REPORT",
+          "T180896|Open, Medium",
+          "T195207|Closed, Resolved",
+          "T332385|Open, Needs Triage",
+          "T352856|Open, Needs Triage",
+          "T245027|Closed, Resolved",
+          "T234004|Closed, Resolved",
+          "T232336|Open, Needs Triage",
+          "T242031|Open, Needs Triage",
+          "T268564|Closed, Resolved",
+          "T330502|Closed, Resolved",
+          "T348693|Closed, Resolved",
+          "T353962|Open, Needs Triage",
+          "T368468|Open, Needs TriagePRODUCTION ERROR",
+          "T194077|Open, Needs Triage",
+          "T174937|Closed, Resolved",
+          "T158153|Open, Needs Triage",
+          "T354028|Closed, Resolved",
+          "T354030|Open, Needs Triage",
+          "T354031|Closed, Resolved",
+          "T354029|Open, Low",
+          "T226059|Closed, Resolved",
+          "T226060|Closed, Resolved"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T140167|Closed, Resolved",
+          "T137194|Closed, Declined",
+          "T68699|Closed, Resolved",
+          "T145915|Open, High",
+          "T131788|Closed, Resolved",
+          "T119451|Closed, Duplicate"
+        ],
+        "preClosed": [
+          "T137194|Closed, Declined",
+          "T68699|Closed, Resolved"
+        ],
+        "during": [
+          "T150903|Open, Medium",
+          "T150902|Open, LowestFeature",
+          "T150601|Open, High",
+          "T150647|Closed, Resolved"
+        ],
+        "post": [
+          "T158379|Open, Needs Triage",
+          "T210696|Closed, ResolvedSecurity",
+          "T209749|Closed, Resolved",
+          "T210919|Closed, Resolved",
+          "T216682|Closed, Resolved",
+          "T242031|Open, Needs Triage",
+          "T197160|Open, Medium",
+          "T197501|Open, Needs Triage",
+          "T201784|Open, Medium",
+          "T166622|Open, Medium",
+          "T180896|Open, Medium",
+          "T232336|Open, Needs Triage",
+          "T183420|Open, Medium"
+        ]
+      }
+    },
+    {
+      "ir": "2017-01-06_Cache-upload",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T154801|Closed, Invalid",
+          "T154864|Closed, Resolved"
+        ],
+        "post": [
+          "T156136|Open, Medium"
+        ]
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T154780|Closed, Resolved"
+        ],
+        "post": [
+          "T228575|Closed, Resolved"
+        ]
+      }
+    },
+    {
+      "ir": "2017-01-18_Labs",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "333227|ABANDONED"
+        ],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "2017-01-19_Labstore",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T155832|Closed, Resolved"
+        ],
+        "post": [
+          "T157478|Closed, Declined"
+        ]
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "2017-01-26_API_Slowdown",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T156475|Closed, Declined"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T155875|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "2017-02-22_www-portals",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T158810|Closed, Resolved",
+          "T158809|Closed, Resolved",
+          "T158808|Closed, Declined"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T158782|Closed, Resolved",
+          "T158809|Closed, Resolved"
+        ],
+        "post": []
+      }
+    },
+    {
+      "ir": "2017-03-20_Special_AllPages",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T160914|Closed, Resolved",
+          "T160916|Closed, Resolved",
+          "T160983|Open, Low",
+          "T160920|Closed, Declined",
+          "T160984|Closed, Resolved",
+          "T160985|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T97797|Closed, DeclinedPRODUCTION ERROR",
+          "T149421|Open, Medium",
+          "T97192|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [
+          "T160983|Open, Low",
+          "T160984|Closed, Resolved",
+          "T160985|Closed, Resolved",
+          "T160920|Closed, Declined",
+          "T160916|Closed, Resolved",
+          "T160914|Closed, Resolved"
+        ],
+        "post": []
+      }
+    },
+    {
+      "ir": "2017-03-22_AuthDNS",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "344148|MERGED",
+          "344152|MERGED"
+        ],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T161145|Closed, Declined",
+          "T161148|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "2017-03-23_wikibase",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": [
+          "349934|MERGED"
+        ]
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T158360|Closed, Declined",
+          "T121597|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [
+          "T161528|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": [
+          "T206694|Open, Medium",
+          "T278019|Closed, Resolved",
+          "T204383|Closed, Resolved"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T78802|Closed, Declined",
+          "T48653|Closed, Declined",
+          "T45917|Closed, Resolved",
+          "T49301|Closed, Declined",
+          "T103879|Closed, Declined",
+          "T107515|Closed, Declined",
+          "T119747|Closed, Resolved",
+          "T130317|Closed, Resolved",
+          "T133913|Closed, Declined",
+          "T50002|Closed, Resolved",
+          "T142784|Closed, Resolved",
+          "T154646|Closed, Resolved"
+        ],
+        "preClosed": [
+          "T45917|Closed, Resolved",
+          "T119747|Closed, Resolved",
+          "T142784|Closed, Resolved",
+          "T154646|Closed, Resolved"
+        ],
+        "during": [],
+        "post": [
+          "T164035|Closed, Resolved",
+          "T163671|Closed, Resolved",
+          "T191921|Closed, Resolved",
+          "T165675|Closed, ResolvedPRODUCTION ERROR",
+          "T200960|Closed, Resolved",
+          "T204907|Closed, Resolved",
+          "T162974|Closed, Resolved",
+          "T173146|Closed, Resolved",
+          "T183952|Closed, Resolved",
+          "T183999|Closed, Resolved"
+        ]
+      }
+    },
+    {
+      "ir": "2017-04-19_ContentTranslation",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T163105|Closed, Resolved",
+          "T160984|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [
+          "T163344|Closed, Resolved",
+          "T164050|Closed, Declined"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T163105|Closed, Resolved",
+          "T102729|Closed, Resolved",
+          "T149421|Open, Medium",
+          "T160985|Closed, Resolved",
+          "T97192|Closed, Resolved",
+          "T160914|Closed, Resolved"
+        ],
+        "preClosed": [
+          "T160914|Closed, Resolved"
+        ],
+        "during": [
+          "T164050|Closed, Declined"
+        ],
+        "post": []
+      }
+    },
+    {
+      "ir": "2017-04-27_archiva",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T158131|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [
+          "T164036|Closed, Resolved",
+          "T164042|Closed, Declined"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T156140|Open, Low",
+          "T158131|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "2017-11-28_ORES",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T168073|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [
+          "T181567|Closed, Resolved",
+          "T181559|Closed, Resolved",
+          "T182222|Closed, Duplicate"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [
+          "T122676|Closed, Declined",
+          "T167149|Closed, Resolved"
+        ],
+        "preClosed": [
+          "T167149|Closed, Resolved"
+        ],
+        "during": [
+          "T182256|Closed, Declined"
+        ],
+        "post": [
+          "T196889|Closed, Resolved",
+          "T210577|Closed, Declined",
+          "T210579|Closed, Resolved",
+          "T210580|Closed, Invalid",
+          "T210582|Closed, Declined",
+          "T210605|Closed, Declined"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "20170629-ganeti",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T169312|Closed, Resolved",
+          "T169313|Closed, Resolved",
+          "T169316|Open, Medium",
+          "T169304|Closed, Resolved",
+          "T169318|Open, Medium",
+          "T169321|Closed, Resolved",
+          "T169322|Closed, Declined"
+        ],
+        "post": [
+          "TX|"
+        ]
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T150160|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [
+          "T169360|Closed, Resolved"
+        ],
+        "post": []
+      }
+    },
+    {
+      "ir": "2018-01-10_swift",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T184715|Closed, Declined"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T184721|Closed, Resolved"
+        ],
+        "post": []
+      }
+    },
+    {
+      "ir": "2018-01-29_MediaWiki",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T183999|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [
+          "T186064|Open, Medium",
+          "T186069|Closed, Resolved",
+          "T186065|Open, Needs Triage",
+          "T186067|Closed, Declined"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T136839|Closed, Resolved",
+          "T114313|Closed, Declined"
+        ],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "2018-02-06_Phabricator",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T160714|Closed, Declined"
+        ],
+        "preClosed": [
+          "T160714|Closed, Declined"
+        ],
+        "during": [],
+        "post": [
+          "T187790|Closed, Resolved"
+        ]
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T182832|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "2018-02-28_puppetmaster",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T188601|Closed, Declined",
+          "T188602|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T187434|Open, Medium"
+        ],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "2018-06-06_mx",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T196916|Closed, Resolved",
+          "T196920|Closed, Resolved",
+          "T197171|Closed, Resolved",
+          "T197172|Closed, Invalid"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T197173|Open, Medium"
+        ],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T196598|Closed, Resolved",
+          "T197173|Open, Medium"
+        ],
+        "post": []
+      }
+    },
+    {
+      "ir": "2018-06-15_phabricator-vandalism",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "440510|ABANDONED"
+        ],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T197550|Closed, Resolved"
+        ],
+        "post": [
+          "T197922|",
+          "T198612|Closed, Resolved",
+          "T199741|",
+          "T198283|"
+        ]
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "2018-06-26_LoadBalancers",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T184715|Closed, Declined"
+        ],
+        "preClosed": [
+          "T184715|Closed, Declined"
+        ],
+        "during": [
+          "T198185|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T198277|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T184721|Closed, Resolved"
+        ],
+        "preClosed": [
+          "T184721|Closed, Resolved"
+        ],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "2018-07-11_fundraising_undeliverable_mail",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T161567|Closed, Declined2 Estimated Story Points"
+        ],
+        "preClosed": [],
+        "during": [
+          "T199382|Closed, Declined"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "2018-07-11_kafka-eqiad",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "445304|MERGED"
+        ],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T199427|Closed, Declined",
+          "T199428|Closed, Declined",
+          "T199431|Open, Medium",
+          "T199432|Closed, Declined",
+          "T199433|Closed, Resolved",
+          "T199441|Closed, Resolved",
+          "T199443|Closed, Resolved",
+          "T200177|Closed, Resolved",
+          "T199444|Closed, Resolved",
+          "T200025|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "2018-07-17_Train",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": [
+          "465763|MERGED"
+        ]
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T199495|Closed, Resolved",
+          "T199504|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [
+          "T199763|Closed, Resolved",
+          "T199856|Closed, Resolved",
+          "T199941|Closed, ResolvedPRODUCTION ERROR",
+          "T199983|Closed, Resolved",
+          "T200026|Closed, Resolved",
+          "T200072|Closed, ResolvedPRODUCTION ERROR",
+          "T200269|Closed, DuplicatePRODUCTION ERROR",
+          "T200136|Closed, Resolved"
+        ],
+        "post": [
+          "T201170|Open, Low"
+        ]
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T117737|Closed, Resolved",
+          "T58849|Open, Medium",
+          "T191059|Closed, ResolvedRelease",
+          "T194015|Closed, Resolved"
+        ],
+        "preClosed": [
+          "T194015|Closed, Resolved"
+        ],
+        "during": [
+          "T199983|Closed, Resolved",
+          "T199941|Closed, ResolvedPRODUCTION ERROR",
+          "T200072|Closed, ResolvedPRODUCTION ERROR"
+        ],
+        "post": [
+          "T201170|Open, Low",
+          "T230747|Closed, InvalidBUG REPORT"
+        ]
+      }
+    },
+    {
+      "ir": "2018-07-28_eventlogging",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T200760|Closed, Declined",
+          "T200765|Closed, Resolved3 Estimated Story Points"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T200630|Closed, Declined"
+        ],
+        "post": []
+      }
+    },
+    {
+      "ir": "2018-09-18_train",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T204871|Closed, DeclinedPRODUCTION ERROR",
+          "T204907|Closed, Resolved",
+          "T204961|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T160692|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "2018-11-29_ores",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T210719|Closed, Declined",
+          "T210720|Closed, Resolved",
+          "T210721|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": [
+          "T213743|Closed, Resolved"
+        ]
+      }
+    },
+    {
+      "ir": "2018-12-04_Toolforge-Kubernetes",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T211029|Open, Low"
+        ],
+        "preClosed": [],
+        "during": [
+          "T211199|Closed, Resolved",
+          "T211200|Closed, Invalid",
+          "T211202|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [
+          "T181551|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [],
+        "post": [
+          "T235708|Open, Stalled, Medium",
+          "T237410|Closed, Resolved",
+          "T237411|Closed, Resolved",
+          "T238708|Closed, Resolved",
+          "T239146|Closed, Resolved"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T161553|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "2019-02-08_logstash-mediawiki",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T215611|Closed, ResolvedPRODUCTION ERROR",
+          "T215900|Closed, Declined",
+          "T215904|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T205856|Open, Medium",
+          "T88732|Closed, Resolved",
+          "T214720|Closed, Resolved",
+          "T213081|Closed, Resolved"
+        ],
+        "preClosed": [
+          "T88732|Closed, Resolved",
+          "T213081|Closed, Resolved"
+        ],
+        "during": [
+          "T215611|Closed, ResolvedPRODUCTION ERROR",
+          "T215900|Closed, Declined"
+        ],
+        "post": [
+          "T217385|Closed, Resolved3 Estimated Story Points",
+          "T331879|Open, Needs Triage",
+          "T255243|Closed, Resolved",
+          "T235891|Closed, Invalid"
+        ]
+      }
+    },
+    {
+      "ir": "2019-02-13_cloudvps",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T90364|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [
+          "T216132|Closed, Declined",
+          "T216041|Closed, Declined",
+          "T216133|Closed, Resolved",
+          "T216733|Open, Stalled, Medium",
+          "T216767|Closed, Resolved",
+          "T216768|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": [
+          "T224188|Closed, Resolved",
+          "T236290|Closed, Resolved",
+          "T236819|Closed, Resolved",
+          "T239918|Closed, Resolved",
+          "T239917|Closed, Resolved",
+          "T240021|Closed, Resolved",
+          "T240715|Closed, Resolved",
+          "T240718|Closed, Resolved",
+          "T240722|Closed, Resolved",
+          "T240965|Closed, Resolved",
+          "T243327|Closed, Resolved",
+          "T244868|Closed, Resolved"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T215892|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [
+          "T216088|Open, Medium"
+        ],
+        "post": [
+          "T246130|Closed, Resolved"
+        ]
+      }
+    },
+    {
+      "ir": "2019-02-14_labsdb1005",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T193264|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [
+          "T216167|Closed, Resolved",
+          "T216168|Closed, Resolved",
+          "T216170|Closed, Resolved",
+          "T216202|Closed, Resolved",
+          "T216749|Closed, Resolved",
+          "T216769|Closed, Resolved",
+          "T216770|Closed, Duplicate"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [
+          "T196507|Closed, Resolved",
+          "T194855|Closed, Resolved",
+          "T208754|Closed, Declined",
+          "T187456|Closed, Resolved",
+          "T209527|Closed, Resolved",
+          "T214835|Closed, Resolved"
+        ],
+        "preClosed": [
+          "T214835|Closed, Resolved"
+        ],
+        "during": [
+          "T216353|Closed, Resolved",
+          "T216373|Closed, Declined",
+          "T216749|Closed, Resolved",
+          "T216747|Closed, Resolved"
+        ],
+        "post": [
+          "T217922|Closed, Resolved",
+          "T219563|Closed, Resolved",
+          "T219652|Closed, Resolved",
+          "T220144|Closed, Resolved",
+          "T221806|Closed, Resolved",
+          "T224510|Closed, Invalid",
+          "T224747|Closed, Resolved",
+          "T266192|Closed, Resolved",
+          "T285981|Closed, Resolved",
+          "T285982|Closed, Resolved",
+          "T285983|Closed, Resolved",
+          "T224914|Closed, Resolved",
+          "T243329|Closed, ResolvedRequest"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T194855|Closed, Resolved",
+          "T196507|Closed, Resolved",
+          "T196751|Closed, Resolved"
+        ],
+        "preClosed": [
+          "T196751|Closed, Resolved"
+        ],
+        "during": [
+          "T216170|Closed, Resolved",
+          "T216208|Closed, Resolved",
+          "T216202|Closed, Resolved",
+          "T216173|Closed, Declined",
+          "T216441|Closed, Resolved",
+          "T216749|Closed, Resolved"
+        ],
+        "post": [
+          "T217922|Closed, Resolved"
+        ]
+      }
+    },
+    {
+      "ir": "2019-03-20_ORES",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T122676|Closed, Declined"
+        ],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [
+          "T167149|Closed, Resolved",
+          "T196889|Closed, Resolved",
+          "T210577|Closed, Declined",
+          "T210579|Closed, Resolved",
+          "T210580|Closed, Invalid",
+          "T210582|Closed, Declined",
+          "T210605|Closed, Declined"
+        ],
+        "preClosed": [
+          "T167149|Closed, Resolved",
+          "T196889|Closed, Resolved",
+          "T210579|Closed, Resolved"
+        ],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T210580|Closed, Invalid",
+          "T216838|Closed, Resolved",
+          "T210584|Closed, Declined",
+          "T148506|Closed, Resolved",
+          "T163326|Closed, Resolved"
+        ],
+        "preClosed": [
+          "T210584|Closed, Declined",
+          "T148506|Closed, Resolved",
+          "T163326|Closed, Resolved"
+        ],
+        "during": [],
+        "post": [
+          "T245591|Closed, Duplicate"
+        ]
+      }
+    },
+    {
+      "ir": "2019-05-06_zuul",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T158054|Closed, Declined",
+          "T105474|Closed, Declined"
+        ],
+        "preClosed": [],
+        "during": [
+          "T222645|Closed, Declined"
+        ],
+        "post": [
+          "T140297|"
+        ]
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T222689|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T223209|Closed, Resolved",
+          "T223212|Closed, Resolved"
+        ],
+        "post": []
+      }
+    },
+    {
+      "ir": "2019-07-15_maps",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T228497|Closed, Declined"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": [
+          "T263854|Closed, Resolved1 Estimated Story Points"
+        ]
+      }
+    },
+    {
+      "ir": "2019-08-02_api-overload-parsoid",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T167906|Closed, Declined",
+          "T228878|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [
+          "T229262|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [
+          "T230236|Closed, Resolved",
+          "T230396|Closed, Resolved"
+        ],
+        "post": [
+          "T230570|Open, Stalled, Needs Triage",
+          "T232303|Closed, Resolved",
+          "T260154|Closed, Resolved"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T229262|Closed, Resolved",
+          "T223458|Closed, Resolved",
+          "T225140|Open, Low0 Estimated Story Points"
+        ],
+        "preClosed": [
+          "T223458|Closed, Resolved"
+        ],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "2019-09-10_toolforge-kubernetes",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T214513|Closed, Resolved",
+          "T142862|Closed, Resolved"
+        ],
+        "preClosed": [
+          "T142862|Closed, Resolved"
+        ],
+        "during": [
+          "T232769|Closed, Resolved",
+          "T232770|Closed, Invalid",
+          "T232772|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [
+          "T111914|Closed, Resolved",
+          "T142862|Closed, Resolved",
+          "T215663|Closed, Resolved",
+          "T215530|Closed, Resolved",
+          "T215679|Closed, Resolved",
+          "T215975|Closed, Resolved",
+          "T172855|Closed, Resolved",
+          "T215531|Closed, Resolved",
+          "T215529|Closed, Resolved",
+          "T226098|Closed, Resolved",
+          "T228267|Closed, Resolved",
+          "T228500|Closed, Resolved",
+          "T228660|Closed, Resolved",
+          "T228887|Closed, Resolved",
+          "T229009|Closed, Resolved",
+          "T215553|Closed, Resolved",
+          "T169287|Closed, Resolved",
+          "T119814|Closed, Resolved",
+          "T144153|Closed, Duplicate",
+          "T215678|Closed, Resolved",
+          "T227290|Closed, Resolved",
+          "T224273|Closed, Duplicate",
+          "T228499|Closed, Resolved",
+          "T229058|Closed, Resolved"
+        ],
+        "preClosed": [
+          "T111914|Closed, Resolved",
+          "T142862|Closed, Resolved",
+          "T215663|Closed, Resolved",
+          "T215530|Closed, Resolved",
+          "T215975|Closed, Resolved",
+          "T215529|Closed, Resolved",
+          "T226098|Closed, Resolved",
+          "T228267|Closed, Resolved",
+          "T228660|Closed, Resolved",
+          "T228887|Closed, Resolved",
+          "T169287|Closed, Resolved",
+          "T119814|Closed, Resolved",
+          "T144153|Closed, Duplicate",
+          "T224273|Closed, Duplicate"
+        ],
+        "during": [
+          "T233372|Closed, Resolved"
+        ],
+        "post": [
+          "T234032|Closed, Resolved",
+          "T234037|Closed, Resolved",
+          "T235059|Closed, Resolved",
+          "T234231|Closed, Resolved",
+          "T236203|Closed, Resolved",
+          "T254293|Closed, Resolved",
+          "T234702|Closed, Resolved",
+          "T236074|Closed, Resolved",
+          "T236249|Closed, Resolved",
+          "T236824|Closed, Resolved",
+          "T237443|Closed, Resolved",
+          "T237541|Closed, Resolved",
+          "T238641|Closed, Declined",
+          "T239403|Closed, Resolved",
+          "T239404|Open, Low",
+          "T239405|Closed, Resolved",
+          "T239406|Open, Stalled, Medium",
+          "T238655|Closed, Resolved",
+          "T238162|Closed, Resolved",
+          "T346313|Closed, ResolvedSecurity",
+          "T235627|Closed, Resolved",
+          "T235756|Closed, Duplicate",
+          "T236202|Closed, Resolved",
+          "T237836|Closed, Resolved",
+          "T236826|Closed, Resolved",
+          "T237633|Closed, Resolved",
+          "T237643|Closed, Resolved",
+          "T237557|Closed, Resolved",
+          "T238058|Closed, Resolved",
+          "T238096|Closed, Resolved",
+          "T245180|Closed, Resolved",
+          "T240402|Closed, Resolved",
+          "T241853|Closed, Resolved",
+          "T237784|Closed, Resolved",
+          "T237789|Closed, Resolved",
+          "T238654|Closed, Resolved",
+          "T239407|Closed, Duplicate",
+          "T239409|Closed, Resolved",
+          "T272905|Open, Low",
+          "T240922|Closed, Resolved",
+          "T240923|Closed, Resolved",
+          "T240925|Closed, Invalid",
+          "T241008|Closed, Resolved",
+          "T241310|Closed, Resolved",
+          "T242067|Closed, ResolvedSecurity",
+          "T242719|Closed, Resolved",
+          "T242824|Closed, Resolved",
+          "T243468|Closed, Duplicate",
+          "T244289|Closed, Resolved",
+          "T244293|Closed, Resolved",
+          "T244791|Closed, Resolved"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T228499|Closed, Resolved",
+          "T119814|Closed, Resolved",
+          "T169287|Closed, Resolved",
+          "T111885|Closed, Resolved",
+          "T153943|Closed, Declined",
+          "T148929|Closed, Duplicate",
+          "T215531|Closed, Resolved"
+        ],
+        "preClosed": [
+          "T119814|Closed, Resolved",
+          "T169287|Closed, Resolved",
+          "T111885|Closed, Resolved",
+          "T153943|Closed, Declined",
+          "T148929|Closed, Duplicate"
+        ],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "2019-09-20_d2_switch_failure",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T233645|Closed, Resolved",
+          "T233662|Closed, Resolved",
+          "T233735|Open, Needs Triage",
+          "T233739|Closed, Declined"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T233623|Open, Needs Triage"
+        ],
+        "post": [
+          "T331879|Open, Needs Triage"
+        ]
+      }
+    },
+    {
+      "ir": "2019-09-23_s3_primary_db_master_crash",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T196366|Open, Medium",
+          "T172497|Open, Stalled, Medium",
+          "T230783|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [
+          "T233569|Closed, Declined",
+          "T233623|Open, Needs Triage",
+          "T233684|Closed, Resolved",
+          "T233774|Closed, Invalid"
+        ],
+        "post": [
+          "T233567|"
+        ]
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": [
+          "T322987|Closed, Resolved",
+          "T322988|Closed, Resolved"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T221159|Closed, Declined0 Estimated Story Points",
+          "T225391|Closed, Resolved",
+          "T231638|Closed, Resolved",
+          "T113834|Closed, Resolved",
+          "T120047|Closed, Resolved"
+        ],
+        "preClosed": [
+          "T225391|Closed, Resolved",
+          "T113834|Closed, Resolved",
+          "T120047|Closed, Resolved"
+        ],
+        "during": [
+          "T233534|Closed, Resolved"
+        ],
+        "post": [
+          "T281249|Closed, Resolved",
+          "T314020|Closed, Resolved",
+          "T327852|Open, Needs Triage",
+          "T236379|Closed, Resolved",
+          "T294490|Closed, Duplicate",
+          "T252679|Open, Medium"
+        ]
+      }
+    },
+    {
+      "ir": "2019-10-07_wmcs-network",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T234834|Closed, Resolved",
+          "T234830|Closed, Duplicate",
+          "T234876|Closed, Resolved",
+          "T234836|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T234830|Closed, Duplicate",
+          "T234876|Closed, Resolved",
+          "T234836|Closed, Resolved",
+          "T235070|Closed, Invalid"
+        ],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T212302|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [],
+        "post": [
+          "T237749|Closed, Resolved"
+        ]
+      }
+    },
+    {
+      "ir": "2020-02-04_maps",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T228497|Closed, Declined"
+        ],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": [
+          "T263854|Closed, Resolved1 Estimated Story Points"
+        ]
+      }
+    },
+    {
+      "ir": "2020-02-11_caching-proxies",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T244761|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [
+          "T245058|Open, Medium",
+          "T245059|Open, Low",
+          "T245060|Closed, Duplicate"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": [
+          "T266783|Closed, Resolved",
+          "T266784|Closed, Resolved"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T184715|Closed, Declined"
+        ],
+        "preClosed": [
+          "T184715|Closed, Declined"
+        ],
+        "during": [
+          "T245058|Open, Medium"
+        ],
+        "post": [
+          "T332027|Open, Medium"
+        ]
+      }
+    },
+    {
+      "ir": "2020-05-05_wdqs-deploy",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T252503|Closed, Declined",
+          "T252504|Open, High",
+          "T252508|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": [
+          "T313751|Closed, Resolved5 Estimated Story Points"
+        ]
+      }
+    },
+    {
+      "ir": "2020-05-11_thumbor",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T252425|Closed, Duplicate",
+          "T252426|Closed, Resolved"
+        ],
+        "post": [
+          "T259033|Open, Needs Triage",
+          "T290034|Open, Needs TriageFeature"
+        ]
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "2020-05-22_thumbnails",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T240281|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [],
+        "post": [
+          "T260401|Closed, Declined",
+          "T261534|Closed, Resolved",
+          "T260402|Open, Low"
+        ]
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T38587|Closed, ResolvedPRODUCTION ERROR",
+          "T187491|Closed, ResolvedPRODUCTION ERROR",
+          "T198177|Open, HighPRODUCTION ERROR",
+          "T204879|Closed, DeclinedPRODUCTION ERROR",
+          "T204881|Closed, ResolvedPRODUCTION ERROR",
+          "T205567|Open, MediumPRODUCTION ERROR",
+          "T208539|Closed, ResolvedPRODUCTION ERROR",
+          "T228292|Closed, DuplicatePRODUCTION ERROR",
+          "T235550|Closed, Resolved"
+        ],
+        "preClosed": [
+          "T235550|Closed, Resolved"
+        ],
+        "during": [
+          "T253405|Closed, ResolvedBUG REPORT"
+        ],
+        "post": [
+          "T271344|Closed, ResolvedRelease",
+          "T267668|Closed, Resolved"
+        ]
+      }
+    },
+    {
+      "ir": "2020-07-23_wdqs-outage",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T258739|Closed, Resolved",
+          "T258754|Closed, Declined"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T199228|Closed, Declined"
+        ],
+        "preClosed": [
+          "T199228|Closed, Declined"
+        ],
+        "during": [],
+        "post": [
+          "T313751|Closed, Resolved5 Estimated Story Points",
+          "T293027|Closed, Resolved8 Estimated Story Points"
+        ]
+      }
+    },
+    {
+      "ir": "2020-09-01_data-center-switchover",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "626403|MERGED"
+        ],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T261767|Closed, Resolved",
+          "T261763|Closed, Resolved",
+          "T261868|Closed, Declined"
+        ],
+        "post": [
+          "T265936|Closed, Resolved"
+        ]
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T261846|Closed, Resolved"
+        ],
+        "post": [
+          "T341859|Closed, Resolved",
+          "T266717|Closed, Resolved",
+          "T267607|Closed, Resolved"
+        ]
+      }
+    },
+    {
+      "ir": "2020-09-02_wdqs-outage",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T258754|Closed, Declined"
+        ],
+        "preClosed": [],
+        "during": [
+          "T262002|Open, Medium",
+          "T262009|Closed, Resolved2 Estimated Story Points"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T262002|Open, Medium"
+        ],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T199228|Closed, Declined"
+        ],
+        "preClosed": [
+          "T199228|Closed, Declined"
+        ],
+        "during": [],
+        "post": [
+          "T313751|Closed, Resolved5 Estimated Story Points",
+          "T293027|Closed, Resolved8 Estimated Story Points"
+        ]
+      }
+    },
+    {
+      "ir": "2020-09-09_mobileapps_config_change",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T262437|Closed, Resolved"
+        ],
+        "post": [
+          "T264340|Closed, Declined"
+        ]
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T262437|Closed, Resolved"
+        ],
+        "post": [
+          "T263798|Closed, Resolved"
+        ]
+      }
+    },
+    {
+      "ir": "2021-02-26_sudo",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "667119|MERGED",
+          "667120|MERGED"
+        ],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T275867|Closed, Invalid"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "2021-03-14_MediaWiki_API",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T193050|Closed, Declined"
+        ],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": [
+          "T291419|Closed, Duplicate",
+          "T291420|Closed, Invalid"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T195578|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [],
+        "post": [
+          "T296063|Closed, Resolved",
+          "T295706|Closed, Resolved",
+          "T291419|Closed, Duplicate",
+          "T291420|Closed, Invalid"
+        ]
+      }
+    },
+    {
+      "ir": "2021-04-27_Commons_wiki_primary_db",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T281261|Closed, Invalid",
+          "T281238|Closed, Resolved",
+          "T281240|Closed, Resolved",
+          "T281242|Closed, Resolved",
+          "T281249|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T196366|Open, Medium"
+        ],
+        "preClosed": [],
+        "during": [
+          "T281238|Closed, Resolved"
+        ],
+        "post": []
+      }
+    },
+    {
+      "ir": "2021-10-25_s3_db_recentchanges_replica",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T294490|Closed, Duplicate"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "2021-10-29_graphite",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T294355|Closed, Resolved",
+          "T228380|Open, Medium"
+        ],
+        "preClosed": [],
+        "during": [],
+        "post": [
+          "T296295|Closed, Declined"
+        ]
+      },
+      "childTasks": {
+        "pre": [
+          "T205870|Open, Medium",
+          "T233089|Closed, Resolved",
+          "T233448|Closed, Resolved",
+          "T239833|Closed, Declined",
+          "T240685|Closed, Resolved",
+          "T249164|Closed, Resolved",
+          "T292311|Closed, Resolved",
+          "T292269|Closed, Resolved",
+          "T240995|Open, Medium",
+          "T241176|Closed, Resolved",
+          "T247820|Closed, Resolved",
+          "T277857|Closed, Resolved",
+          "T175087|Open, High",
+          "T190936|Closed, Declined",
+          "T293761|Closed, Invalid",
+          "T233956|Closed, Resolved"
+        ],
+        "preClosed": [
+          "T233448|Closed, Resolved",
+          "T239833|Closed, Declined",
+          "T292311|Closed, Resolved",
+          "T292269|Closed, Resolved",
+          "T241176|Closed, Resolved",
+          "T247820|Closed, Resolved",
+          "T277857|Closed, Resolved",
+          "T190936|Closed, Declined",
+          "T233956|Closed, Resolved"
+        ],
+        "during": [],
+        "post": [
+          "T344748|Closed, Resolved",
+          "T344751|Closed, Resolved",
+          "T323124|Closed, Resolved",
+          "T323129|Closed, Resolved",
+          "T321398|Open, Needs Triage",
+          "T325282|Open, Needs Triage",
+          "T325283|Open, Medium",
+          "T325284|Open, Needs Triage",
+          "T336764|Open, Needs Triage",
+          "T366292|Closed, Resolved",
+          "T372457|Open, Medium",
+          "T372855|Open, High5 Estimated Story Points",
+          "T372856|Open, High",
+          "T379156|Open, Needs Triage",
+          "T385054|Open, Needs Triage",
+          "T389047|Open, Needs Triage",
+          "T389320|Open, Needs Triage",
+          "T389594|Open, In Progress, Needs Triage",
+          "T389321|Open, Needs Triage"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T228380|Open, Medium",
+          "T233089|Closed, Resolved",
+          "T240685|Closed, Resolved",
+          "T249164|Closed, Resolved",
+          "T205870|Open, Medium"
+        ],
+        "preClosed": [],
+        "during": [],
+        "post": [
+          "T297494|Closed, Resolved",
+          "T297487|Closed, Declined",
+          "T297485|Open, Needs Triage",
+          "T297145|Closed, Resolved",
+          "T372856|Open, High",
+          "T372855|Open, High5 Estimated Story Points",
+          "T372457|Open, Medium",
+          "T366292|Closed, Resolved"
+        ]
+      }
+    },
+    {
+      "ir": "2022-05-01_etcd",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "787885|MERGED",
+          "787884|MERGED",
+          "788437|MERGED",
+          "791671|MERGED",
+          "790657|ABANDONED"
+        ],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T307382|Open, Medium",
+          "T307383|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T307382|Open, Medium"
+        ],
+        "post": []
+      }
+    },
+    {
+      "ir": "2022-07-13_brief_outbound_bandwidth_spike_eqsin",
+      "irMentionedCRs": {
+        "pre": [
+          "768723|ABANDONED"
+        ],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": [
+          "T310997|"
+        ]
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "2022-08-16_Beta_Cluster_502",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T315379|Closed, Resolved",
+          "T315394|Closed, Resolved",
+          "T315395|Closed, Declined",
+          "T315386|Closed, Resolved",
+          "T315695|Open, Needs Triage"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T53497|Open, Stalled, Medium"
+        ],
+        "preClosed": [],
+        "during": [
+          "T315350|Closed, Resolved"
+        ],
+        "post": []
+      }
+    },
+    {
+      "ir": "2022-09-15_sessionstore_quorum_issues",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T253244|Closed, Resolved"
+        ],
+        "preClosed": [
+          "T253244|Closed, Resolved"
+        ],
+        "during": [],
+        "post": [
+          "T320398|Open, Medium",
+          "T320401|Closed, Declined"
+        ]
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T252898|Closed, Resolved"
+        ],
+        "preClosed": [
+          "T252898|Closed, Resolved"
+        ],
+        "during": [],
+        "post": [
+          "T327960|Closed, Resolved"
+        ]
+      }
+    },
+    {
+      "ir": "2022-12-09_api_appserver_worker_starvation",
+      "irMentionedCRs": {
+        "pre": [
+          "864722|MERGED"
+        ],
+        "preClosed": [],
+        "during": [
+          "866612|MERGED",
+          "867597|ABANDONED"
+        ],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T325068|Open, Medium"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "2023-01-24_sessionstore_quorum_issues",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T320401|Closed, Declined"
+        ],
+        "preClosed": [],
+        "during": [
+          "T327960|Closed, Resolved",
+          "T327954|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": [
+          "T334754|Closed, Resolved"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T320401|Closed, Declined",
+          "T128590|Closed, Declined",
+          "T253244|Closed, Resolved",
+          "T283838|Closed, Resolved",
+          "T327524|Closed, Invalid"
+        ],
+        "preClosed": [
+          "T128590|Closed, Declined",
+          "T253244|Closed, Resolved",
+          "T283838|Closed, Resolved"
+        ],
+        "during": [
+          "T327960|Closed, Resolved",
+          "T327675|Closed, Resolved"
+        ],
+        "post": []
+      }
+    },
+    {
+      "ir": "2023-04-17_eqiad_LVS",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T334703|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [
+          "T334949|Closed, Declined"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      }
+    },
+    {
+      "ir": "2023-06-18_search_broken_on_wikidata_and_commons",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T339939|Open, Needs Triage",
+          "T339938|Closed, Declined",
+          "T339935|Closed, Resolved5 Estimated Story Points"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T339935|Closed, Resolved5 Estimated Story Points"
+        ],
+        "post": []
+      }
+    },
+    {
+      "ir": "2024-06-12_WMCS_toolforge_k8s_control_plane",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T333934|Open, Medium"
+        ],
+        "preClosed": [],
+        "during": [
+          "T367349|Closed, Duplicate",
+          "T367350|Closed, Resolved"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [
+          "T239404|Open, Low"
+        ],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T239404|Open, Low",
+          "T333922|Open, High"
+        ],
+        "preClosed": [],
+        "during": [
+          "T367348|Closed, Resolved"
+        ],
+        "post": []
+      }
+    },
+    {
+      "ir": "2024-09-23_pc1013_hardware_issue",
+      "irMentionedCRs": {
+        "pre": [],
+        "preClosed": [],
+        "during": [],
+        "post": []
+      },
+      "irMentionedTasks": {
+        "pre": [
+          "T373037|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [
+          "T375382|Closed, Duplicate"
+        ],
+        "post": []
+      },
+      "childTasks": {
+        "pre": [],
+        "preClosed": [],
+        "during": [
+          "T375395|Closed, Resolved"
+        ],
+        "post": [
+          "T383137|Closed, Resolved",
+          "T383234|Closed, Resolved",
+          "T383235|Closed, Resolved"
+        ]
+      },
+      "mentionedTasks": {
+        "pre": [
+          "T373037|Closed, Resolved"
+        ],
+        "preClosed": [],
+        "during": [
+          "T375395|Closed, Resolved",
+          "T376387|Closed, Resolved"
+        ],
+        "post": [
+          "T387205|Closed, Resolved3 Estimated Story Points",
+          "T383137|Closed, Resolved",
+          "T378076|Closed, ResolvedPRODUCTION ERROR"
+        ]
+      }
+    }
+  ]
+}

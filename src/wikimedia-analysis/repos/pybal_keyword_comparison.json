@@ -1,0 +1,1413 @@
+[
+  {
+    "key": "bug",
+    "ir_count": 7,
+    "ir_percent": 1,
+    "others_count": 77,
+    "others_percent": 0.16452991452991453,
+    "diff": 0.8354700854700855
+  },
+  {
+    "key": "change-id",
+    "ir_count": 7,
+    "ir_percent": 1,
+    "others_count": 269,
+    "others_percent": 0.5747863247863247,
+    "diff": 0.42521367521367526
+  },
+  {
+    "key": "main",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.01282051282051282,
+    "diff": -0.01282051282051282
+  },
+  {
+    "key": "function",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.019230769230769232,
+    "diff": -0.019230769230769232
+  },
+  {
+    "key": "packag",
+    "ir_percent": 0,
+    "others_count": 19,
+    "others_percent": 0.0405982905982906,
+    "diff": -0.0405982905982906
+  },
+  {
+    "key": "move",
+    "ir_percent": 0,
+    "others_count": 25,
+    "others_percent": 0.053418803418803416,
+    "diff": -0.053418803418803416
+  },
+  {
+    "key": "file",
+    "ir_percent": 0,
+    "others_count": 25,
+    "others_percent": 0.053418803418803416,
+    "diff": -0.053418803418803416
+  },
+  {
+    "key": "git-svn-id",
+    "ir_percent": 0,
+    "others_count": 53,
+    "others_percent": 0.11324786324786325,
+    "diff": -0.11324786324786325
+  },
+  {
+    "key": "ssh",
+    "ir_percent": 0,
+    "others_count": 53,
+    "others_percent": 0.11324786324786325,
+    "diff": -0.11324786324786325
+  },
+  {
+    "key": "//svn",
+    "ir_percent": 0,
+    "others_count": 53,
+    "others_percent": 0.11324786324786325,
+    "diff": -0.11324786324786325
+  },
+  {
+    "key": "org/svnroot/mediawiki/trunk/pyb",
+    "ir_percent": 0,
+    "others_count": 53,
+    "others_percent": 0.11324786324786325,
+    "diff": -0.11324786324786325
+  },
+  {
+    "key": "dd0e9695-b195-4be7-bd10-2dea1a65a6b6",
+    "ir_percent": 0,
+    "others_count": 53,
+    "others_percent": 0.11324786324786325,
+    "diff": -0.11324786324786325
+  },
+  {
+    "key": "svn",
+    "ir_percent": 0,
+    "others_count": 55,
+    "others_percent": 0.11752136752136752,
+    "diff": -0.11752136752136752
+  },
+  {
+    "key": "wikimedia",
+    "ir_percent": 0,
+    "others_count": 57,
+    "others_percent": 0.12179487179487179,
+    "diff": -0.12179487179487179
+  },
+  {
+    "key": "empti",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.021367521367521368,
+    "diff": -0.021367521367521368
+  },
+  {
+    "key": "allow",
+    "ir_count": 3,
+    "ir_percent": 0.42857142857142855,
+    "others_count": 12,
+    "others_percent": 0.02564102564102564,
+    "diff": 0.4029304029304029
+  },
+  {
+    "key": "not",
+    "ir_count": 2,
+    "ir_percent": 0.2857142857142857,
+    "others_count": 65,
+    "others_percent": 0.1388888888888889,
+    "diff": 0.1468253968253968
+  },
+  {
+    "key": "test",
+    "ir_count": 2,
+    "ir_percent": 0.2857142857142857,
+    "others_count": 84,
+    "others_percent": 0.1794871794871795,
+    "diff": 0.10622710622710621
+  },
+  {
+    "key": "method",
+    "ir_percent": 0,
+    "others_count": 25,
+    "others_percent": 0.053418803418803416,
+    "diff": -0.053418803418803416
+  },
+  {
+    "key": "case",
+    "ir_count": 1,
+    "ir_percent": 0.14285714285714285,
+    "others_count": 32,
+    "others_percent": 0.06837606837606838,
+    "diff": 0.07448107448107447
+  },
+  {
+    "key": "add",
+    "ir_count": 3,
+    "ir_percent": 0.42857142857142855,
+    "others_count": 113,
+    "others_percent": 0.24145299145299146,
+    "diff": 0.1871184371184371
+  },
+  {
+    "key": "remov",
+    "ir_percent": 0,
+    "others_count": 36,
+    "others_percent": 0.07692307692307693,
+    "diff": -0.07692307692307693
+  },
+  {
+    "key": "metric",
+    "ir_percent": 0,
+    "others_count": 13,
+    "others_percent": 0.027777777777777776,
+    "diff": -0.027777777777777776
+  },
+  {
+    "key": "extend",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.014957264957264958,
+    "diff": -0.014957264957264958
+  },
+  {
+    "key": "t171710",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.019230769230769232,
+    "diff": -0.019230769230769232
+  },
+  {
+    "key": "instrument",
+    "ir_count": 1,
+    "ir_percent": 0.14285714285714285,
+    "others_count": 12,
+    "others_percent": 0.02564102564102564,
+    "diff": 0.11721611721611722
+  },
+  {
+    "key": "support",
+    "ir_count": 1,
+    "ir_percent": 0.14285714285714285,
+    "others_count": 39,
+    "others_percent": 0.08333333333333333,
+    "diff": 0.05952380952380952
+  },
+  {
+    "key": "pybal",
+    "ir_count": 2,
+    "ir_percent": 0.2857142857142857,
+    "others_count": 85,
+    "others_percent": 0.18162393162393162,
+    "diff": 0.10409035409035408
+  },
+  {
+    "key": "connect",
+    "ir_percent": 0,
+    "others_count": 21,
+    "others_percent": 0.04487179487179487,
+    "diff": -0.04487179487179487
+  },
+  {
+    "key": "initi",
+    "ir_count": 1,
+    "ir_percent": 0.14285714285714285,
+    "others_count": 14,
+    "others_percent": 0.029914529914529916,
+    "diff": 0.11294261294261293
+  },
+  {
+    "key": "server",
+    "ir_count": 4,
+    "ir_percent": 0.5714285714285714,
+    "others_count": 47,
+    "others_percent": 0.10042735042735043,
+    "diff": 0.471001221001221
+  },
+  {
+    "key": "base",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.01282051282051282,
+    "diff": -0.01282051282051282
+  },
+  {
+    "key": "state",
+    "ir_count": 1,
+    "ir_percent": 0.14285714285714285,
+    "others_count": 21,
+    "others_percent": 0.04487179487179487,
+    "diff": 0.09798534798534797
+  },
+  {
+    "key": "code",
+    "ir_count": 1,
+    "ir_percent": 0.14285714285714285,
+    "others_count": 24,
+    "others_percent": 0.05128205128205128,
+    "diff": 0.09157509157509157
+  },
+  {
+    "key": "class",
+    "ir_percent": 0,
+    "others_count": 28,
+    "others_percent": 0.05982905982905983,
+    "diff": -0.05982905982905983
+  },
+  {
+    "key": "number",
+    "ir_count": 1,
+    "ir_percent": 0.14285714285714285,
+    "others_count": 8,
+    "others_percent": 0.017094017094017096,
+    "diff": 0.12576312576312576
+  },
+  {
+    "key": "crash",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.014957264957264958,
+    "diff": -0.014957264957264958
+  },
+  {
+    "key": "string",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.017094017094017096,
+    "diff": -0.017094017094017096
+  },
+  {
+    "key": "fsm",
+    "ir_percent": 0,
+    "others_count": 19,
+    "others_percent": 0.0405982905982906,
+    "diff": -0.0405982905982906
+  },
+  {
+    "key": "handl",
+    "ir_count": 1,
+    "ir_percent": 0.14285714285714285,
+    "others_count": 35,
+    "others_percent": 0.07478632478632478,
+    "diff": 0.06807081807081806
+  },
+  {
+    "key": "unit",
+    "ir_count": 2,
+    "ir_percent": 0.2857142857142857,
+    "others_count": 36,
+    "others_percent": 0.07692307692307693,
+    "diff": 0.20879120879120877
+  },
+  {
+    "key": "port",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.019230769230769232,
+    "diff": -0.019230769230769232
+  },
+  {
+    "key": "instead",
+    "ir_percent": 0,
+    "others_count": 29,
+    "others_percent": 0.06196581196581197,
+    "diff": -0.06196581196581197
+  },
+  {
+    "key": "configur",
+    "ir_count": 1,
+    "ir_percent": 0.14285714285714285,
+    "others_count": 40,
+    "others_percent": 0.08547008547008547,
+    "diff": 0.05738705738705738
+  },
+  {
+    "key": "fix",
+    "ir_percent": 0,
+    "others_count": 88,
+    "others_percent": 0.18803418803418803,
+    "diff": -0.18803418803418803
+  },
+  {
+    "key": "report",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.019230769230769232,
+    "diff": -0.019230769230769232
+  },
+  {
+    "key": "coverag",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.023504273504273504,
+    "diff": -0.023504273504273504
+  },
+  {
+    "key": "configdict",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.01282051282051282,
+    "diff": -0.01282051282051282
+  },
+  {
+    "key": "jessie-wikimedia",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.017094017094017096,
+    "diff": -0.017094017094017096
+  },
+  {
+    "key": "low",
+    "ir_percent": 0,
+    "others_count": 14,
+    "others_percent": 0.029914529914529916,
+    "diff": -0.029914529914529916
+  },
+  {
+    "key": "urgenc",
+    "ir_percent": 0,
+    "others_count": 21,
+    "others_percent": 0.04487179487179487,
+    "diff": -0.04487179487179487
+  },
+  {
+    "key": "releas",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.01282051282051282,
+    "diff": -0.01282051282051282
+  },
+  {
+    "key": "avoid",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.019230769230769232,
+    "diff": -0.019230769230769232
+  },
+  {
+    "key": "requir",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.021367521367521368,
+    "diff": -0.021367521367521368
+  },
+  {
+    "key": "url",
+    "ir_count": 1,
+    "ir_percent": 0.14285714285714285,
+    "others_count": 6,
+    "others_percent": 0.01282051282051282,
+    "diff": 0.13003663003663002
+  },
+  {
+    "key": "travi",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.02564102564102564,
+    "diff": -0.02564102564102564
+  },
+  {
+    "key": "ipv",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.017094017094017096,
+    "diff": -0.017094017094017096
+  },
+  {
+    "key": "invoc",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.01282051282051282,
+    "diff": -0.01282051282051282
+  },
+  {
+    "key": "check",
+    "ir_count": 1,
+    "ir_percent": 0.14285714285714285,
+    "others_count": 11,
+    "others_percent": 0.023504273504273504,
+    "diff": 0.11935286935286935
+  },
+  {
+    "key": "runcommand",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.014957264957264958,
+    "diff": -0.014957264957264958
+  },
+  {
+    "key": "process",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.017094017094017096,
+    "diff": -0.017094017094017096
+  },
+  {
+    "key": "return",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.023504273504273504,
+    "diff": -0.023504273504273504
+  },
+  {
+    "key": "implement",
+    "ir_count": 1,
+    "ir_percent": 0.14285714285714285,
+    "others_count": 23,
+    "others_percent": 0.049145299145299144,
+    "diff": 0.09371184371184371
+  },
+  {
+    "key": "run",
+    "ir_percent": 0,
+    "others_count": 24,
+    "others_percent": 0.05128205128205128,
+    "diff": -0.05128205128205128
+  },
+  {
+    "key": "monitor",
+    "ir_count": 2,
+    "ir_percent": 0.2857142857142857,
+    "others_count": 53,
+    "others_percent": 0.11324786324786325,
+    "diff": 0.17246642246642246
+  },
+  {
+    "key": "it'",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.014957264957264958,
+    "diff": -0.014957264957264958
+  },
+  {
+    "key": "commit",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.023504273504273504,
+    "diff": -0.023504273504273504
+  },
+  {
+    "key": "bgp",
+    "ir_percent": 0,
+    "others_count": 57,
+    "others_percent": 0.12179487179487179,
+    "diff": -0.12179487179487179
+  },
+  {
+    "key": "instanc",
+    "ir_count": 1,
+    "ir_percent": 0.14285714285714285,
+    "others_count": 16,
+    "others_percent": 0.03418803418803419,
+    "diff": 0.10866910866910866
+  },
+  {
+    "key": "conf",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.014957264957264958,
+    "diff": -0.014957264957264958
+  },
+  {
+    "key": "valu",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.014957264957264958,
+    "diff": -0.014957264957264958
+  },
+  {
+    "key": "multipl",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.021367521367521368,
+    "diff": -0.021367521367521368
+  },
+  {
+    "key": "global",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.023504273504273504,
+    "diff": -0.023504273504273504
+  },
+  {
+    "key": "option",
+    "ir_percent": 0,
+    "others_count": 18,
+    "others_percent": 0.038461538461538464,
+    "diff": -0.038461538461538464
+  },
+  {
+    "key": "attribut",
+    "ir_percent": 0,
+    "others_count": 26,
+    "others_percent": 0.05555555555555555,
+    "diff": -0.05555555555555555
+  },
+  {
+    "key": "set",
+    "ir_percent": 0,
+    "others_count": 31,
+    "others_percent": 0.06623931623931624,
+    "diff": -0.06623931623931624
+  },
+  {
+    "key": "provid",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.014957264957264958,
+    "diff": -0.014957264957264958
+  },
+  {
+    "key": "reactor",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.017094017094017096,
+    "diff": -0.017094017094017096
+  },
+  {
+    "key": "self",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.019230769230769232,
+    "diff": -0.019230769230769232
+  },
+  {
+    "key": "ensur",
+    "ir_count": 1,
+    "ir_percent": 0.14285714285714285,
+    "others_count": 7,
+    "others_percent": 0.014957264957264958,
+    "diff": 0.1278998778998779
+  },
+  {
+    "key": "pool",
+    "ir_count": 3,
+    "ir_percent": 0.42857142857142855,
+    "others_count": 15,
+    "others_percent": 0.03205128205128205,
+    "diff": 0.3965201465201465
+  },
+  {
+    "key": "config",
+    "ir_count": 1,
+    "ir_percent": 0.14285714285714285,
+    "others_count": 11,
+    "others_percent": 0.023504273504273504,
+    "diff": 0.11935286935286935
+  },
+  {
+    "key": "exist",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.014957264957264958,
+    "diff": -0.014957264957264958
+  },
+  {
+    "key": "previous",
+    "ir_count": 1,
+    "ir_percent": 0.14285714285714285,
+    "others_count": 9,
+    "others_percent": 0.019230769230769232,
+    "diff": 0.12362637362637362
+  },
+  {
+    "key": "yet",
+    "ir_count": 2,
+    "ir_percent": 0.2857142857142857,
+    "others_count": 11,
+    "others_percent": 0.023504273504273504,
+    "diff": 0.26221001221001217
+  },
+  {
+    "key": "creat",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.02564102564102564,
+    "diff": -0.02564102564102564
+  },
+  {
+    "key": "don't",
+    "ir_count": 1,
+    "ir_percent": 0.14285714285714285,
+    "others_count": 13,
+    "others_percent": 0.027777777777777776,
+    "diff": 0.11507936507936507
+  },
+  {
+    "key": "just",
+    "ir_percent": 0,
+    "others_count": 13,
+    "others_percent": 0.027777777777777776,
+    "diff": -0.027777777777777776
+  },
+  {
+    "key": "setup",
+    "ir_percent": 0,
+    "others_count": 13,
+    "others_percent": 0.027777777777777776,
+    "diff": -0.027777777777777776
+  },
+  {
+    "key": "need",
+    "ir_count": 1,
+    "ir_percent": 0.14285714285714285,
+    "others_count": 14,
+    "others_percent": 0.029914529914529916,
+    "diff": 0.11294261294261293
+  },
+  {
+    "key": "call",
+    "ir_percent": 0,
+    "others_count": 16,
+    "others_percent": 0.03418803418803419,
+    "diff": -0.03418803418803419
+  },
+  {
+    "key": "lvsservic",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.01282051282051282,
+    "diff": -0.01282051282051282
+  },
+  {
+    "key": "object",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.014957264957264958,
+    "diff": -0.014957264957264958
+  },
+  {
+    "key": "modul",
+    "ir_percent": 0,
+    "others_count": 25,
+    "others_percent": 0.053418803418803416,
+    "diff": -0.053418803418803416
+  },
+  {
+    "key": "separ",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.014957264957264958,
+    "diff": -0.014957264957264958
+  },
+  {
+    "key": "servic",
+    "ir_percent": 0,
+    "others_count": 15,
+    "others_percent": 0.03205128205128205,
+    "diff": -0.03205128205128205
+  },
+  {
+    "key": "consist",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.017094017094017096,
+    "diff": -0.017094017094017096
+  },
+  {
+    "key": "cleanup",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.019230769230769232,
+    "diff": -0.019230769230769232
+  },
+  {
+    "key": "doesn't",
+    "ir_count": 1,
+    "ir_percent": 0.14285714285714285,
+    "others_count": 17,
+    "others_percent": 0.03632478632478633,
+    "diff": 0.10653235653235651
+  },
+  {
+    "key": "updat",
+    "ir_percent": 0,
+    "others_count": 27,
+    "others_percent": 0.057692307692307696,
+    "diff": -0.057692307692307696
+  },
+  {
+    "key": "dnsqueri",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.017094017094017096,
+    "diff": -0.017094017094017096
+  },
+  {
+    "key": "label",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.01282051282051282,
+    "diff": -0.01282051282051282
+  },
+  {
+    "key": "second",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.017094017094017096,
+    "diff": -0.017094017094017096
+  },
+  {
+    "key": "specif",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.023504273504273504,
+    "diff": -0.023504273504273504
+  },
+  {
+    "key": "precis",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.019230769230769232,
+    "diff": -0.019230769230769232
+  },
+  {
+    "key": "ipv6",
+    "ir_percent": 0,
+    "others_count": 21,
+    "others_percent": 0.04487179487179487,
+    "diff": -0.04487179487179487
+  },
+  {
+    "key": "renam",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.014957264957264958,
+    "diff": -0.014957264957264958
+  },
+  {
+    "key": "statu",
+    "ir_count": 2,
+    "ir_percent": 0.2857142857142857,
+    "others_count": 8,
+    "others_percent": 0.017094017094017096,
+    "diff": 0.2686202686202686
+  },
+  {
+    "key": "split",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.023504273504273504,
+    "diff": -0.023504273504273504
+  },
+  {
+    "key": "advertis",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.017094017094017096,
+    "diff": -0.017094017094017096
+  },
+  {
+    "key": "new",
+    "ir_count": 1,
+    "ir_percent": 0.14285714285714285,
+    "others_count": 30,
+    "others_percent": 0.0641025641025641,
+    "diff": 0.07875457875457875
+  },
+  {
+    "key": "true",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.014957264957264958,
+    "diff": -0.014957264957264958
+  },
+  {
+    "key": "start",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.019230769230769232,
+    "diff": -0.019230769230769232
+  },
+  {
+    "key": "time",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.019230769230769232,
+    "diff": -0.019230769230769232
+  },
+  {
+    "key": "log",
+    "ir_percent": 0,
+    "others_count": 24,
+    "others_percent": 0.05128205128205128,
+    "diff": -0.05128205128205128
+  },
+  {
+    "key": "line",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.01282051282051282,
+    "diff": -0.01282051282051282
+  },
+  {
+    "key": "per",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.01282051282051282,
+    "diff": -0.01282051282051282
+  },
+  {
+    "key": "bit",
+    "ir_count": 1,
+    "ir_percent": 0.14285714285714285,
+    "others_count": 6,
+    "others_percent": 0.01282051282051282,
+    "diff": 0.13003663003663002
+  },
+  {
+    "key": "inform",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.01282051282051282,
+    "diff": -0.01282051282051282
+  },
+  {
+    "key": "name",
+    "ir_percent": 0,
+    "others_count": 15,
+    "others_percent": 0.03205128205128205,
+    "diff": -0.03205128205128205
+  },
+  {
+    "key": "prefix",
+    "ir_percent": 0,
+    "others_count": 17,
+    "others_percent": 0.03632478632478633,
+    "diff": -0.03632478632478633
+  },
+  {
+    "key": "merg",
+    "ir_percent": 0,
+    "others_count": 24,
+    "others_percent": 0.05128205128205128,
+    "diff": -0.05128205128205128
+  },
+  {
+    "key": "instal",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.014957264957264958,
+    "diff": -0.014957264957264958
+  },
+  {
+    "key": "build",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.019230769230769232,
+    "diff": -0.019230769230769232
+  },
+  {
+    "key": "import",
+    "ir_percent": 0,
+    "others_count": 17,
+    "others_percent": 0.03632478632478633,
+    "diff": -0.03632478632478633
+  },
+  {
+    "key": "chang",
+    "ir_count": 2,
+    "ir_percent": 0.2857142857142857,
+    "others_count": 20,
+    "others_percent": 0.042735042735042736,
+    "diff": 0.24297924297924295
+  },
+  {
+    "key": "mock",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.01282051282051282,
+    "diff": -0.01282051282051282
+  },
+  {
+    "key": "invok",
+    "ir_count": 1,
+    "ir_percent": 0.14285714285714285,
+    "others_count": 7,
+    "others_percent": 0.014957264957264958,
+    "diff": 0.1278998778998779
+  },
+  {
+    "key": "whether",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.017094017094017096,
+    "diff": -0.017094017094017096
+  },
+  {
+    "key": "twist",
+    "ir_percent": 0,
+    "others_count": 17,
+    "others_percent": 0.03632478632478633,
+    "diff": -0.03632478632478633
+  },
+  {
+    "key": "messag",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.023504273504273504,
+    "diff": -0.023504273504273504
+  },
+  {
+    "key": "result",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.019230769230769232,
+    "diff": -0.019230769230769232
+  },
+  {
+    "key": "gener",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.017094017094017096,
+    "diff": -0.017094017094017096
+  },
+  {
+    "key": "reset",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.01282051282051282,
+    "diff": -0.01282051282051282
+  },
+  {
+    "key": "waitindex",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.01282051282051282,
+    "diff": -0.01282051282051282
+  },
+  {
+    "key": "etcd",
+    "ir_percent": 0,
+    "others_count": 15,
+    "others_percent": 0.03205128205128205,
+    "diff": -0.03205128205128205
+  },
+  {
+    "key": "error",
+    "ir_percent": 0,
+    "others_count": 16,
+    "others_percent": 0.03418803418803419,
+    "diff": -0.03418803418803419
+  },
+  {
+    "key": "version",
+    "ir_percent": 0,
+    "others_count": 24,
+    "others_percent": 0.05128205128205128,
+    "diff": -0.05128205128205128
+  },
+  {
+    "key": "coordin",
+    "ir_count": 1,
+    "ir_percent": 0.14285714285714285,
+    "others_count": 13,
+    "others_percent": 0.027777777777777776,
+    "diff": 0.11507936507936507
+  },
+  {
+    "key": "list",
+    "ir_count": 1,
+    "ir_percent": 0.14285714285714285,
+    "others_count": 14,
+    "others_percent": 0.029914529914529916,
+    "diff": 0.11294261294261293
+  },
+  {
+    "key": "python",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.019230769230769232,
+    "diff": -0.019230769230769232
+  },
+  {
+    "key": "argument",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.019230769230769232,
+    "diff": -0.019230769230769232
+  },
+  {
+    "key": "miss",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.014957264957264958,
+    "diff": -0.014957264957264958
+  },
+  {
+    "key": "variabl",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.019230769230769232,
+    "diff": -0.019230769230769232
+  },
+  {
+    "key": "work",
+    "ir_count": 1,
+    "ir_percent": 0.14285714285714285,
+    "others_count": 15,
+    "others_percent": 0.03205128205128205,
+    "diff": 0.1108058608058608
+  },
+  {
+    "key": "event",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.023504273504273504,
+    "diff": -0.023504273504273504
+  },
+  {
+    "key": "stop",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.023504273504273504,
+    "diff": -0.023504273504273504
+  },
+  {
+    "key": "fail",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.021367521367521368,
+    "diff": -0.021367521367521368
+  },
+  {
+    "key": "branch",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.019230769230769232,
+    "diff": -0.019230769230769232
+  },
+  {
+    "key": "rfc",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.01282051282051282,
+    "diff": -0.01282051282051282
+  },
+  {
+    "key": "exampl",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.02564102564102564,
+    "diff": -0.02564102564102564
+  },
+  {
+    "key": "ipv4",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.019230769230769232,
+    "diff": -0.019230769230769232
+  },
+  {
+    "key": "address",
+    "ir_percent": 0,
+    "others_count": 19,
+    "others_percent": 0.0405982905982906,
+    "diff": -0.0405982905982906
+  },
+  {
+    "key": "introduc",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.02564102564102564,
+    "diff": -0.02564102564102564
+  },
+  {
+    "key": "except",
+    "ir_percent": 0,
+    "others_count": 13,
+    "others_percent": 0.027777777777777776,
+    "diff": -0.027777777777777776
+  },
+  {
+    "key": "ipprefix",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.014957264957264958,
+    "diff": -0.014957264957264958
+  },
+  {
+    "key": "type",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.01282051282051282,
+    "diff": -0.01282051282051282
+  },
+  {
+    "key": "default",
+    "ir_count": 1,
+    "ir_percent": 0.14285714285714285,
+    "others_count": 17,
+    "others_percent": 0.03632478632478633,
+    "diff": 0.10653235653235651
+  },
+  {
+    "key": "depend",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.019230769230769232,
+    "diff": -0.019230769230769232
+  },
+  {
+    "key": "str",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.014957264957264958,
+    "diff": -0.014957264957264958
+  },
+  {
+    "key": "try",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.019230769230769232,
+    "diff": -0.019230769230769232
+  },
+  {
+    "key": "issu",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.014957264957264958,
+    "diff": -0.014957264957264958
+  },
+  {
+    "key": "naivebgpp",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.014957264957264958,
+    "diff": -0.014957264957264958
+  },
+  {
+    "key": "idleconnect",
+    "ir_percent": 0,
+    "others_count": 12,
+    "others_percent": 0.02564102564102564,
+    "diff": -0.02564102564102564
+  },
+  {
+    "key": "debian",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.01282051282051282,
+    "diff": -0.01282051282051282
+  },
+  {
+    "key": "replac",
+    "ir_percent": 0,
+    "others_count": 11,
+    "others_percent": 0.023504273504273504,
+    "diff": -0.023504273504273504
+  },
+  {
+    "key": "proxyfetch",
+    "ir_count": 1,
+    "ir_percent": 0.14285714285714285,
+    "others_count": 13,
+    "others_percent": 0.027777777777777776,
+    "diff": 0.11507936507936507
+  },
+  {
+    "key": "paramet",
+    "ir_count": 1,
+    "ir_percent": 0.14285714285714285,
+    "others_count": 8,
+    "others_percent": 0.017094017094017096,
+    "diff": 0.12576312576312576
+  },
+  {
+    "key": "make",
+    "ir_count": 1,
+    "ir_percent": 0.14285714285714285,
+    "others_count": 6,
+    "others_percent": 0.01282051282051282,
+    "diff": 0.13003663003663002
+  },
+  {
+    "key": "init",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.014957264957264958,
+    "diff": -0.014957264957264958
+  },
+  {
+    "key": "specifi",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.014957264957264958,
+    "diff": -0.014957264957264958
+  },
+  {
+    "key": "rather",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.014957264957264958,
+    "diff": -0.014957264957264958
+  },
+  {
+    "key": "simplifi",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.014957264957264958,
+    "diff": -0.014957264957264958
+  },
+  {
+    "key": "possibl",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.017094017094017096,
+    "diff": -0.017094017094017096
+  },
+  {
+    "key": "will",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.021367521367521368,
+    "diff": -0.021367521367521368
+  },
+  {
+    "key": "pass",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.021367521367521368,
+    "diff": -0.021367521367521368
+  },
+  {
+    "key": "http",
+    "ir_count": 3,
+    "ir_percent": 0.42857142857142855,
+    "others_count": 11,
+    "others_percent": 0.023504273504273504,
+    "diff": 0.40506715506715507
+  },
+  {
+    "key": "util",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.019230769230769232,
+    "diff": -0.019230769230769232
+  },
+  {
+    "key": "improv",
+    "ir_percent": 0,
+    "others_count": 10,
+    "others_percent": 0.021367521367521368,
+    "diff": -0.021367521367521368
+  },
+  {
+    "key": "callback",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.01282051282051282,
+    "diff": -0.01282051282051282
+  },
+  {
+    "key": "medium",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.01282051282051282,
+    "diff": -0.01282051282051282
+  },
+  {
+    "key": "lost",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.014957264957264958,
+    "diff": -0.014957264957264958
+  },
+  {
+    "key": "addit",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.01282051282051282,
+    "diff": -0.01282051282051282
+  },
+  {
+    "key": "loop",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.01282051282051282,
+    "diff": -0.01282051282051282
+  },
+  {
+    "key": "actual",
+    "ir_count": 2,
+    "ir_percent": 0.2857142857142857,
+    "others_count": 9,
+    "others_percent": 0.019230769230769232,
+    "diff": 0.2664835164835165
+  },
+  {
+    "key": "resolv",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.017094017094017096,
+    "diff": -0.017094017094017096
+  },
+  {
+    "key": "everi",
+    "ir_percent": 0,
+    "others_count": 8,
+    "others_percent": 0.017094017094017096,
+    "diff": -0.017094017094017096
+  },
+  {
+    "key": "daemon",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.014957264957264958,
+    "diff": -0.014957264957264958
+  },
+  {
+    "key": "previou",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.01282051282051282,
+    "diff": -0.01282051282051282
+  },
+  {
+    "key": "script",
+    "ir_percent": 0,
+    "others_count": 6,
+    "others_percent": 0.01282051282051282,
+    "diff": -0.01282051282051282
+  },
+  {
+    "key": "better",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.014957264957264958,
+    "diff": -0.014957264957264958
+  },
+  {
+    "key": "dict",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.014957264957264958,
+    "diff": -0.014957264957264958
+  },
+  {
+    "key": "tox",
+    "ir_percent": 0,
+    "others_count": 9,
+    "others_percent": 0.019230769230769232,
+    "diff": -0.019230769230769232
+  },
+  {
+    "key": "handler",
+    "ir_count": 1,
+    "ir_percent": 0.14285714285714285,
+    "others_count": 6,
+    "others_percent": 0.01282051282051282,
+    "diff": 0.13003663003663002
+  },
+  {
+    "key": "tcp",
+    "ir_percent": 0,
+    "others_count": 7,
+    "others_percent": 0.014957264957264958,
+    "diff": -0.014957264957264958
+  }
+]

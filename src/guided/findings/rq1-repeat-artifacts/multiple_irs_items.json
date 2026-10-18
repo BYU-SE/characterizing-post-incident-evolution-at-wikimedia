@@ -1,0 +1,1930 @@
+[
+  {
+    "key": "450205",
+    "stamps": [
+      "LookupIncremental => 2017-07-28_s5_(WikiData_and_dewiki)_read-only (3) => 2017-07-28_s5_(WikiData_and_dewiki)_read-only#7a5b2d62 (3) => T172489 > [details_mrs] (2)",
+      "LookupIncremental => 2018-07-31_Phabricator (3) => 2018-07-31_Phabricator#1f85fe66 (3)"
+    ]
+  },
+  {
+    "key": "549613",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [details_mrs] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [details_mrs] (2)"
+    ]
+  },
+  {
+    "key": "589873",
+    "stamps": [
+      "LookupIncremental => 2019-06-24_wdqs (3) => 2019-06-24_wdqs#76da80ac (3) => T226413 > [mentioned task] (2) => T238751 > [details_mrs] (1)",
+      "LookupIncremental => 2022-03-27_wdqs_outage (3) => 2022-03-27_wdqs_outage#688e8522 (3) => T242453 > [details_mrs] (2)"
+    ]
+  },
+  {
+    "key": "589874",
+    "stamps": [
+      "LookupIncremental => 2019-06-24_wdqs (3) => 2019-06-24_wdqs#76da80ac (3) => T226413 > [mentioned task] (2) => T238751 > [details_mrs] (1)",
+      "LookupIncremental => 2022-03-27_wdqs_outage (3) => 2022-03-27_wdqs_outage#688e8522 (3) => T242453 > [details_mrs] (2)"
+    ]
+  },
+  {
+    "key": "T65027",
+    "stamps": [
+      "LookupIncremental => 20140113-Poolcounter (3) => 20140113-Poolcounter#313c4a4c (3)",
+      "LookupIncremental => 20150806-poolcounter (3) => 20150806-poolcounter#undefined (3) => T105378 > [mentioned task] (2)"
+    ]
+  },
+  {
+    "key": "T65659",
+    "stamps": [
+      "LookupIncremental => 20140403-Deploy (3) => 20140403-Deploy#undefined (3)",
+      "LookupIncremental => 2017-01-11_multiversion (3) => 2017-01-11_multiversion#63f4d120 (3) => T152005 > [mentioned task] (2) => T156851 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T96692",
+    "stamps": [
+      "LookupIncremental => 20140517-bits (3) => 20140517-bits#5f885f7e (3) => T69817 > [subtask] (2) => T100735 > [subtask] (1)",
+      "LookupIncremental => 20140517-bits (3) => 20140517-bits#5f885f7e (3) => T69817 > [subtask] (2)",
+      "LookupIncremental => 20160128-MediaWiki-API (3) => 20160128-MediaWiki-API#5471dc11 (3) => T125084 > [mentioned task] (2) => T88732 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T84958",
+    "stamps": [
+      "LookupIncremental => 20140517-bits (3) => 20140517-bits#5f885f7e (3) => T69817 > [subtask] (2) => T100735 > [subtask] (1)",
+      "LookupIncremental => 20140517-bits (3) => 20140517-bits#5f885f7e (3) => T69817 > [subtask] (2)",
+      "LookupIncremental => 20160128-MediaWiki-API (3) => 20160128-MediaWiki-API#5471dc11 (3) => T125084 > [mentioned task] (2) => T88732 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T87078",
+    "stamps": [
+      "LookupIncremental => 20140517-bits (3) => 20140517-bits#5f885f7e (3) => T69817 > [subtask] (2) => T100735 > [subtask] (1)",
+      "LookupIncremental => 20140517-bits (3) => 20140517-bits#5f885f7e (3) => T69817 > [subtask] (2)",
+      "LookupIncremental => 20160128-MediaWiki-API (3) => 20160128-MediaWiki-API#5471dc11 (3) => T125084 > [mentioned task] (2) => T88732 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T89402",
+    "stamps": [
+      "LookupIncremental => 20140517-bits (3) => 20140517-bits#5f885f7e (3) => T69817 > [subtask] (2) => T100735 > [subtask] (1)",
+      "LookupIncremental => 20140517-bits (3) => 20140517-bits#5f885f7e (3) => T69817 > [subtask] (2)",
+      "LookupIncremental => 20160128-MediaWiki-API (3) => 20160128-MediaWiki-API#5471dc11 (3) => T125084 > [mentioned task] (2) => T88732 > [subtask] (1)",
+      "LookupIncremental => 20160128-MediaWiki-API (3) => 20160128-MediaWiki-API#5471dc11 (3) => T125084 > [mentioned task] (2) => T88732 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T87460",
+    "stamps": [
+      "LookupIncremental => 20140517-bits (3) => 20140517-bits#5f885f7e (3) => T69817 > [subtask] (2) => T100735 > [subtask] (1)",
+      "LookupIncremental => 20140517-bits (3) => 20140517-bits#5f885f7e (3) => T69817 > [subtask] (2)",
+      "LookupIncremental => 20160128-MediaWiki-API (3) => 20160128-MediaWiki-API#5471dc11 (3) => T125084 > [mentioned task] (2) => T88732 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T97481",
+    "stamps": [
+      "LookupIncremental => 20140517-bits (3) => 20140517-bits#5f885f7e (3) => T69817 > [subtask] (2) => T100735 > [subtask] (1)",
+      "LookupIncremental => 20140517-bits (3) => 20140517-bits#5f885f7e (3) => T69817 > [subtask] (2)",
+      "LookupIncremental => 20160128-MediaWiki-API (3) => 20160128-MediaWiki-API#5471dc11 (3) => T125084 > [mentioned task] (2) => T88732 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T97645",
+    "stamps": [
+      "LookupIncremental => 20140517-bits (3) => 20140517-bits#5f885f7e (3) => T69817 > [subtask] (2) => T100735 > [subtask] (1)",
+      "LookupIncremental => 20140517-bits (3) => 20140517-bits#5f885f7e (3) => T69817 > [subtask] (2)",
+      "LookupIncremental => 20160128-MediaWiki-API (3) => 20160128-MediaWiki-API#5471dc11 (3) => T125084 > [mentioned task] (2) => T88732 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T88692",
+    "stamps": [
+      "LookupIncremental => 20150205-EventLogging (3) => 20150205-EventLogging#7d64ccb1 (3)",
+      "LookupIncremental => 20150206-EventLogging (3) => 20150206-EventLogging#7d64ccb1 (3)"
+    ]
+  },
+  {
+    "key": "T89995",
+    "stamps": [
+      "LookupIncremental => 20150217-LabsOutage (3) => 20150217-LabsOutage#227da780 (3)",
+      "LookupIncremental => 20150817-ToolLabs-WebgridOutage (3) => 20150817-ToolLabs-WebgridOutage#39347390 (3) => T109732 > [mentioned task] (2) => T90542 > [subtask] (1)",
+      "LookupIncremental => 20150817-ToolLabs-WebgridOutage (3) => 20150817-ToolLabs-WebgridOutage#39347390 (3) => T109732 > [mentioned task] (2) => T90542 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T91484",
+    "stamps": [
+      "LookupIncremental => 20150217-LabsOutage (3) => 20150217-LabsOutage#227da780 (3) => T89995 > [subtask] (2)",
+      "LookupIncremental => 20150817-ToolLabs-WebgridOutage (3) => 20150817-ToolLabs-WebgridOutage#39347390 (3) => T109732 > [mentioned task] (2) => T90542 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T94607",
+    "stamps": [
+      "LookupIncremental => 20150331-LabsNFS-Overload (3) => 20150331-LabsNFS-Overload#undefined (3)",
+      "LookupIncremental => 20150331-LabsNFS-Overload (3) => 20150331-LabsNFS-Overload#undefined (3) => T94609 > [subtask] (2)",
+      "LookupIncremental => 20150401-LabsNFS-Overload (3) => 20150401-LabsNFS-Overload#undefined (3) => T95293 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T85604",
+    "stamps": [
+      "LookupIncremental => 20150331-LabsNFS-Overload (3) => 20150331-LabsNFS-Overload#undefined (3) => T94607 > [subtask] (2)",
+      "LookupIncremental => 20150331-LabsNFS-Overload (3) => 20150331-LabsNFS-Overload#undefined (3) => T94609 > [subtask] (2)",
+      "LookupIncremental => 20150401-LabsNFS-Overload (3) => 20150401-LabsNFS-Overload#undefined (3) => T95293 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T85606",
+    "stamps": [
+      "LookupIncremental => 20150331-LabsNFS-Overload (3) => 20150331-LabsNFS-Overload#undefined (3) => T94607 > [subtask] (2) => T85604 > [subtask] (1)",
+      "LookupIncremental => 20150331-LabsNFS-Overload (3) => 20150331-LabsNFS-Overload#undefined (3) => T94607 > [subtask] (2)",
+      "LookupIncremental => 20150331-LabsNFS-Overload (3) => 20150331-LabsNFS-Overload#undefined (3) => T94609 > [subtask] (2)",
+      "LookupIncremental => 20150401-LabsNFS-Overload (3) => 20150401-LabsNFS-Overload#undefined (3) => T95293 > [subtask] (2)",
+      "LookupIncremental => 20160829-ToolLabs-Outage (3) => 20160829-ToolLabs-Outage#12749a88 (3) => T126083 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T85605",
+    "stamps": [
+      "LookupIncremental => 20150331-LabsNFS-Overload (3) => 20150331-LabsNFS-Overload#undefined (3) => T94607 > [subtask] (2) => T85604 > [subtask] (1)",
+      "LookupIncremental => 20150331-LabsNFS-Overload (3) => 20150331-LabsNFS-Overload#undefined (3) => T94607 > [subtask] (2)",
+      "LookupIncremental => 20150331-LabsNFS-Overload (3) => 20150331-LabsNFS-Overload#undefined (3) => T94609 > [subtask] (2)",
+      "LookupIncremental => 20150401-LabsNFS-Overload (3) => 20150401-LabsNFS-Overload#undefined (3) => T95293 > [subtask] (2)",
+      "LookupIncremental => 20160126-WikimediaDomainRedirection (3) => 20160126-WikimediaDomainRedirection#6463e09b (3) => T45266 > [subtask] (2) => T47499 > [subtask] (1)",
+      "LookupIncremental => 20160126-WikimediaDomainRedirection (3) => 20160126-WikimediaDomainRedirection#6463e09b (3) => T45266 > [subtask] (2)",
+      "LookupIncremental => 20160829-ToolLabs-Outage (3) => 20160829-ToolLabs-Outage#12749a88 (3) => T126083 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T93740",
+    "stamps": [
+      "LookupIncremental => 20150331-LabsNFS-Overload (3) => 20150331-LabsNFS-Overload#undefined (3) => T94607 > [subtask] (2) => T85604 > [subtask] (1)",
+      "LookupIncremental => 20150331-LabsNFS-Overload (3) => 20150331-LabsNFS-Overload#undefined (3) => T94607 > [subtask] (2)",
+      "LookupIncremental => 20150331-LabsNFS-Overload (3) => 20150331-LabsNFS-Overload#undefined (3) => T94609 > [subtask] (2)",
+      "LookupIncremental => 20150401-LabsNFS-Overload (3) => 20150401-LabsNFS-Overload#undefined (3) => T95293 > [subtask] (2)",
+      "LookupIncremental => 20160829-ToolLabs-Outage (3) => 20160829-ToolLabs-Outage#12749a88 (3) => T126083 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T85608",
+    "stamps": [
+      "LookupIncremental => 20150331-LabsNFS-Overload (3) => 20150331-LabsNFS-Overload#undefined (3) => T94607 > [subtask] (2) => T85604 > [subtask] (1)",
+      "LookupIncremental => 20150331-LabsNFS-Overload (3) => 20150331-LabsNFS-Overload#undefined (3) => T94607 > [subtask] (2)",
+      "LookupIncremental => 20150331-LabsNFS-Overload (3) => 20150331-LabsNFS-Overload#undefined (3) => T94609 > [subtask] (2)",
+      "LookupIncremental => 20150401-LabsNFS-Overload (3) => 20150401-LabsNFS-Overload#undefined (3) => T95293 > [subtask] (2)",
+      "LookupIncremental => 20160829-ToolLabs-Outage (3) => 20160829-ToolLabs-Outage#12749a88 (3) => T126083 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T93792",
+    "stamps": [
+      "LookupIncremental => 20150331-LabsNFS-Overload (3) => 20150331-LabsNFS-Overload#undefined (3) => T94607 > [subtask] (2) => T85604 > [subtask] (1)",
+      "LookupIncremental => 20150331-LabsNFS-Overload (3) => 20150331-LabsNFS-Overload#undefined (3) => T94607 > [subtask] (2)",
+      "LookupIncremental => 20150331-LabsNFS-Overload (3) => 20150331-LabsNFS-Overload#undefined (3) => T94609 > [subtask] (2)",
+      "LookupIncremental => 20150401-LabsNFS-Overload (3) => 20150401-LabsNFS-Overload#undefined (3) => T95293 > [subtask] (2)",
+      "LookupIncremental => 20160829-ToolLabs-Outage (3) => 20160829-ToolLabs-Outage#12749a88 (3) => T126083 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T85607",
+    "stamps": [
+      "LookupIncremental => 20150331-LabsNFS-Overload (3) => 20150331-LabsNFS-Overload#undefined (3) => T94607 > [subtask] (2) => T85604 > [subtask] (1)",
+      "LookupIncremental => 20150331-LabsNFS-Overload (3) => 20150331-LabsNFS-Overload#undefined (3) => T94607 > [subtask] (2)",
+      "LookupIncremental => 20150331-LabsNFS-Overload (3) => 20150331-LabsNFS-Overload#undefined (3) => T94609 > [subtask] (2)",
+      "LookupIncremental => 20150401-LabsNFS-Overload (3) => 20150401-LabsNFS-Overload#undefined (3) => T95293 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T91640",
+    "stamps": [
+      "LookupIncremental => 20150331-LabsNFS-Overload (3) => 20150331-LabsNFS-Overload#undefined (3) => T94607 > [subtask] (2) => T85604 > [subtask] (1)",
+      "LookupIncremental => 20150331-LabsNFS-Overload (3) => 20150331-LabsNFS-Overload#undefined (3) => T94607 > [subtask] (2)",
+      "LookupIncremental => 20150331-LabsNFS-Overload (3) => 20150331-LabsNFS-Overload#undefined (3) => T94609 > [subtask] (2)",
+      "LookupIncremental => 20150401-LabsNFS-Overload (3) => 20150401-LabsNFS-Overload#undefined (3) => T95293 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T91677",
+    "stamps": [
+      "LookupIncremental => 20150331-LabsNFS-Overload (3) => 20150331-LabsNFS-Overload#undefined (3) => T94607 > [subtask] (2) => T85604 > [subtask] (1)",
+      "LookupIncremental => 20150331-LabsNFS-Overload (3) => 20150331-LabsNFS-Overload#undefined (3) => T94607 > [subtask] (2)",
+      "LookupIncremental => 20150331-LabsNFS-Overload (3) => 20150331-LabsNFS-Overload#undefined (3) => T94609 > [subtask] (2)",
+      "LookupIncremental => 20150401-LabsNFS-Overload (3) => 20150401-LabsNFS-Overload#undefined (3) => T95293 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T94609",
+    "stamps": [
+      "LookupIncremental => 20150331-LabsNFS-Overload (3) => 20150331-LabsNFS-Overload#undefined (3)",
+      "LookupIncremental => 20150413-LabsNFS (3) => 20150413-LabsNFS#7cf4216c (3)",
+      "LookupIncremental => 20150617-LabsNFSOutage (3) => 20150617-LabsNFSOutage#7048c8f2 (3)"
+    ]
+  },
+  {
+    "key": "T97192",
+    "stamps": [
+      "LookupIncremental => 20150423-Commons (3) => 20150423-Commons#undefined (3) => T97204 > [subtask] (2)",
+      "LookupIncremental => 2017-03-20_Special_AllPages (3) => 2017-03-20_Special_AllPages#5b165c77 (3) => T160914 > [mentioned task] (2) => T160984 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T204871",
+    "stamps": [
+      "LookupIncremental => 20150423-Commons (3) => 20150423-Commons#undefined (3) => T97204 > [subtask] (2) => T97192 > [mentioned task] (1)",
+      "LookupIncremental => 2018-09-18_train (3) => 2018-09-18_train#201a2283 (3)"
+    ]
+  },
+  {
+    "key": "T149421",
+    "stamps": [
+      "LookupIncremental => 20150423-Commons (3) => 20150423-Commons#undefined (3) => T97204 > [subtask] (2) => T97192 > [mentioned task] (1)",
+      "LookupIncremental => 2017-03-20_Special_AllPages (3) => 2017-03-20_Special_AllPages#5b165c77 (3) => T160914 > [mentioned task] (2) => T160984 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T62105",
+    "stamps": [
+      "LookupIncremental => 20150503-JobQueueRedis (3) => 20150503-JobQueueRedis#79240167 (3)",
+      "LookupIncremental => 20150825-Redis (3) => 20150825-Redis#2b8262ce (3)"
+    ]
+  },
+  {
+    "key": "T93428",
+    "stamps": [
+      "LookupIncremental => 20150519-RESTBase (3) => 20150519-RESTBase#17d59c13 (3)",
+      "LookupIncremental => 20150519-RESTBase (3) => 20150519-RESTBase#17d59c13 (3) => T93428 > [subtask] (2) => T93433 > [mentioned task] (1)",
+      "LookupIncremental => 20150519-RESTBase (3) => 20150519-RESTBase#17d59c13 (3) => T93428 > [mentioned task] (2) => T109535 > [mentioned task] (1)",
+      "LookupIncremental => 20160601-MediaWiki (3) => 20160601-MediaWiki#28343da6 (3) => T136828 > [mentioned task] (2) => T89945 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T94620",
+    "stamps": [
+      "LookupIncremental => 20150519-RESTBase (3) => 20150519-RESTBase#17d59c13 (3) => T93428 > [subtask] (2) => T93433 > [mentioned task] (1)",
+      "LookupIncremental => 20160601-MediaWiki (3) => 20160601-MediaWiki#28343da6 (3) => T136828 > [mentioned task] (2) => T89945 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T109515",
+    "stamps": [
+      "LookupIncremental => 20150519-RESTBase (3) => 20150519-RESTBase#17d59c13 (3) => T93428 > [mentioned task] (2) => T109535 > [mentioned task] (1)",
+      "LookupIncremental => 20151026-MediaWiki (3) => 20151026-MediaWiki#533b5e7f (3) => T116627 > [mentioned task] (2) => T110068 > [subtask] (1)",
+      "LookupIncremental => 20151026-MediaWiki (3) => 20151026-MediaWiki#533b5e7f (3) => T116627 > [mentioned task] (2) => T110068 > [mentioned task] (1)",
+      "LookupIncremental => 20160601-MediaWiki (3) => 20160601-MediaWiki#6bb1e774 (3) => T136821 > [mentioned task] (2) => T136883 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T114284",
+    "stamps": [
+      "LookupIncremental => 20150519-RESTBase (3) => 20150519-RESTBase#17d59c13 (3) => T93428 > [mentioned task] (2) => T109535 > [mentioned task] (1)",
+      "LookupIncremental => 20151026-MediaWiki (3) => 20151026-MediaWiki#533b5e7f (3) => T116627 > [mentioned task] (2) => T110068 > [subtask] (1)",
+      "LookupIncremental => 20160601-MediaWiki (3) => 20160601-MediaWiki#6bb1e774 (3) => T136821 > [mentioned task] (2) => T136883 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T73212",
+    "stamps": [
+      "LookupIncremental => 20150519-RESTBase (3) => 20150519-RESTBase#17d59c13 (3) => T93428 > [mentioned task] (2)",
+      "LookupIncremental => 20160202-deployment-server-loss (3) => 20160202-deployment-server-loss#34be462c (3) => T125629 > [subtask] (2) => T104352 > [subtask] (1)",
+      "LookupIncremental => 20160202-deployment-server-loss (3) => 20160202-deployment-server-loss#34be462c (3) => T125629 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T90546",
+    "stamps": [
+      "LookupIncremental => 20150527-GridEngine (3) => 20150527-GridEngine#46bfc9e (3)",
+      "LookupIncremental => 20150527-GridEngine (3) => 20150527-GridEngine#46bfc9e (3) => T90546 > [mentioned task] (2) => T100554 > [subtask] (1)",
+      "LookupIncremental => 20150817-ToolLabs-WebgridOutage (3) => 20150817-ToolLabs-WebgridOutage#39347390 (3) => T109732 > [mentioned task] (2) => T90542 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T102626",
+    "stamps": [
+      "LookupIncremental => 20150617-LabsNFSOutage (3) => 20150617-LabsNFSOutage#27e6d7fa (3)",
+      "LookupIncremental => 20160829-ToolLabs-Outage (3) => 20160829-ToolLabs-Outage#12749a88 (3) => T126083 > [subtask] (2) => T128083 > [mentioned task] (1)",
+      "LookupIncremental => 20160829-ToolLabs-Outage (3) => 20160829-ToolLabs-Outage#12749a88 (3) => T126083 > [subtask] (2) => T149870 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T123740",
+    "stamps": [
+      "LookupIncremental => 20150617-LabsNFSOutage (3) => 20150617-LabsNFSOutage#27e6d7fa (3) => T102626 > [mentioned task] (2)",
+      "LookupIncremental => 20160829-ToolLabs-Outage (3) => 20160829-ToolLabs-Outage#12749a88 (3) => T126083 > [subtask] (2) => T121905 > [subtask] (1)",
+      "LookupIncremental => 20160829-ToolLabs-Outage (3) => 20160829-ToolLabs-Outage#12749a88 (3) => T126083 > [subtask] (2) => T121905 > [mentioned task] (1)",
+      "LookupIncremental => 20160829-ToolLabs-Outage (3) => 20160829-ToolLabs-Outage#12749a88 (3) => T126083 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T104881",
+    "stamps": [
+      "LookupIncremental => 20150617-LabsNFSOutage (3) => 20150617-LabsNFSOutage#7048c8f2 (3) => T102520 > [subtask] (2) => T102782 > [mentioned task] (1)",
+      "LookupIncremental => 20160829-ToolLabs-Outage (3) => 20160829-ToolLabs-Outage#12749a88 (3) => T126083 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T127559",
+    "stamps": [
+      "LookupIncremental => 20150617-LabsNFSOutage (3) => 20150617-LabsNFSOutage#5bca855a (3) => T102240 > [subtask] (2) => T102369 > [mentioned task] (1)",
+      "LookupIncremental => 20160829-ToolLabs-Outage (3) => 20160829-ToolLabs-Outage#12749a88 (3) => T126083 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T112501",
+    "stamps": [
+      "LookupIncremental => 20150806-poolcounter (3) => 20150806-poolcounter#undefined (3) => T105378 > [subtask] (2)",
+      "LookupIncremental => 20160713-MediaWiki (3) => 20160713-MediaWiki#51c1d8a6 (3) => T38891 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T112200",
+    "stamps": [
+      "LookupIncremental => 20150806-poolcounter (3) => 20150806-poolcounter#undefined (3) => T105378 > [subtask] (2) => T112501 > [subtask] (1)",
+      "LookupIncremental => 20150806-poolcounter (3) => 20150806-poolcounter#undefined (3) => T105378 > [subtask] (2)",
+      "LookupIncremental => 20160713-MediaWiki (3) => 20160713-MediaWiki#51c1d8a6 (3) => T38891 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T93927",
+    "stamps": [
+      "LookupIncremental => 20150820-OCSP (3) => 20150820-OCSP#5e7d6468 (3)",
+      "LookupIncremental => 20150820-OCSP (3) => 20150820-OCSP#5e7d6468 (3) => T93927 > [mentioned task] (2) => T144523 > [mentioned task] (1)",
+      "LookupIncremental => 20161013-GlobalSign (3) => 20161013-GlobalSign#456b28b9 (3) => T148131 > [subtask] (2)",
+      "LookupIncremental => 20161013-GlobalSign (3) => 20161013-GlobalSign#456b28b9 (3) => T148131 > [mentioned task] (2) => T92002 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T148132",
+    "stamps": [
+      "LookupIncremental => 20150820-OCSP (3) => 20150820-OCSP#5e7d6468 (3) => T93927 > [subtask] (2)",
+      "LookupIncremental => 20161013-GlobalSign (3) => 20161013-GlobalSign#456b28b9 (3) => T148131 > [subtask] (2)",
+      "LookupIncremental => 20161013-GlobalSign (3) => 20161013-GlobalSign#456b28b9 (3) => T148131 > [mentioned task] (2) => T92002 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T148490",
+    "stamps": [
+      "LookupIncremental => 20150820-OCSP (3) => 20150820-OCSP#5e7d6468 (3) => T93927 > [subtask] (2) => T148132 > [subtask] (1)",
+      "LookupIncremental => 20150820-OCSP (3) => 20150820-OCSP#5e7d6468 (3) => T93927 > [subtask] (2)",
+      "LookupIncremental => 20161013-GlobalSign (3) => 20161013-GlobalSign#456b28b9 (3) => T148131 > [subtask] (2)",
+      "LookupIncremental => 20161013-GlobalSign (3) => 20161013-GlobalSign#456b28b9 (3) => T148131 > [mentioned task] (2) => T92002 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T212129",
+    "stamps": [
+      "LookupIncremental => 20150825-Redis (3) => 20150825-Redis#4a298090 (3) => T110169 > [mentioned task] (2) => T267581 > [subtask] (1)",
+      "LookupIncremental => 20150825-Redis (3) => 20150825-Redis#4a298090 (3) => T110169 > [mentioned task] (2) => T267581 > [mentioned task] (1)",
+      "LookupIncremental => 2022-08-16_x2_databases_replication_breakage (3) => 2022-08-16_x2_databases_replication_breakage#59cc329d (3) => T312809 > [mentioned task] (2) => T113916 > [subtask] (1)",
+      "LookupIncremental => 2022-08-16_x2_databases_replication_breakage (3) => 2022-08-16_x2_databases_replication_breakage#59cc329d (3) => T312809 > [mentioned task] (2)",
+      "LookupIncremental => 2023-01-30_kartotherian (3) => 2023-01-30_kartotherian#37949fba (3) => T198901 > [subtask] (2) => T220401 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T222851",
+    "stamps": [
+      "LookupIncremental => 20150825-Redis (3) => 20150825-Redis#4a298090 (3) => T110169 > [mentioned task] (2) => T267581 > [subtask] (1)",
+      "LookupIncremental => 2022-08-16_x2_databases_replication_breakage (3) => 2022-08-16_x2_databases_replication_breakage#59cc329d (3) => T312809 > [mentioned task] (2) => T113916 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T229062",
+    "stamps": [
+      "LookupIncremental => 20150825-Redis (3) => 20150825-Redis#4a298090 (3) => T110169 > [mentioned task] (2) => T267581 > [subtask] (1)",
+      "LookupIncremental => 2022-08-16_x2_databases_replication_breakage (3) => 2022-08-16_x2_databases_replication_breakage#59cc329d (3) => T312809 > [mentioned task] (2) => T113916 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T254634",
+    "stamps": [
+      "LookupIncremental => 20150825-Redis (3) => 20150825-Redis#4a298090 (3) => T110169 > [mentioned task] (2) => T267581 > [subtask] (1)",
+      "LookupIncremental => 2022-08-16_x2_databases_replication_breakage (3) => 2022-08-16_x2_databases_replication_breakage#59cc329d (3) => T312809 > [mentioned task] (2) => T113916 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T267041",
+    "stamps": [
+      "LookupIncremental => 20150825-Redis (3) => 20150825-Redis#4a298090 (3) => T110169 > [mentioned task] (2) => T267581 > [subtask] (1)",
+      "LookupIncremental => 2022-08-16_x2_databases_replication_breakage (3) => 2022-08-16_x2_databases_replication_breakage#59cc329d (3) => T312809 > [mentioned task] (2) => T113916 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T269324",
+    "stamps": [
+      "LookupIncremental => 20150825-Redis (3) => 20150825-Redis#4a298090 (3) => T110169 > [mentioned task] (2) => T267581 > [subtask] (1)",
+      "LookupIncremental => 2022-08-16_x2_databases_replication_breakage (3) => 2022-08-16_x2_databases_replication_breakage#59cc329d (3) => T312809 > [mentioned task] (2) => T113916 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T274174",
+    "stamps": [
+      "LookupIncremental => 20150825-Redis (3) => 20150825-Redis#4a298090 (3) => T110169 > [mentioned task] (2) => T267581 > [subtask] (1)",
+      "LookupIncremental => 2022-08-16_x2_databases_replication_breakage (3) => 2022-08-16_x2_databases_replication_breakage#59cc329d (3) => T312809 > [mentioned task] (2) => T113916 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T288998",
+    "stamps": [
+      "LookupIncremental => 20150825-Redis (3) => 20150825-Redis#4a298090 (3) => T110169 > [mentioned task] (2) => T267581 > [subtask] (1)",
+      "LookupIncremental => 2022-08-16_x2_databases_replication_breakage (3) => 2022-08-16_x2_databases_replication_breakage#59cc329d (3) => T312809 > [mentioned task] (2) => T113916 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T306118",
+    "stamps": [
+      "LookupIncremental => 20150825-Redis (3) => 20150825-Redis#4a298090 (3) => T110169 > [mentioned task] (2) => T267581 > [subtask] (1)",
+      "LookupIncremental => 2022-08-16_x2_databases_replication_breakage (3) => 2022-08-16_x2_databases_replication_breakage#59cc329d (3) => T312809 > [mentioned task] (2) => T113916 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T315271",
+    "stamps": [
+      "LookupIncremental => 20150825-Redis (3) => 20150825-Redis#4a298090 (3) => T110169 > [mentioned task] (2) => T267581 > [subtask] (1)",
+      "LookupIncremental => 2020-03-19_parsercache (3) => 2020-03-19_parsercache#33abf680 (3) => T133523 > [mentioned task] (2) => T277831 > [mentioned task] (1)",
+      "LookupIncremental => 2022-08-16_x2_databases_replication_breakage (3) => 2022-08-16_x2_databases_replication_breakage#59cc329d (3) => T312809 > [mentioned task] (2) => T113916 > [subtask] (1)",
+      "LookupIncremental => 2022-08-16_x2_databases_replication_breakage (3) => 2022-08-16_x2_databases_replication_breakage#50175808 (3)"
+    ]
+  },
+  {
+    "key": "T315274",
+    "stamps": [
+      "LookupIncremental => 20150825-Redis (3) => 20150825-Redis#4a298090 (3) => T110169 > [mentioned task] (2) => T267581 > [subtask] (1)",
+      "LookupIncremental => 2022-08-16_x2_databases_replication_breakage (3) => 2022-08-16_x2_databases_replication_breakage#59cc329d (3) => T312809 > [mentioned task] (2) => T113916 > [subtask] (1)",
+      "LookupIncremental => 2022-08-16_x2_databases_replication_breakage (3) => 2022-08-16_x2_databases_replication_breakage#50175808 (3)"
+    ]
+  },
+  {
+    "key": "T315427",
+    "stamps": [
+      "LookupIncremental => 20150825-Redis (3) => 20150825-Redis#4a298090 (3) => T110169 > [mentioned task] (2) => T267581 > [subtask] (1)",
+      "LookupIncremental => 2022-08-16_x2_databases_replication_breakage (3) => 2022-08-16_x2_databases_replication_breakage#5f200d4b (3)",
+      "LookupIncremental => 2022-08-16_x2_databases_replication_breakage (3) => 2022-08-16_x2_databases_replication_breakage#59cc329d (3) => T312809 > [mentioned task] (2) => T113916 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T315853",
+    "stamps": [
+      "LookupIncremental => 20150825-Redis (3) => 20150825-Redis#4a298090 (3) => T110169 > [mentioned task] (2) => T267581 > [subtask] (1)",
+      "LookupIncremental => 2022-08-16_x2_databases_replication_breakage (3) => 2022-08-16_x2_databases_replication_breakage#59cc329d (3) => T312809 > [mentioned task] (2) => T113916 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T315995",
+    "stamps": [
+      "LookupIncremental => 20150825-Redis (3) => 20150825-Redis#4a298090 (3) => T110169 > [mentioned task] (2) => T267581 > [subtask] (1)",
+      "LookupIncremental => 2022-08-16_x2_databases_replication_breakage (3) => 2022-08-16_x2_databases_replication_breakage#59cc329d (3) => T312809 > [mentioned task] (2) => T113916 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T112473",
+    "stamps": [
+      "LookupIncremental => 20150914-extension1 (3) => 20150914-extension1#79c6b30b (3)",
+      "LookupIncremental => 2017-07-28_s5_(WikiData_and_dewiki)_read-only (3) => 2017-07-28_s5_(WikiData_and_dewiki)_read-only#647237e6 (3) => T172492 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T253120",
+    "stamps": [
+      "LookupIncremental => 20150914-extension1 (3) => 20150914-extension1#79c6b30b (3) => T112473 > [mentioned task] (2)",
+      "LookupIncremental => 2017-07-28_s5_(WikiData_and_dewiki)_read-only (3) => 2017-07-28_s5_(WikiData_and_dewiki)_read-only#647237e6 (3) => T172492 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T112776",
+    "stamps": [
+      "LookupIncremental => 20150914-extension1 (3) => 20150914-extension1#79c6b30b (3) => T112473 > [mentioned task] (2) => T109279 > [mentioned task] (1)",
+      "LookupIncremental => 2018-02-06_Phabricator (3) => 2018-02-06_Phabricator#504f3441 (3) => T187790 > [mentioned task] (2) => T182832 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T119371",
+    "stamps": [
+      "LookupIncremental => 20150914-extension1 (3) => 20150914-extension1#79c6b30b (3) => T99485 > [subtask] (2) => T116793 > [mentioned task] (1)",
+      "LookupIncremental => 2019-12-10_updateCategoryCounts (3) => 2019-12-10_updateCategoryCounts#4e4c4608 (3) => T240405 > [mentioned task] (2) => T108255 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T69223",
+    "stamps": [
+      "LookupIncremental => 20150914-extension1 (3) => 20150914-extension1#79c6b30b (3) => T99485 > [mentioned task] (2)",
+      "LookupIncremental => 20160705-commons-replication (3) => 20160705-commons-replication#77af826b (3) => T104459 > [mentioned task] (2) => T86342 > [mentioned task] (1)",
+      "LookupIncremental => 20160705-commons-replication (3) => 20160705-commons-replication#77af826b (3) => T104459 > [mentioned task] (2) => T132416 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T113834",
+    "stamps": [
+      "LookupIncremental => 20150925-LabsOutage (3) => 20150925-LabsOutage#undefined (3)",
+      "LookupIncremental => 2017-07-28_s5_(WikiData_and_dewiki)_read-only (3) => 2017-07-28_s5_(WikiData_and_dewiki)_read-only#647237e6 (3) => T172492 > [subtask] (2) => T233684 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T121597",
+    "stamps": [
+      "LookupIncremental => 20151005-MediaWiki (3) => 20151005-MediaWiki#49a8bb7c (3) => T114725 > [mentioned task] (2)",
+      "LookupIncremental => 20160212-AllWikisOutage (3) => 20160212-AllWikisOutage#4b7ea001 (3)",
+      "LookupIncremental => 20160601-MediaWiki (3) => 20160601-MediaWiki#430ce71d (3)",
+      "LookupIncremental => 20160601-MediaWiki (3) => 20160601-MediaWiki#5706b69c (3) => T136782 > [mentioned task] (2)",
+      "LookupIncremental => 20160601-MediaWiki (3) => 20160601-MediaWiki#6bb1e774 (3) => T136821 > [mentioned task] (2)",
+      "LookupIncremental => 20160601-MediaWiki (3) => 20160601-MediaWiki#6bb1e774 (3) => T136821 > [mentioned task] (2) => T136883 > [subtask] (1)",
+      "LookupIncremental => 2017-01-11_multiversion (3) => 2017-01-11_multiversion#62bf7b3d (3)",
+      "LookupIncremental => 2017-03-23_wikibase (3) => 2017-03-23_wikibase#40d18005 (3)"
+    ]
+  },
+  {
+    "key": "T204383",
+    "stamps": [
+      "LookupIncremental => 20151005-MediaWiki (3) => 20151005-MediaWiki#49a8bb7c (3) => T114725 > [mentioned task] (2) => T121597 > [subtask] (1)",
+      "LookupIncremental => 20160601-MediaWiki (3) => 20160601-MediaWiki#6bb1e774 (3) => T136821 > [mentioned task] (2) => T136883 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T191921",
+    "stamps": [
+      "LookupIncremental => 20151005-MediaWiki (3) => 20151005-MediaWiki#49a8bb7c (3) => T114725 > [mentioned task] (2) => T121597 > [mentioned task] (1)",
+      "LookupIncremental => 20160915-MediaWiki (3) => 20160915-MediaWiki#726b0177 (3) => T146226 > [mentioned task] (2) => T176370 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T204907",
+    "stamps": [
+      "LookupIncremental => 20151005-MediaWiki (3) => 20151005-MediaWiki#49a8bb7c (3) => T114725 > [mentioned task] (2) => T121597 > [mentioned task] (1)",
+      "LookupIncremental => 2018-09-18_train (3) => 2018-09-18_train#6bc70c62 (3)"
+    ]
+  },
+  {
+    "key": "T183999",
+    "stamps": [
+      "LookupIncremental => 20151005-MediaWiki (3) => 20151005-MediaWiki#49a8bb7c (3) => T114725 > [mentioned task] (2) => T121597 > [mentioned task] (1)",
+      "LookupIncremental => 2018-01-29_MediaWiki (3) => 2018-01-29_MediaWiki#1595a89e (3)",
+      "LookupIncremental => 2020-02-06_mediawiki (3) => 2020-02-06_mediawiki#62e90d21 (3)"
+    ]
+  },
+  {
+    "key": "T142784",
+    "stamps": [
+      "LookupIncremental => 20151005-MediaWiki (3) => 20151005-MediaWiki#49a8bb7c (3) => T114725 > [mentioned task] (2) => T121597 > [mentioned task] (1)",
+      "LookupIncremental => 20160809-MediaWiki (3) => 20160809-MediaWiki#1822e08d (3)"
+    ]
+  },
+  {
+    "key": "T154646",
+    "stamps": [
+      "LookupIncremental => 20151005-MediaWiki (3) => 20151005-MediaWiki#49a8bb7c (3) => T114725 > [mentioned task] (2) => T121597 > [mentioned task] (1)",
+      "LookupIncremental => 2017-01-04_MonologSpi (3) => 2017-01-04_MonologSpi#4683e524 (3)",
+      "LookupIncremental => 2017-01-11_multiversion (3) => 2017-01-11_multiversion#79e34a22 (3)"
+    ]
+  },
+  {
+    "key": "T110068",
+    "stamps": [
+      "LookupIncremental => 20151026-MediaWiki (3) => 20151026-MediaWiki#533b5e7f (3) => T116627 > [mentioned task] (2)",
+      "LookupIncremental => 20160601-MediaWiki (3) => 20160601-MediaWiki#6bb1e774 (3) => T136821 > [mentioned task] (2) => T136883 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T136839",
+    "stamps": [
+      "LookupIncremental => 20151026-MediaWiki (3) => 20151026-MediaWiki#533b5e7f (3) => T116627 > [mentioned task] (2) => T110068 > [mentioned task] (1)",
+      "LookupIncremental => 20160601-MediaWiki (3) => 20160601-MediaWiki#6bb1e774 (3) => T136821 > [mentioned task] (2) => T136883 > [subtask] (1)",
+      "LookupIncremental => 20160601-MediaWiki (3) => 20160601-MediaWiki#3c68623b (3)",
+      "LookupIncremental => 2018-01-29_MediaWiki (3) => 2018-01-29_MediaWiki#2f10f69 (3) => T186069 > [mentioned task] (2)"
+    ]
+  },
+  {
+    "key": "T119637",
+    "stamps": [
+      "LookupIncremental => 20160128-MediaWiki-API (3) => 20160128-MediaWiki-API#5471dc11 (3) => T125084 > [subtask] (2)",
+      "LookupIncremental => 20160202-deployment-server-loss (3) => 20160202-deployment-server-loss#2c758459 (3) => T125685 > [mentioned task] (2)",
+      "LookupIncremental => 20160202-deployment-server-loss (3) => 20160202-deployment-server-loss#2c758459 (3) => T125685 > [mentioned task] (2) => T99740 > [subtask] (1)",
+      "LookupIncremental => 20160202-deployment-server-loss (3) => 20160202-deployment-server-loss#2c758459 (3) => T125685 > [mentioned task] (2) => T99740 > [mentioned task] (1)",
+      "LookupIncremental => 2020-02-06_mediawiki (3) => 2020-02-06_mediawiki#d168c2c (3) => T223602 > [mentioned task] (2) => T212460 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T129467",
+    "stamps": [
+      "LookupIncremental => 20160128-MediaWiki-API (3) => 20160128-MediaWiki-API#5471dc11 (3) => T125084 > [subtask] (2) => T119637 > [subtask] (1)",
+      "LookupIncremental => 20160128-MediaWiki-API (3) => 20160128-MediaWiki-API#5471dc11 (3) => T125084 > [subtask] (2)",
+      "LookupIncremental => 20160202-deployment-server-loss (3) => 20160202-deployment-server-loss#2c758459 (3) => T125685 > [mentioned task] (2) => T99740 > [subtask] (1)",
+      "LookupIncremental => 2020-02-06_mediawiki (3) => 2020-02-06_mediawiki#d168c2c (3) => T223602 > [mentioned task] (2) => T212460 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T103886",
+    "stamps": [
+      "LookupIncremental => 20160128-MediaWiki-API (3) => 20160128-MediaWiki-API#5471dc11 (3) => T125084 > [subtask] (2) => T119637 > [mentioned task] (1)",
+      "LookupIncremental => 20160202-deployment-server-loss (3) => 20160202-deployment-server-loss#2c758459 (3) => T125685 > [mentioned task] (2)",
+      "LookupIncremental => 20160202-deployment-server-loss (3) => 20160202-deployment-server-loss#2c758459 (3) => T125685 > [mentioned task] (2) => T99740 > [subtask] (1)",
+      "LookupIncremental => 20160202-deployment-server-loss (3) => 20160202-deployment-server-loss#2c758459 (3) => T125685 > [mentioned task] (2) => T99740 > [mentioned task] (1)",
+      "LookupIncremental => 20160601-MediaWiki (3) => 20160601-MediaWiki#5706b69c (3) => T136782 > [mentioned task] (2) => T119117 > [mentioned task] (1)",
+      "LookupIncremental => 2017-05-25_MediaWiki (3) => 2017-05-25_MediaWiki#46e2cfde (3) => T166384 > [mentioned task] (2)",
+      "LookupIncremental => 2020-02-06_mediawiki (3) => 2020-02-06_mediawiki#d168c2c (3) => T223602 > [mentioned task] (2) => T212460 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T88732",
+    "stamps": [
+      "LookupIncremental => 20160128-MediaWiki-API (3) => 20160128-MediaWiki-API#5471dc11 (3) => T125084 > [mentioned task] (2)",
+      "LookupIncremental => 2019-02-08_logstash-mediawiki (3) => 2019-02-08_logstash-mediawiki#71829a1 (3) => T215611 > [mentioned task] (2)"
+    ]
+  },
+  {
+    "key": "T104352",
+    "stamps": [
+      "LookupIncremental => 20160202-deployment-server-loss (3) => 20160202-deployment-server-loss#34be462c (3) => T125629 > [subtask] (2)",
+      "LookupIncremental => 2019-06-06_wikibase (3) => 2019-06-06_wikibase#50c8193e (3) => T225207 > [mentioned task] (2)"
+    ]
+  },
+  {
+    "key": "T99740",
+    "stamps": [
+      "LookupIncremental => 20160202-deployment-server-loss (3) => 20160202-deployment-server-loss#2c758459 (3) => T125685 > [mentioned task] (2)",
+      "LookupIncremental => 2020-02-06_mediawiki (3) => 2020-02-06_mediawiki#d168c2c (3) => T223602 > [mentioned task] (2) => T212460 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T105683",
+    "stamps": [
+      "LookupIncremental => 20160202-deployment-server-loss (3) => 20160202-deployment-server-loss#2c758459 (3) => T125685 > [mentioned task] (2) => T99740 > [subtask] (1)",
+      "LookupIncremental => 20160202-deployment-server-loss (3) => 20160202-deployment-server-loss#2c758459 (3) => T125685 > [mentioned task] (2) => T99740 > [mentioned task] (1)",
+      "LookupIncremental => 2020-02-06_mediawiki (3) => 2020-02-06_mediawiki#d168c2c (3) => T223602 > [mentioned task] (2) => T212460 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T243358",
+    "stamps": [
+      "LookupIncremental => 20160202-deployment-server-loss (3) => 20160202-deployment-server-loss#2c758459 (3) => T125685 > [mentioned task] (2) => T99740 > [subtask] (1)",
+      "LookupIncremental => 2020-02-06_mediawiki (3) => 2020-02-06_mediawiki#d168c2c (3) => T223602 > [mentioned task] (2) => T212460 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T245530",
+    "stamps": [
+      "LookupIncremental => 20160202-deployment-server-loss (3) => 20160202-deployment-server-loss#2c758459 (3) => T125685 > [mentioned task] (2) => T99740 > [subtask] (1)",
+      "LookupIncremental => 20160202-deployment-server-loss (3) => 20160202-deployment-server-loss#2c758459 (3) => T125685 > [mentioned task] (2) => T99740 > [mentioned task] (1)",
+      "LookupIncremental => 2020-02-06_mediawiki (3) => 2020-02-06_mediawiki#d168c2c (3) => T223602 > [mentioned task] (2) => T212460 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T253673",
+    "stamps": [
+      "LookupIncremental => 20160202-deployment-server-loss (3) => 20160202-deployment-server-loss#2c758459 (3) => T125685 > [mentioned task] (2) => T99740 > [subtask] (1)",
+      "LookupIncremental => 2020-02-06_mediawiki (3) => 2020-02-06_mediawiki#d168c2c (3) => T223602 > [mentioned task] (2) => T212460 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T261009",
+    "stamps": [
+      "LookupIncremental => 20160202-deployment-server-loss (3) => 20160202-deployment-server-loss#2c758459 (3) => T125685 > [mentioned task] (2) => T99740 > [subtask] (1)",
+      "LookupIncremental => 2020-02-06_mediawiki (3) => 2020-02-06_mediawiki#d168c2c (3) => T223602 > [mentioned task] (2) => T212460 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T266055",
+    "stamps": [
+      "LookupIncremental => 20160202-deployment-server-loss (3) => 20160202-deployment-server-loss#2c758459 (3) => T125685 > [mentioned task] (2) => T99740 > [subtask] (1)",
+      "LookupIncremental => 20160202-deployment-server-loss (3) => 20160202-deployment-server-loss#2c758459 (3) => T125685 > [mentioned task] (2) => T99740 > [mentioned task] (1)",
+      "LookupIncremental => 2020-02-06_mediawiki (3) => 2020-02-06_mediawiki#d168c2c (3) => T223602 > [mentioned task] (2) => T212460 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T243009",
+    "stamps": [
+      "LookupIncremental => 20160202-deployment-server-loss (3) => 20160202-deployment-server-loss#2c758459 (3) => T125685 > [mentioned task] (2) => T99740 > [subtask] (1)",
+      "LookupIncremental => 2020-01-08_mw-api (3) => 2020-01-08_mw-api#66817ab9 (3)",
+      "LookupIncremental => 2020-02-06_mediawiki (3) => 2020-02-06_mediawiki#75dc3653 (3)",
+      "LookupIncremental => 2020-02-06_mediawiki (3) => 2020-02-06_mediawiki#31e872cb (3) => T244544 > [subtask] (2)",
+      "LookupIncremental => 2020-02-06_mediawiki (3) => 2020-02-06_mediawiki#31e872cb (3) => T244544 > [mentioned task] (2)",
+      "LookupIncremental => 2020-02-06_mediawiki (3) => 2020-02-06_mediawiki#d168c2c (3) => T223602 > [mentioned task] (2) => T212460 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T264362",
+    "stamps": [
+      "LookupIncremental => 20160202-deployment-server-loss (3) => 20160202-deployment-server-loss#2c758459 (3) => T125685 > [mentioned task] (2) => T99740 > [subtask] (1)",
+      "LookupIncremental => 2020-02-06_mediawiki (3) => 2020-02-06_mediawiki#d168c2c (3) => T223602 > [mentioned task] (2) => T212460 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T290038",
+    "stamps": [
+      "LookupIncremental => 20160202-deployment-server-loss (3) => 20160202-deployment-server-loss#2c758459 (3) => T125685 > [mentioned task] (2) => T99740 > [subtask] (1)",
+      "LookupIncremental => 2020-02-06_mediawiki (3) => 2020-02-06_mediawiki#d168c2c (3) => T223602 > [mentioned task] (2) => T212460 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T237033",
+    "stamps": [
+      "LookupIncremental => 20160202-deployment-server-loss (3) => 20160202-deployment-server-loss#2c758459 (3) => T125685 > [mentioned task] (2) => T99740 > [subtask] (1)",
+      "LookupIncremental => 2020-02-06_mediawiki (3) => 2020-02-06_mediawiki#d168c2c (3) => T223602 > [mentioned task] (2) => T212460 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T311788",
+    "stamps": [
+      "LookupIncremental => 20160202-deployment-server-loss (3) => 20160202-deployment-server-loss#2c758459 (3) => T125685 > [mentioned task] (2) => T99740 > [subtask] (1)",
+      "LookupIncremental => 2020-02-06_mediawiki (3) => 2020-02-06_mediawiki#d168c2c (3) => T223602 > [mentioned task] (2) => T212460 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T263872",
+    "stamps": [
+      "LookupIncremental => 20160202-deployment-server-loss (3) => 20160202-deployment-server-loss#2c758459 (3) => T125685 > [mentioned task] (2) => T99740 > [subtask] (1)",
+      "LookupIncremental => 2020-02-06_mediawiki (3) => 2020-02-06_mediawiki#d168c2c (3) => T223602 > [mentioned task] (2) => T212460 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T314947",
+    "stamps": [
+      "LookupIncremental => 20160202-deployment-server-loss (3) => 20160202-deployment-server-loss#2c758459 (3) => T125685 > [mentioned task] (2) => T99740 > [subtask] (1)",
+      "LookupIncremental => 2020-02-06_mediawiki (3) => 2020-02-06_mediawiki#d168c2c (3) => T223602 > [mentioned task] (2) => T212460 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T244340",
+    "stamps": [
+      "LookupIncremental => 20160202-deployment-server-loss (3) => 20160202-deployment-server-loss#2c758459 (3) => T125685 > [mentioned task] (2) => T99740 > [mentioned task] (1)",
+      "LookupIncremental => 2020-01-26_app_server_latency (3) => 2020-01-26_app_server_latency#493347ff (3)",
+      "LookupIncremental => 2020-02-04_app_server_latency (3) => 2020-02-04_app_server_latency#5957f739 (3)",
+      "LookupIncremental => 2020-05-22_thumbnails (3) => 2020-05-22_thumbnails#70534a8a (3) => T261534 > [mentioned task] (2) => T267668 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T108638",
+    "stamps": [
+      "LookupIncremental => 20160202-deployment-server-loss (3) => 20160202-deployment-server-loss#2c758459 (3) => T125685 > [mentioned task] (2) => T99740 > [mentioned task] (1)",
+      "LookupIncremental => 2020-02-06_mediawiki (3) => 2020-02-06_mediawiki#d168c2c (3) => T223602 > [mentioned task] (2) => T212460 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T116207",
+    "stamps": [
+      "LookupIncremental => 20160204-Phabricator (3) => 20160204-Phabricator#44dab920 (3) => T114363 > [subtask] (2)",
+      "LookupIncremental => 2018-01-29_MediaWiki (3) => 2018-01-29_MediaWiki#3392e6b (3) => T186067 > [mentioned task] (2) => T114313 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T102578",
+    "stamps": [
+      "LookupIncremental => 20160601-MediaWiki (3) => 20160601-MediaWiki#28343da6 (3) => T136828 > [mentioned task] (2) => T89945 > [subtask] (1)",
+      "LookupIncremental => 2022-08-16_x2_databases_replication_breakage (3) => 2022-08-16_x2_databases_replication_breakage#59cc329d (3) => T312809 > [mentioned task] (2) => T113916 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T111481",
+    "stamps": [
+      "LookupIncremental => 20160601-MediaWiki (3) => 20160601-MediaWiki#28343da6 (3) => T136828 > [mentioned task] (2) => T89945 > [subtask] (1)",
+      "LookupIncremental => 2022-08-16_x2_databases_replication_breakage (3) => 2022-08-16_x2_databases_replication_breakage#59cc329d (3) => T312809 > [mentioned task] (2) => T113916 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T113092",
+    "stamps": [
+      "LookupIncremental => 20160601-MediaWiki (3) => 20160601-MediaWiki#28343da6 (3) => T136828 > [mentioned task] (2) => T89945 > [subtask] (1)",
+      "LookupIncremental => 2022-08-16_x2_databases_replication_breakage (3) => 2022-08-16_x2_databases_replication_breakage#59cc329d (3) => T312809 > [mentioned task] (2) => T113916 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T147478",
+    "stamps": [
+      "LookupIncremental => 20160601-MediaWiki (3) => 20160601-MediaWiki#28343da6 (3) => T136828 > [mentioned task] (2) => T89945 > [mentioned task] (1)",
+      "LookupIncremental => 2018-01-29_MediaWiki (3) => 2018-01-29_MediaWiki#3392e6b (3) => T186067 > [mentioned task] (2) => T114313 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T165743",
+    "stamps": [
+      "LookupIncremental => 20160623-etherpad (3) => 20160623-etherpad#74929bd (3) => T138562 > [subtask] (2) => T184699 > [subtask] (1)",
+      "LookupIncremental => 20160623-etherpad (3) => 20160623-etherpad#74929bd (3) => T138562 > [subtask] (2)",
+      "LookupIncremental => 20160705-commons-replication (3) => 20160705-commons-replication#77af826b (3) => T104459 > [mentioned task] (2) => T132416 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T205628",
+    "stamps": [
+      "LookupIncremental => 20160623-etherpad (3) => 20160623-etherpad#74929bd (3) => T138562 > [subtask] (2) => T198447 > [mentioned task] (1)",
+      "LookupIncremental => 20160623-etherpad (3) => 20160623-etherpad#74929bd (3) => T138562 > [subtask] (2)",
+      "LookupIncremental => 2017-07-28_s5_(WikiData_and_dewiki)_read-only (3) => 2017-07-28_s5_(WikiData_and_dewiki)_read-only#647237e6 (3) => T172492 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T28741",
+    "stamps": [
+      "LookupIncremental => 20160623-etherpad (3) => 20160623-etherpad#74929bd (3) => T138562 > [subtask] (2) => T257551 > [mentioned task] (1)",
+      "LookupIncremental => 2020-05-22_thumbnails (3) => 2020-05-22_thumbnails#bd1c2e1 (3) => T240281 > [mentioned task] (2) => T198177 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T207253",
+    "stamps": [
+      "LookupIncremental => 20160705-commons-replication (3) => 20160705-commons-replication#77af826b (3) => T104459 > [mentioned task] (2)",
+      "LookupIncremental => 2018-10-16_Replication_gap_on_s8_eqiad_hosts (3) => 2018-10-16_Replication_gap_on_s8_eqiad_hosts#2b795112 (3)",
+      "LookupIncremental => 2020-09-25_s5_replication_lag (3) => 2020-09-25_s5_replication_lag#12e8093d (3) => T263842 > [mentioned task] (2)",
+      "LookupIncremental => 2020-09-25_s5_replication_lag (3) => 2020-09-25_s5_replication_lag#fce2ed9 (3)"
+    ]
+  },
+  {
+    "key": "T260042",
+    "stamps": [
+      "LookupIncremental => 20160705-commons-replication (3) => 20160705-commons-replication#77af826b (3) => T104459 > [mentioned task] (2) => T207253 > [subtask] (1)",
+      "LookupIncremental => 2020-09-25_s5_replication_lag (3) => 2020-09-25_s5_replication_lag#12e8093d (3) => T263842 > [mentioned task] (2)"
+    ]
+  },
+  {
+    "key": "T162774",
+    "stamps": [
+      "LookupIncremental => 20160705-commons-replication (3) => 20160705-commons-replication#77af826b (3) => T104459 > [mentioned task] (2) => T132416 > [subtask] (1)",
+      "LookupIncremental => 2017-05-03_missing_index (3) => 2017-05-03_missing_index#7cb09e98 (3) => T164382 > [mentioned task] (2)",
+      "LookupIncremental => 2017-05-03_missing_index (3) => 2017-05-03_missing_index#35f1ae1b (3)"
+    ]
+  },
+  {
+    "key": "T119736",
+    "stamps": [
+      "LookupIncremental => 20160712-EchoCentralAuth (3) => 20160712-EchoCentralAuth#687a9282 (3) => T140156 > [mentioned task] (2) => T140144 > [mentioned task] (1)",
+      "LookupIncremental => 20160915-MediaWiki (3) => 20160915-MediaWiki#2a9450a4 (3) => T140942 > [mentioned task] (2)"
+    ]
+  },
+  {
+    "key": "T187147",
+    "stamps": [
+      "LookupIncremental => 20160915-MediaWiki (3) => 20160915-MediaWiki#726b0177 (3) => T146226 > [mentioned task] (2) => T176370 > [subtask] (1)",
+      "LookupIncremental => 20160915-MediaWiki (3) => 20160915-MediaWiki#726b0177 (3) => T146226 > [mentioned task] (2) => T176370 > [mentioned task] (1)",
+      "LookupIncremental => 2020-02-06_mediawiki (3) => 2020-02-06_mediawiki#d168c2c (3) => T223602 > [mentioned task] (2) => T224491 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T221347",
+    "stamps": [
+      "LookupIncremental => 20160915-MediaWiki (3) => 20160915-MediaWiki#726b0177 (3) => T146226 > [mentioned task] (2) => T176370 > [subtask] (1)",
+      "LookupIncremental => 2020-02-06_mediawiki (3) => 2020-02-06_mediawiki#d168c2c (3) => T223602 > [mentioned task] (2) => T224491 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T224857",
+    "stamps": [
+      "LookupIncremental => 20160915-MediaWiki (3) => 20160915-MediaWiki#726b0177 (3) => T146226 > [mentioned task] (2) => T176370 > [subtask] (1)",
+      "LookupIncremental => 2019-06-06_wikibase (3) => 2019-06-06_wikibase#50c8193e (3) => T225207 > [mentioned task] (2)",
+      "LookupIncremental => 2020-02-06_mediawiki (3) => 2020-02-06_mediawiki#d168c2c (3) => T223602 > [mentioned task] (2) => T224491 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T219150",
+    "stamps": [
+      "LookupIncremental => 20160915-MediaWiki (3) => 20160915-MediaWiki#726b0177 (3) => T146226 > [mentioned task] (2) => T176370 > [subtask] (1)",
+      "LookupIncremental => 2020-02-06_mediawiki (3) => 2020-02-06_mediawiki#d168c2c (3) => T223602 > [mentioned task] (2) => T224491 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T222705",
+    "stamps": [
+      "LookupIncremental => 20160915-MediaWiki (3) => 20160915-MediaWiki#726b0177 (3) => T146226 > [mentioned task] (2) => T176370 > [subtask] (1)",
+      "LookupIncremental => 2019-05-07_opcache (3) => 2019-05-07_opcache#267250d5 (3)"
+    ]
+  },
+  {
+    "key": "T125976",
+    "stamps": [
+      "LookupIncremental => 20160915-MediaWiki (3) => 20160915-MediaWiki#726b0177 (3) => T146226 > [mentioned task] (2) => T176370 > [mentioned task] (1)",
+      "LookupIncremental => 2022-08-16_Beta_Cluster_502 (3) => 2022-08-16_Beta_Cluster_502#7dcdc9c9 (3) => T315695 > [mentioned task] (2) => T53497 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T146090",
+    "stamps": [
+      "LookupIncremental => 20160915-MediaWiki (3) => 20160915-MediaWiki#2a9450a4 (3) => T140942 > [subtask] (2)",
+      "LookupIncremental => 20160915-MediaWiki (3) => 20160915-MediaWiki#2a9450a4 (3) => T140942 > [mentioned task] (2)",
+      "LookupIncremental => 20160915-MediaWiki (3) => 20160915-MediaWiki#62d1cda6 (3)",
+      "LookupIncremental => 20160924-ORES (3) => 20160924-ORES#42f075bd (3)"
+    ]
+  },
+  {
+    "key": "T153167",
+    "stamps": [
+      "LookupIncremental => 20160915-MediaWiki (3) => 20160915-MediaWiki#2a9450a4 (3) => T140942 > [subtask] (2) => T153166 > [subtask] (1)",
+      "LookupIncremental => 20160915-MediaWiki (3) => 20160915-MediaWiki#2a9450a4 (3) => T140942 > [subtask] (2)",
+      "LookupIncremental => 2017-06-13_ORES (3) => 2017-06-13_ORES#6f573af7 (3) => T167830 > [mentioned task] (2) => T162765 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T150300",
+    "stamps": [
+      "LookupIncremental => 20160915-MediaWiki (3) => 20160915-MediaWiki#2a9450a4 (3) => T140942 > [mentioned task] (2) => T123243 > [mentioned task] (1)",
+      "LookupIncremental => 20161112-OurMine (3) => 20161112-OurMine#2721c894 (3)"
+    ]
+  },
+  {
+    "key": "T199479",
+    "stamps": [
+      "LookupIncremental => 20160915-MediaWiki (3) => 20160915-MediaWiki#2a9450a4 (3) => T140942 > [mentioned task] (2) => T117470 > [mentioned task] (1)",
+      "LookupIncremental => 2018-07-10_MediaWiki (3) => 2018-07-10_MediaWiki#7d354c6 (3)"
+    ]
+  },
+  {
+    "key": "T57420",
+    "stamps": [
+      "LookupIncremental => 20161112-OurMine (3) => 20161112-OurMine#e810246 (3)",
+      "LookupIncremental => 2018-10-01_DeleteLocalPasswords (3) => 2018-10-01_DeleteLocalPasswords#1e6c17f9 (3) => T205893 > [mentioned task] (2)"
+    ]
+  },
+  {
+    "key": "T228575",
+    "stamps": [
+      "LookupIncremental => 2017-01-06_Cache-upload (3) => 2017-01-06_Cache-upload#5ffc6b63 (3) => T154801 > [mentioned task] (2)",
+      "LookupIncremental => 2017-04-19_restbase (3) => 2017-04-19_restbase#1531a666 (3) => T160570 > [mentioned task] (2) => T177621 > [mentioned task] (1)",
+      "LookupIncremental => 2019-08-23_network_codfw (3) => 2019-08-23_network_codfw#5c3604cc (3) => T167306 > [mentioned task] (2)"
+    ]
+  },
+  {
+    "key": "T158908",
+    "stamps": [
+      "LookupIncremental => 2017-02-23_AQS (3) => 2017-02-23_AQS#3c102f3a (3)",
+      "LookupIncremental => 2017-04-19_restbase (3) => 2017-04-19_restbase#29fe0046 (3)"
+    ]
+  },
+  {
+    "key": "T160984",
+    "stamps": [
+      "LookupIncremental => 2017-03-20_Special_AllPages (3) => 2017-03-20_Special_AllPages#5b165c77 (3) => T160914 > [mentioned task] (2)",
+      "LookupIncremental => 2017-03-20_Special_AllPages (3) => 2017-03-20_Special_AllPages#1763d394 (3)",
+      "LookupIncremental => 2017-04-19_ContentTranslation (3) => 2017-04-19_ContentTranslation#2a4a97a5 (3)"
+    ]
+  },
+  {
+    "key": "T168073",
+    "stamps": [
+      "LookupIncremental => 2017-06-13_ORES (3) => 2017-06-13_ORES#6f573af7 (3) => T167830 > [mentioned task] (2) => T165171 > [mentioned task] (1)",
+      "LookupIncremental => 2017-11-28_ORES (3) => 2017-11-28_ORES#2576ebfe (3)"
+    ]
+  },
+  {
+    "key": "T187143",
+    "stamps": [
+      "LookupIncremental => 2017-06-16_PHAB (3) => 2017-06-16_PHAB#46ac30db (3)",
+      "LookupIncremental => 2018-02-06_Phabricator (3) => 2018-02-06_Phabricator#504f3441 (3) => T187790 > [mentioned task] (2) => T182832 > [subtask] (1)",
+      "LookupIncremental => 2018-02-06_Phabricator (3) => 2018-02-06_Phabricator#504f3441 (3) => T187790 > [mentioned task] (2) => T182832 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T129148",
+    "stamps": [
+      "LookupIncremental => 2017-07-18_JobQueue (3) => 2017-07-18_JobQueue#19199163 (3)",
+      "LookupIncremental => 2017-07-18_JobQueue (3) => 2017-07-18_JobQueue#19199163 (3) => T129148 > [subtask] (2) => T167104 > [mentioned task] (1)",
+      "LookupIncremental => 2017-07-18_JobQueue (3) => 2017-07-18_JobQueue#19199163 (3) => T129148 > [mentioned task] (2) => T146352 > [mentioned task] (1)",
+      "LookupIncremental => 2017-07-18_JobQueue (3) => 2017-07-18_JobQueue#2fbb4ea0 (3)",
+      "LookupIncremental => 2017-07-18_JobQueue (3) => 2017-07-18_JobQueue#5f19558c (3)",
+      "LookupIncremental => 2018-07-24_Train (3) => 2018-07-24_Train#cb5aee2 (3) => T172480 > [subtask] (2) => T172479 > [mentioned task] (1)",
+      "LookupIncremental => 2018-07-24_Train (3) => 2018-07-24_Train#cb5aee2 (3) => T172480 > [mentioned task] (2)"
+    ]
+  },
+  {
+    "key": "T173818",
+    "stamps": [
+      "LookupIncremental => 2017-07-21_Train-Wikidata (3) => 2017-07-21_Train-Wikidata#1c4def3f (3)",
+      "LookupIncremental => 2017-07-21_Train-Wikidata (3) => 2017-07-21_Train-Wikidata#1c4def3f (3) => T173818 > [mentioned task] (2) => T177060 > [mentioned task] (1)",
+      "LookupIncremental => 2017-08-14_Train (3) => 2017-08-14_Train#18d83cf3 (3)"
+    ]
+  },
+  {
+    "key": "T172489",
+    "stamps": [
+      "LookupIncremental => 2017-07-28_s5_(WikiData_and_dewiki)_read-only (3) => 2017-07-28_s5_(WikiData_and_dewiki)_read-only#7a5b2d62 (3)",
+      "LookupIncremental => 2017-07-28_s5_(WikiData_and_dewiki)_read-only (3) => 2017-07-28_s5_(WikiData_and_dewiki)_read-only#7a5b2d62 (3) => T172489 > [mentioned task] (2) => T171928 > [subtask] (1)",
+      "LookupIncremental => 2017-07-28_s5_(WikiData_and_dewiki)_read-only (3) => 2017-07-28_s5_(WikiData_and_dewiki)_read-only#647237e6 (3) => T172492 > [subtask] (2)",
+      "LookupIncremental => 2017-07-28_s5_(WikiData_and_dewiki)_read-only (3) => 2017-07-28_s5_(WikiData_and_dewiki)_read-only#647237e6 (3) => T172492 > [subtask] (2) => T177782 > [mentioned task] (1)",
+      "LookupIncremental => 2018-07-31_Phabricator (3) => 2018-07-31_Phabricator#1d045f96 (3)"
+    ]
+  },
+  {
+    "key": "T172497",
+    "stamps": [
+      "LookupIncremental => 2017-07-28_s5_(WikiData_and_dewiki)_read-only (3) => 2017-07-28_s5_(WikiData_and_dewiki)_read-only#4fe97668 (3)",
+      "LookupIncremental => 2017-07-28_s5_(WikiData_and_dewiki)_read-only (3) => 2017-07-28_s5_(WikiData_and_dewiki)_read-only#4fe97668 (3) => T172497 > [mentioned task] (2) => T221159 > [mentioned task] (1)",
+      "LookupIncremental => 2019-09-23_s3_primary_db_master_crash (3) => 2019-09-23_s3_primary_db_master_crash#585f08e7 (3)"
+    ]
+  },
+  {
+    "key": "T314020",
+    "stamps": [
+      "LookupIncremental => 2017-07-28_s5_(WikiData_and_dewiki)_read-only (3) => 2017-07-28_s5_(WikiData_and_dewiki)_read-only#4fe97668 (3) => T172497 > [mentioned task] (2)",
+      "LookupIncremental => 2023-01-09_API_errors_-_db1143 (3) => 2023-01-09_API_errors_-_db1143#2274e736 (3)"
+    ]
+  },
+  {
+    "key": "T311106",
+    "stamps": [
+      "LookupIncremental => 2017-07-28_s5_(WikiData_and_dewiki)_read-only (3) => 2017-07-28_s5_(WikiData_and_dewiki)_read-only#4fe97668 (3) => T172497 > [mentioned task] (2) => T314020 > [mentioned task] (1)",
+      "LookupIncremental => 2022-05-05_Wikimedia_full_site_outage (3) => 2022-05-05_Wikimedia_full_site_outage#bf78350 (3) => T307501 > [mentioned task] (2) => T301879 > [subtask] (1)",
+      "LookupIncremental => 2022-05-05_Wikimedia_full_site_outage (3) => 2022-05-05_Wikimedia_full_site_outage#bf78350 (3) => T307501 > [mentioned task] (2) => T301879 > [mentioned task] (1)",
+      "LookupIncremental => 2022-05-20_Database_slow (3) => 2022-05-20_Database_slow#3cb3af5e (3)",
+      "LookupIncremental => 2022-07-11_FrontendUnavailable_cache_text (3) => 2022-07-11_FrontendUnavailable_cache_text#29a9e045 (3)"
+    ]
+  },
+  {
+    "key": "T233684",
+    "stamps": [
+      "LookupIncremental => 2017-07-28_s5_(WikiData_and_dewiki)_read-only (3) => 2017-07-28_s5_(WikiData_and_dewiki)_read-only#647237e6 (3) => T172492 > [subtask] (2)",
+      "LookupIncremental => 2019-09-23_s3_primary_db_master_crash (3) => 2019-09-23_s3_primary_db_master_crash#7350a1c7 (3) => T233569 > [mentioned task] (2) => T233534 > [subtask] (1)",
+      "LookupIncremental => 2019-09-23_s3_primary_db_master_crash (3) => 2019-09-23_s3_primary_db_master_crash#2f0bb3c8 (3)"
+    ]
+  },
+  {
+    "key": "T322987",
+    "stamps": [
+      "LookupIncremental => 2017-07-28_s5_(WikiData_and_dewiki)_read-only (3) => 2017-07-28_s5_(WikiData_and_dewiki)_read-only#647237e6 (3) => T172492 > [subtask] (2) => T233684 > [subtask] (1)",
+      "LookupIncremental => 2017-07-28_s5_(WikiData_and_dewiki)_read-only (3) => 2017-07-28_s5_(WikiData_and_dewiki)_read-only#647237e6 (3) => T172492 > [subtask] (2)",
+      "LookupIncremental => 2019-09-23_s3_primary_db_master_crash (3) => 2019-09-23_s3_primary_db_master_crash#7350a1c7 (3) => T233569 > [mentioned task] (2) => T233534 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T322988",
+    "stamps": [
+      "LookupIncremental => 2017-07-28_s5_(WikiData_and_dewiki)_read-only (3) => 2017-07-28_s5_(WikiData_and_dewiki)_read-only#647237e6 (3) => T172492 > [subtask] (2) => T233684 > [subtask] (1)",
+      "LookupIncremental => 2017-07-28_s5_(WikiData_and_dewiki)_read-only (3) => 2017-07-28_s5_(WikiData_and_dewiki)_read-only#647237e6 (3) => T172492 > [subtask] (2)",
+      "LookupIncremental => 2019-09-23_s3_primary_db_master_crash (3) => 2019-09-23_s3_primary_db_master_crash#7350a1c7 (3) => T233569 > [mentioned task] (2) => T233534 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T294490",
+    "stamps": [
+      "LookupIncremental => 2017-07-28_s5_(WikiData_and_dewiki)_read-only (3) => 2017-07-28_s5_(WikiData_and_dewiki)_read-only#647237e6 (3) => T172492 > [subtask] (2) => T233684 > [mentioned task] (1)",
+      "LookupIncremental => 2021-10-25_s3_db_recentchanges_replica (3) => 2021-10-25_s3_db_recentchanges_replica#ee81c81 (3)"
+    ]
+  },
+  {
+    "key": "T281833",
+    "stamps": [
+      "LookupIncremental => 2017-07-28_s5_(WikiData_and_dewiki)_read-only (3) => 2017-07-28_s5_(WikiData_and_dewiki)_read-only#647237e6 (3) => T172492 > [subtask] (2)",
+      "LookupIncremental => 2021-04-29_db_and_memc_load (3) => 2021-04-29_db_and_memc_load#2006868e (3)"
+    ]
+  },
+  {
+    "key": "T176335",
+    "stamps": [
+      "LookupIncremental => 2017-09-20_Logstash (3) => 2017-09-20_Logstash#7fe026bd (3)",
+      "LookupIncremental => 2017-09-20_Logstash (3) => 2017-09-20_Logstash#7fe026bd (3) => T176335 > [subtask] (2) => T176430 > [mentioned task] (1)",
+      "LookupIncremental => 2017-09-20_Logstash (3) => 2017-09-20_Logstash#7fe026bd (3) => T176335 > [mentioned task] (2) => T297239 > [subtask] (1)",
+      "LookupIncremental => 2017-09-20_Logstash (3) => 2017-09-20_Logstash#7fe026bd (3) => T176335 > [mentioned task] (2) => T297239 > [mentioned task] (1)",
+      "LookupIncremental => 2019-07-15_logstash (3) => 2019-07-15_logstash#31946897 (3) => T223483 > [mentioned task] (2)"
+    ]
+  },
+  {
+    "key": "T168142",
+    "stamps": [
+      "LookupIncremental => 2017-09-22_REST-API-alert-pageimage-update (3) => 2017-09-22_REST-API-alert-pageimage-update#7ee1c86c (3) => T176520 > [mentioned task] (2) => T167400 > [mentioned task] (1)",
+      "LookupIncremental => 20170617-Phabricator-spam (3) => 20170617-Phabricator-spam#20b157ab (3) => T162996 > [mentioned task] (2)",
+      "LookupIncremental => 20170617-Phabricator-spam (3) => 20170617-Phabricator-spam#3f22d93 (3)"
+    ]
+  },
+  {
+    "key": "T178492",
+    "stamps": [
+      "LookupIncremental => 2017-10-18_wdqs (3) => 2017-10-18_wdqs#17ee6bc1 (3)",
+      "LookupIncremental => 2017-10-18_wdqs (3) => 2017-10-18_wdqs#17ee6bc1 (3) => T178492 > [subtask] (2) => T184083 > [mentioned task] (1)",
+      "LookupIncremental => 2017-11-30_wdqs (3) => 2017-11-30_wdqs#65d42c77 (3)",
+      "LookupIncremental => 2018-04-23_wdqs (3) => 2018-04-23_wdqs#3a0aecc3 (3)"
+    ]
+  },
+  {
+    "key": "T122676",
+    "stamps": [
+      "LookupIncremental => 2017-11-28_ORES (3) => 2017-11-28_ORES#617d0c79 (3) => T181559 > [subtask] (2)",
+      "LookupIncremental => 2019-03-20_ORES (3) => 2019-03-20_ORES#74f2061a (3)"
+    ]
+  },
+  {
+    "key": "T148506",
+    "stamps": [
+      "LookupIncremental => 2017-11-28_ORES (3) => 2017-11-28_ORES#617d0c79 (3) => T181559 > [subtask] (2) => T122676 > [mentioned task] (1)",
+      "LookupIncremental => 2018-08-08_Network (3) => 2018-08-08_Network#7fd139ce (3) => T201145 > [mentioned task] (2) => T187960 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T161859",
+    "stamps": [
+      "LookupIncremental => 20170617-Phabricator-spam (3) => 20170617-Phabricator-spam#20b157ab (3) => T162996 > [subtask] (2) => T168692 > [mentioned task] (1)",
+      "LookupIncremental => 2022-06-16_MariaDB_password_leak (3) => 2022-06-16_MariaDB_password_leak#4cba31 (3) => T310795 > [mentioned task] (2) => T167973 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T143172",
+    "stamps": [
+      "LookupIncremental => 20170623-ORES (3) => 20170623-ORES#16a2f4aa (3) => T168921 > [mentioned task] (2) => T149010 > [mentioned task] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [mentioned task] (2) => T111885 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T196651",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#ace32fe (3) => T169570 > [subtask] (2) => T203469 > [mentioned task] (1)",
+      "LookupIncremental => 2018-06-28_dumps (3) => 2018-06-28_dumps#3fbca925 (3) => T198420 > [mentioned task] (2)"
+    ]
+  },
+  {
+    "key": "T169287",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2) => T215553 > [subtask] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [mentioned task] (2)"
+    ]
+  },
+  {
+    "key": "T215531",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2) => T142862 > [mentioned task] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T215529",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [subtask] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2) => T142862 > [subtask] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T226098",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [subtask] (1)",
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [mentioned task] (1)",
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T228267",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [subtask] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T228500",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [subtask] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T234032",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [subtask] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T234037",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [subtask] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T235059",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [subtask] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2) => T235627 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T234231",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [subtask] (1)",
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [mentioned task] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T236203",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [subtask] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T254293",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [subtask] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T228660",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [subtask] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T228887",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [subtask] (1)",
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [mentioned task] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T229009",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [subtask] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T234702",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [subtask] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T236074",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [subtask] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T236249",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [subtask] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T236824",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [subtask] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T237443",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [subtask] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T237541",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [subtask] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T238641",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [subtask] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T239403",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [subtask] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T239404",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [subtask] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)",
+      "LookupIncremental => 2024-06-12_WMCS_toolforge_k8s_control_plane (3) => 2024-06-12_WMCS_toolforge_k8s_control_plane#45753439 (3) => T333934 > [subtask] (2)",
+      "LookupIncremental => 2024-06-12_WMCS_toolforge_k8s_control_plane (3) => 2024-06-12_WMCS_toolforge_k8s_control_plane#45753439 (3) => T333934 > [mentioned task] (2)",
+      "LookupIncremental => 2024-06-12_WMCS_toolforge_k8s_control_plane (3) => 2024-06-12_WMCS_toolforge_k8s_control_plane#45753439 (3) => T333934 > [mentioned task] (2) => T333922 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T239405",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [subtask] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T239406",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [subtask] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T238655",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [subtask] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T215678",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [subtask] (1)",
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [mentioned task] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T227290",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [subtask] (1)",
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [mentioned task] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T238162",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [subtask] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2) => T215553 > [subtask] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T236202",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [subtask] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2) => T235627 > [subtask] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T228499",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [subtask] (1)",
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [mentioned task] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2) => T235627 > [subtask] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [mentioned task] (2)"
+    ]
+  },
+  {
+    "key": "T229058",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [subtask] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2) => T235627 > [subtask] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T237836",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2) => T215531 > [subtask] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2) => T235627 > [subtask] (1)",
+      "LookupIncremental => 2019-09-10_toolforge-kubernetes (3) => 2019-09-10_toolforge-kubernetes#7d1c522e (3) => T214513 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T211202",
+    "stamps": [
+      "LookupIncremental => 20170629-Labstore_Kernel_Upgrade (3) => 20170629-Labstore_Kernel_Upgrade#38f5bef0 (3) => T169287 > [mentioned task] (2)",
+      "LookupIncremental => 2018-12-04_Toolforge-Kubernetes (3) => 2018-12-04_Toolforge-Kubernetes#7c776ac0 (3)"
+    ]
+  },
+  {
+    "key": "T184715",
+    "stamps": [
+      "LookupIncremental => 2018-01-10_swift (3) => 2018-01-10_swift#1c927a56 (3)",
+      "LookupIncremental => 2018-01-10_swift (3) => 2018-01-10_swift#1c927a56 (3) => T184715 > [mentioned task] (2) => T184721 > [mentioned task] (1)",
+      "LookupIncremental => 2018-06-26_LoadBalancers (3) => 2018-06-26_LoadBalancers#64caf3a4 (3)",
+      "LookupIncremental => 2020-02-11_caching-proxies (3) => 2020-02-11_caching-proxies#78382e49 (3) => T245060 > [mentioned task] (2)"
+    ]
+  },
+  {
+    "key": "T232883",
+    "stamps": [
+      "LookupIncremental => 2018-02-06_Phabricator (3) => 2018-02-06_Phabricator#504f3441 (3) => T187790 > [mentioned task] (2) => T182832 > [subtask] (1)",
+      "LookupIncremental => 2022-07-20_network_interruption (3) => 2022-07-20_network_interruption#8bbcb78 (3) => T313879 > [mentioned task] (2)"
+    ]
+  },
+  {
+    "key": "T172480",
+    "stamps": [
+      "LookupIncremental => 2018-07-24_Train (3) => 2018-07-24_Train#cb5aee2 (3)",
+      "LookupIncremental => 2019-04-17_Jobqueue (3) => 2019-04-17_Jobqueue#42c611e5 (3)",
+      "LookupIncremental => 2019-04-17_Jobqueue (3) => 2019-04-17_Jobqueue#637d6c8 (3)"
+    ]
+  },
+  {
+    "key": "T196171",
+    "stamps": [
+      "LookupIncremental => 2018-12-04_Toolforge-Kubernetes (3) => 2018-12-04_Toolforge-Kubernetes#42761fd6 (3) => T211029 > [mentioned task] (2) => T161553 > [subtask] (1)",
+      "LookupIncremental => 2022-06-16_MariaDB_password_leak (3) => 2022-06-16_MariaDB_password_leak#4cba31 (3) => T310795 > [mentioned task] (2) => T167973 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T179463",
+    "stamps": [
+      "LookupIncremental => 2018-12-04_Toolforge-Kubernetes (3) => 2018-12-04_Toolforge-Kubernetes#42761fd6 (3) => T211029 > [mentioned task] (2) => T161553 > [subtask] (1)",
+      "LookupIncremental => 2022-06-16_MariaDB_password_leak (3) => 2022-06-16_MariaDB_password_leak#4cba31 (3) => T310795 > [mentioned task] (2) => T167973 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T237773",
+    "stamps": [
+      "LookupIncremental => 2018-12-04_Toolforge-Kubernetes (3) => 2018-12-04_Toolforge-Kubernetes#42761fd6 (3) => T211029 > [mentioned task] (2) => T161553 > [mentioned task] (1)",
+      "LookupIncremental => 2022-06-16_MariaDB_password_leak (3) => 2022-06-16_MariaDB_password_leak#4cba31 (3) => T310795 > [mentioned task] (2) => T167973 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T331879",
+    "stamps": [
+      "LookupIncremental => 2019-02-08_logstash-mediawiki (3) => 2019-02-08_logstash-mediawiki#43590f06 (3) => T215900 > [mentioned task] (2)",
+      "LookupIncremental => 2019-09-20_d2_switch_failure (3) => 2019-09-20_d2_switch_failure#10438e6f (3) => T233739 > [mentioned task] (2)"
+    ]
+  },
+  {
+    "key": "T255243",
+    "stamps": [
+      "LookupIncremental => 2019-02-08_logstash-mediawiki (3) => 2019-02-08_logstash-mediawiki#76026593 (3) => T215904 > [mentioned task] (2)",
+      "LookupIncremental => 2019-07-15_logstash (3) => 2019-07-15_logstash#31946897 (3) => T223483 > [mentioned task] (2)",
+      "LookupIncremental => 2020-06-11_sessionstore%2Bkubernetes (3) => 2020-06-11_sessionstore%2Bkubernetes#149628ac (3)"
+    ]
+  },
+  {
+    "key": "T193264",
+    "stamps": [
+      "LookupIncremental => 2019-02-13_PAWS (3) => 2019-02-13_PAWS#68906afd (3)",
+      "LookupIncremental => 2019-02-14_labsdb1005 (3) => 2019-02-14_labsdb1005#4f3a4955 (3) => T216168 > [mentioned task] (2) => T216173 > [subtask] (1)",
+      "LookupIncremental => 2019-02-14_labsdb1005 (3) => 2019-02-14_labsdb1005#4f3a4955 (3) => T216168 > [mentioned task] (2) => T216173 > [mentioned task] (1)",
+      "LookupIncremental => 2019-02-14_labsdb1005 (3) => 2019-02-14_labsdb1005#692cfdb0 (3)"
+    ]
+  },
+  {
+    "key": "T196507",
+    "stamps": [
+      "LookupIncremental => 2019-02-13_PAWS (3) => 2019-02-13_PAWS#68906afd (3) => T193264 > [subtask] (2)",
+      "LookupIncremental => 2019-02-13_PAWS (3) => 2019-02-13_PAWS#68906afd (3) => T193264 > [mentioned task] (2)",
+      "LookupIncremental => 2019-02-13_PAWS (3) => 2019-02-13_PAWS#68906afd (3)",
+      "LookupIncremental => 2019-02-14_labsdb1005 (3) => 2019-02-14_labsdb1005#4f3a4955 (3) => T216168 > [mentioned task] (2) => T216173 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T194855",
+    "stamps": [
+      "LookupIncremental => 2019-02-13_PAWS (3) => 2019-02-13_PAWS#68906afd (3) => T193264 > [subtask] (2) => T196507 > [subtask] (1)",
+      "LookupIncremental => 2019-02-13_PAWS (3) => 2019-02-13_PAWS#68906afd (3) => T193264 > [subtask] (2) => T196507 > [mentioned task] (1)",
+      "LookupIncremental => 2019-02-13_PAWS (3) => 2019-02-13_PAWS#68906afd (3) => T193264 > [subtask] (2)",
+      "LookupIncremental => 2019-02-13_PAWS (3) => 2019-02-13_PAWS#68906afd (3) => T193264 > [mentioned task] (2)",
+      "LookupIncremental => 2019-02-13_PAWS (3) => 2019-02-13_PAWS#68906afd (3)",
+      "LookupIncremental => 2019-02-14_labsdb1005 (3) => 2019-02-14_labsdb1005#4f3a4955 (3) => T216168 > [mentioned task] (2) => T216173 > [subtask] (1)",
+      "LookupIncremental => 2019-02-14_labsdb1005 (3) => 2019-02-14_labsdb1005#4f3a4955 (3) => T216168 > [mentioned task] (2) => T216173 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T216353",
+    "stamps": [
+      "LookupIncremental => 2019-02-13_PAWS (3) => 2019-02-13_PAWS#68906afd (3) => T193264 > [subtask] (2) => T196507 > [subtask] (1)",
+      "LookupIncremental => 2019-02-13_PAWS (3) => 2019-02-13_PAWS#68906afd (3) => T193264 > [subtask] (2)",
+      "LookupIncremental => 2019-02-14_labsdb1005 (3) => 2019-02-14_labsdb1005#4f3a4955 (3) => T216168 > [mentioned task] (2) => T216173 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T216373",
+    "stamps": [
+      "LookupIncremental => 2019-02-13_PAWS (3) => 2019-02-13_PAWS#68906afd (3) => T193264 > [subtask] (2) => T196507 > [subtask] (1)",
+      "LookupIncremental => 2019-02-13_PAWS (3) => 2019-02-13_PAWS#68906afd (3) => T193264 > [subtask] (2)",
+      "LookupIncremental => 2019-02-14_labsdb1005 (3) => 2019-02-14_labsdb1005#4f3a4955 (3) => T216168 > [mentioned task] (2) => T216173 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T208754",
+    "stamps": [
+      "LookupIncremental => 2019-02-13_PAWS (3) => 2019-02-13_PAWS#68906afd (3) => T193264 > [subtask] (2) => T196507 > [subtask] (1)",
+      "LookupIncremental => 2019-02-13_PAWS (3) => 2019-02-13_PAWS#68906afd (3) => T193264 > [subtask] (2)",
+      "LookupIncremental => 2019-02-14_labsdb1005 (3) => 2019-02-14_labsdb1005#4f3a4955 (3) => T216168 > [mentioned task] (2) => T216173 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T216749",
+    "stamps": [
+      "LookupIncremental => 2019-02-13_PAWS (3) => 2019-02-13_PAWS#68906afd (3) => T193264 > [subtask] (2) => T196507 > [subtask] (1)",
+      "LookupIncremental => 2019-02-13_PAWS (3) => 2019-02-13_PAWS#68906afd (3) => T193264 > [subtask] (2)",
+      "LookupIncremental => 2019-02-14_labsdb1005 (3) => 2019-02-14_labsdb1005#4f3a4955 (3) => T216168 > [mentioned task] (2) => T216202 > [mentioned task] (1)",
+      "LookupIncremental => 2019-02-14_labsdb1005 (3) => 2019-02-14_labsdb1005#4f3a4955 (3) => T216168 > [mentioned task] (2) => T216173 > [subtask] (1)",
+      "LookupIncremental => 2019-02-14_labsdb1005 (3) => 2019-02-14_labsdb1005#154bed6d (3)",
+      "LookupIncremental => 2019-02-14_labsdb1005 (3) => 2019-02-14_labsdb1005#339bdbd2 (3) => T216769 > [subtask] (2) => T216747 > [subtask] (1)",
+      "LookupIncremental => 2019-02-14_labsdb1005 (3) => 2019-02-14_labsdb1005#339bdbd2 (3) => T216769 > [subtask] (2)"
+    ]
+  },
+  {
+    "key": "T217922",
+    "stamps": [
+      "LookupIncremental => 2019-02-13_PAWS (3) => 2019-02-13_PAWS#68906afd (3) => T193264 > [subtask] (2) => T196507 > [subtask] (1)",
+      "LookupIncremental => 2019-02-13_PAWS (3) => 2019-02-13_PAWS#68906afd (3) => T193264 > [subtask] (2)",
+      "LookupIncremental => 2019-02-13_PAWS (3) => 2019-02-13_PAWS#68906afd (3) => T193264 > [mentioned task] (2)",
+      "LookupIncremental => 2019-02-14_labsdb1005 (3) => 2019-02-14_labsdb1005#4f3a4955 (3) => T216168 > [mentioned task] (2) => T216173 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T219563",
+    "stamps": [
+      "LookupIncremental => 2019-02-13_PAWS (3) => 2019-02-13_PAWS#68906afd (3) => T193264 > [subtask] (2) => T196507 > [subtask] (1)",
+      "LookupIncremental => 2019-02-13_PAWS (3) => 2019-02-13_PAWS#68906afd (3) => T193264 > [subtask] (2)",
+      "LookupIncremental => 2019-02-14_labsdb1005 (3) => 2019-02-14_labsdb1005#4f3a4955 (3) => T216168 > [mentioned task] (2) => T216173 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T219652",
+    "stamps": [
+      "LookupIncremental => 2019-02-13_PAWS (3) => 2019-02-13_PAWS#68906afd (3) => T193264 > [subtask] (2) => T196507 > [subtask] (1)",
+      "LookupIncremental => 2019-02-13_PAWS (3) => 2019-02-13_PAWS#68906afd (3) => T193264 > [subtask] (2)",
+      "LookupIncremental => 2019-02-14_labsdb1005 (3) => 2019-02-14_labsdb1005#4f3a4955 (3) => T216168 > [mentioned task] (2) => T216173 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T220144",
+    "stamps": [
+      "LookupIncremental => 2019-02-13_PAWS (3) => 2019-02-13_PAWS#68906afd (3) => T193264 > [subtask] (2) => T196507 > [subtask] (1)",
+      "LookupIncremental => 2019-02-13_PAWS (3) => 2019-02-13_PAWS#68906afd (3) => T193264 > [subtask] (2)",
+      "LookupIncremental => 2019-02-14_labsdb1005 (3) => 2019-02-14_labsdb1005#4f3a4955 (3) => T216168 > [mentioned task] (2) => T216173 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T216208",
+    "stamps": [
+      "LookupIncremental => 2019-02-13_PAWS (3) => 2019-02-13_PAWS#68906afd (3) => T193264 > [mentioned task] (2) => T216441 > [mentioned task] (1)",
+      "LookupIncremental => 2019-02-14_labsdb1005 (3) => 2019-02-14_labsdb1005#319399a7 (3) => T216167 > [mentioned task] (2) => T216170 > [mentioned task] (1)",
+      "LookupIncremental => 2019-02-14_labsdb1005 (3) => 2019-02-14_labsdb1005#319399a7 (3) => T216167 > [mentioned task] (2)"
+    ]
+  },
+  {
+    "key": "T209527",
+    "stamps": [
+      "LookupIncremental => 2019-02-14_labsdb1005 (3) => 2019-02-14_labsdb1005#339bdbd2 (3) => T216769 > [subtask] (2) => T216747 > [subtask] (1)",
+      "LookupIncremental => 2019-02-14_labsdb1005 (3) => 2019-02-14_labsdb1005#339bdbd2 (3) => T216769 > [subtask] (2)",
+      "LookupIncremental => 2019-05-29_NFS-keystone (3) => 2019-05-29_NFS-keystone#66f8d81b (3) => T223902 > [mentioned task] (2)"
+    ]
+  },
+  {
+    "key": "T238751",
+    "stamps": [
+      "LookupIncremental => 2019-06-24_wdqs (3) => 2019-06-24_wdqs#76da80ac (3) => T226413 > [mentioned task] (2)",
+      "LookupIncremental => 2022-02-06_wdqs_updater (3) => 2022-02-06_wdqs_updater#5d004583 (3) => T293063 > [mentioned task] (2)",
+      "LookupIncremental => 2022-02-22_wdqs_updater_codfw (3) => 2022-02-22_wdqs_updater_codfw#723b345e (3)",
+      "LookupIncremental => 2022-03-27_wdqs_outage (3) => 2022-03-27_wdqs_outage#688e8522 (3) => T242453 > [mentioned task] (2)"
+    ]
+  },
+  {
+    "key": "T221774",
+    "stamps": [
+      "LookupIncremental => 2019-06-24_wdqs (3) => 2019-06-24_wdqs#76da80ac (3) => T226413 > [mentioned task] (2) => T238751 > [mentioned task] (1)",
+      "LookupIncremental => 2019-06-24_wdqs (3) => 2019-06-24_wdqs#76da80ac (3) => T226413 > [mentioned task] (2)",
+      "LookupIncremental => 2021-11-25_eventgate-main_outage (3) => 2021-11-25_eventgate-main_outage#74a05796 (3) => T296699 > [mentioned task] (2) => T285710 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T150106",
+    "stamps": [
+      "LookupIncremental => 2019-07-15_logstash (3) => 2019-07-15_logstash#709b354f (3)",
+      "LookupIncremental => 2019-07-15_logstash (3) => 2019-07-15_logstash#709b354f (3) => T150106 > [subtask] (2) => T150195 > [mentioned task] (1)",
+      "LookupIncremental => 2019-07-15_logstash (3) => 2019-07-15_logstash#31946897 (3)",
+      "LookupIncremental => 2019-08-20_logstash (3) => 2019-08-20_logstash#3b72f750 (3) => T230847 > [mentioned task] (2) => T228089 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T228497",
+    "stamps": [
+      "LookupIncremental => 2019-07-15_maps (3) => 2019-07-15_maps#6016a7f2 (3)",
+      "LookupIncremental => 2020-02-04_maps (3) => 2020-02-04_maps#46c86dac (3)"
+    ]
+  },
+  {
+    "key": "T310266",
+    "stamps": [
+      "LookupIncremental => 2019-08-02_api-overload-parsoid (3) => 2019-08-02_api-overload-parsoid#759897b3 (3) => T228878 > [mentioned task] (2) => T225140 > [subtask] (1)",
+      "LookupIncremental => 2019-08-23_network_codfw (3) => 2019-08-23_network_codfw#1e0a1040 (3) => T169860 > [mentioned task] (2)"
+    ]
+  },
+  {
+    "key": "T196432",
+    "stamps": [
+      "LookupIncremental => 2019-08-23_network_codfw (3) => 2019-08-23_network_codfw#5c3604cc (3)",
+      "LookupIncremental => 2019-10-16_network_eqsin (3) => 2019-10-16_network_eqsin#521bb66f (3) => T236878 > [mentioned task] (2)"
+    ]
+  },
+  {
+    "key": "T268806",
+    "stamps": [
+      "LookupIncremental => 2019-08-23_network_codfw (3) => 2019-08-23_network_codfw#1e0a1040 (3) => T169860 > [mentioned task] (2) => T229397 > [mentioned task] (1)",
+      "LookupIncremental => 2022-11-15_asw1-eqsin (3) => 2022-11-15_asw1-eqsin#707bbbd4 (3) => T316532 > [mentioned task] (2) => T269340 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T291946",
+    "stamps": [
+      "LookupIncremental => 2019-08-23_network_codfw (3) => 2019-08-23_network_codfw#1e0a1040 (3) => T169860 > [mentioned task] (2)",
+      "LookupIncremental => 2021-10-22_eqiad_return_path_timeouts (3) => 2021-10-22_eqiad_return_path_timeouts#32d9b47f (3) => T294166 > [mentioned task] (2) => T305847 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T233623",
+    "stamps": [
+      "LookupIncremental => 2019-09-20_d2_switch_failure (3) => 2019-09-20_d2_switch_failure#10438e6f (3) => T233739 > [mentioned task] (2)",
+      "LookupIncremental => 2019-09-23_s3_primary_db_master_crash (3) => 2019-09-23_s3_primary_db_master_crash#4d78dc41 (3)"
+    ]
+  },
+  {
+    "key": "T196366",
+    "stamps": [
+      "LookupIncremental => 2019-09-23_s3_primary_db_master_crash (3) => 2019-09-23_s3_primary_db_master_crash#cb35937 (3)",
+      "LookupIncremental => 2019-09-23_s3_primary_db_master_crash (3) => 2019-09-23_s3_primary_db_master_crash#cb35937 (3) => T196366 > [mentioned task] (2) => T281249 > [mentioned task] (1)",
+      "LookupIncremental => 2020-05-28_commons_read-only (3) => 2020-05-28_commons_read-only#52418205 (3)",
+      "LookupIncremental => 2022-10-15_s6_master_failure (3) => 2022-10-15_s6_master_failure#40d2be3d (3)"
+    ]
+  },
+  {
+    "key": "T281249",
+    "stamps": [
+      "LookupIncremental => 2019-09-23_s3_primary_db_master_crash (3) => 2019-09-23_s3_primary_db_master_crash#cb35937 (3) => T196366 > [mentioned task] (2)",
+      "LookupIncremental => 2021-04-27_Commons_wiki_primary_db (3) => 2021-04-27_Commons_wiki_primary_db#384e3370 (3)"
+    ]
+  },
+  {
+    "key": "T195578",
+    "stamps": [
+      "LookupIncremental => 2019-12-10_updateCategoryCounts (3) => 2019-12-10_updateCategoryCounts#4e4c4608 (3) => T240405 > [mentioned task] (2)",
+      "LookupIncremental => 2021-03-14_MediaWiki_API (3) => 2021-03-14_MediaWiki_API#1d065a5f (3) => T193050 > [mentioned task] (2)"
+    ]
+  },
+  {
+    "key": "T217924",
+    "stamps": [
+      "LookupIncremental => 2020-01-08_mw-api (3) => 2020-01-08_mw-api#79126716 (3)",
+      "LookupIncremental => 2020-02-06_mediawiki (3) => 2020-02-06_mediawiki#4362ec53 (3)"
+    ]
+  },
+  {
+    "key": "T244843",
+    "stamps": [
+      "LookupIncremental => 2020-01-26_app_server_latency (3) => 2020-01-26_app_server_latency#2030cc0b (3)",
+      "LookupIncremental => 2020-01-26_app_server_latency (3) => 2020-01-26_app_server_latency#2030cc0b (3) => T244843 > [mentioned task] (2) => T255878 > [mentioned task] (1)",
+      "LookupIncremental => 2020-02-04_app_server_latency (3) => 2020-02-04_app_server_latency#6621b2e2 (3)"
+    ]
+  },
+  {
+    "key": "T242861",
+    "stamps": [
+      "LookupIncremental => 2020-01-26_app_server_latency (3) => 2020-01-26_app_server_latency#2030cc0b (3) => T244843 > [mentioned task] (2)",
+      "LookupIncremental => 2023-01-30_kartotherian (3) => 2023-01-30_kartotherian#37949fba (3) => T198901 > [subtask] (2) => T238658 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T244877",
+    "stamps": [
+      "LookupIncremental => 2020-01-26_app_server_latency (3) => 2020-01-26_app_server_latency#49ed99cd (3)",
+      "LookupIncremental => 2020-02-04_app_server_latency (3) => 2020-02-04_app_server_latency#49ed99cd (3)"
+    ]
+  },
+  {
+    "key": "T244535",
+    "stamps": [
+      "LookupIncremental => 2020-02-06_mediawiki (3) => 2020-02-06_mediawiki#3d8d3380 (3)",
+      "LookupIncremental => 2023-01-30_kartotherian (3) => 2023-01-30_kartotherian#37949fba (3) => T198901 > [subtask] (2) => T238658 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T236104",
+    "stamps": [
+      "LookupIncremental => 2020-02-06_mediawiki (3) => 2020-02-06_mediawiki#d168c2c (3) => T223602 > [subtask] (2)",
+      "LookupIncremental => 2020-02-06_mediawiki (3) => 2020-02-06_mediawiki#d168c2c (3) => T220775 > [subtask] (2)",
+      "LookupIncremental => 2020-02-25_mediawiki_interface_language (3) => 2020-02-25_mediawiki_interface_language#17fac297 (3)",
+      "LookupIncremental => 2020-02-25_mediawiki_interface_language (3) => 2020-02-25_mediawiki_interface_language#4c3a46ec (3)",
+      "LookupIncremental => 2020-02-25_mediawiki_interface_language (3) => 2020-02-25_mediawiki_interface_language#6738791b (3) => T246212 > [mentioned task] (2) => T246071 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T248866",
+    "stamps": [
+      "LookupIncremental => 2020-02-07_wikidata (3) => 2020-02-07_wikidata#46de5a0a (3)",
+      "LookupIncremental => 2020-07-03_Lilypond_down (3) => 2020-07-03_Lilypond_down#46e3cb15 (3)"
+    ]
+  },
+  {
+    "key": "T257079",
+    "stamps": [
+      "LookupIncremental => 2020-02-07_wikidata (3) => 2020-02-07_wikidata#46de5a0a (3) => T248866 > [mentioned task] (2)",
+      "LookupIncremental => 2020-07-03_Lilypond_down (3) => 2020-07-03_Lilypond_down#39663590 (3)"
+    ]
+  },
+  {
+    "key": "T256112",
+    "stamps": [
+      "LookupIncremental => 2020-05-01_vc-link-failure (3) => 2020-05-01_vc-link-failure#56eac1a3 (3) => T251663 > [subtask] (2)",
+      "LookupIncremental => 2020-05-01_vc-link-failure (3) => 2020-05-01_vc-link-failure#56eac1a3 (3) => T251663 > [mentioned task] (2)",
+      "LookupIncremental => 2020-09-08_Rack_D_hosts_outage (3) => 2020-09-08_Rack_D_hosts_outage#32f3c817 (3)",
+      "LookupIncremental => 2022-07-20_network_interruption (3) => 2022-07-20_network_interruption#70903bc6 (3) => T313384 > [mentioned task] (2)"
+    ]
+  },
+  {
+    "key": "T313751",
+    "stamps": [
+      "LookupIncremental => 2020-05-05_wdqs-deploy (3) => 2020-05-05_wdqs-deploy#6699e152 (3) => T252508 > [mentioned task] (2)",
+      "LookupIncremental => 2020-07-23_wdqs-outage (3) => 2020-07-23_wdqs-outage#7691a29e (3) => T258754 > [mentioned task] (2)"
+    ]
+  },
+  {
+    "key": "T325324",
+    "stamps": [
+      "LookupIncremental => 2020-05-05_wdqs-deploy (3) => 2020-05-05_wdqs-deploy#6699e152 (3) => T252508 > [mentioned task] (2) => T313751 > [subtask] (1)",
+      "LookupIncremental => 2022-12-12_wdqs_codfw_brief_outage (3) => 2022-12-12_wdqs_codfw_brief_outage#undefined (3)"
+    ]
+  },
+  {
+    "key": "T303134",
+    "stamps": [
+      "LookupIncremental => 2020-05-05_wdqs-deploy (3) => 2020-05-05_wdqs-deploy#6699e152 (3) => T252508 > [mentioned task] (2) => T313751 > [subtask] (1)",
+      "LookupIncremental => 2022-03-06_wdqs-categories (3) => 2022-03-06_wdqs-categories#90b542c (3)",
+      "LookupIncremental => 2022-03-27_wdqs_outage (3) => 2022-03-27_wdqs_outage#90b542c (3)"
+    ]
+  },
+  {
+    "key": "T257153",
+    "stamps": [
+      "LookupIncremental => 2020-07-05_eqsin-router-crash (3) => 2020-07-05_eqsin-router-crash#4a8c2a47 (3) => T257154 > [mentioned task] (2)",
+      "LookupIncremental => 2020-07-05_eqsin-router-crash (3) => 2020-07-05_eqsin-router-crash#385e380e (3)",
+      "LookupIncremental => 2020-09-08_Rack_D_hosts_outage (3) => 2020-09-08_Rack_D_hosts_outage#77a67ae (3) => T262290 > [mentioned task] (2)"
+    ]
+  },
+  {
+    "key": "T258754",
+    "stamps": [
+      "LookupIncremental => 2020-07-23_wdqs-outage (3) => 2020-07-23_wdqs-outage#7691a29e (3)",
+      "LookupIncremental => 2020-09-02_wdqs-outage (3) => 2020-09-02_wdqs-outage#4169d6d2 (3)"
+    ]
+  },
+  {
+    "key": "T293027",
+    "stamps": [
+      "LookupIncremental => 2020-07-23_wdqs-outage (3) => 2020-07-23_wdqs-outage#7691a29e (3) => T258754 > [mentioned task] (2)",
+      "LookupIncremental => 2021-11-25_eventgate-main_outage (3) => 2021-11-25_eventgate-main_outage#74a05796 (3) => T296699 > [mentioned task] (2) => T285710 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T272837",
+    "stamps": [
+      "LookupIncremental => 2021-02-01_swift-codfw (3) => 2021-02-01_swift-codfw#1ddea382 (3) => T273453 > [mentioned task] (2)",
+      "LookupIncremental => 2021-11-04_large_file_upload_timeouts (3) => 2021-11-04_large_file_upload_timeouts#13ccad47 (3) => T295482 > [mentioned task] (2) => T275752 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T275867",
+    "stamps": [
+      "LookupIncremental => 2021-02-26_sudo (3) => 2021-02-26_sudo#42c43527 (3)",
+      "LookupIncremental => 2021-12-03_mx (3) => 2021-12-03_mx#6d652d31 (3) => T297128 > [mentioned task] (2) => T297017 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T279100",
+    "stamps": [
+      "LookupIncremental => 2021-03-30_Jobqueue_overload (3) => 2021-03-30_Jobqueue_overload#79e828b (3)",
+      "LookupIncremental => 2023-05-19_videoscaler_jobrunner (3) => 2023-05-19_videoscaler_jobrunner#213eb6ac (3)"
+    ]
+  },
+  {
+    "key": "T294166",
+    "stamps": [
+      "LookupIncremental => 2021-10-22_eqiad_return_path_timeouts (3) => 2021-10-22_eqiad_return_path_timeouts#32d9b47f (3)",
+      "LookupIncremental => 2021-10-22_eqiad_return_path_timeouts (3) => 2021-10-22_eqiad_return_path_timeouts#32d9b47f (3) => T294166 > [mentioned task] (2) => T305847 > [mentioned task] (1)",
+      "LookupIncremental => 2021-12-03_mx (3) => 2021-12-03_mx#6d652d31 (3) => T297128 > [mentioned task] (2) => T297017 > [subtask] (1)"
+    ]
+  },
+  {
+    "key": "T295672",
+    "stamps": [
+      "LookupIncremental => 2021-10-22_eqiad_return_path_timeouts (3) => 2021-10-22_eqiad_return_path_timeouts#5d647508 (3)",
+      "LookupIncremental => 2021-10-22_eqiad_return_path_timeouts (3) => 2021-10-22_eqiad_return_path_timeouts#5d647508 (3) => T295672 > [mentioned task] (2) => T297355 > [mentioned task] (1)",
+      "LookupIncremental => 2021-10-22_eqiad_return_path_timeouts (3) => 2021-10-22_eqiad_return_path_timeouts#5d647508 (3) => T295672 > [mentioned task] (2) => T295650 > [mentioned task] (1)",
+      "LookupIncremental => 2021-11-23_Core_Network_Routing (3) => 2021-11-23_Core_Network_Routing#19436cb9 (3)"
+    ]
+  },
+  {
+    "key": "T205870",
+    "stamps": [
+      "LookupIncremental => 2021-10-29_graphite (3) => 2021-10-29_graphite#33d59df4 (3) => T296295 > [mentioned task] (2) => T228380 > [subtask] (1)",
+      "LookupIncremental => 2021-10-29_graphite (3) => 2021-10-29_graphite#33d59df4 (3) => T296295 > [mentioned task] (2) => T228380 > [mentioned task] (1)",
+      "LookupIncremental => 2023-01-30_kartotherian (3) => 2023-01-30_kartotherian#37949fba (3) => T198901 > [subtask] (2) => T238658 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T247820",
+    "stamps": [
+      "LookupIncremental => 2021-10-29_graphite (3) => 2021-10-29_graphite#33d59df4 (3) => T296295 > [mentioned task] (2) => T228380 > [subtask] (1)",
+      "LookupIncremental => 2023-01-30_kartotherian (3) => 2023-01-30_kartotherian#37949fba (3) => T198901 > [subtask] (2) => T238658 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T277677",
+    "stamps": [
+      "LookupIncremental => 2021-11-25_eventgate-main_outage (3) => 2021-11-25_eventgate-main_outage#3addca32 (3)",
+      "LookupIncremental => 2021-11-25_eventgate-main_outage (3) => 2021-11-25_eventgate-main_outage#3addca32 (3) => T277677 > [mentioned task] (2) => T277191 > [mentioned task] (1)",
+      "LookupIncremental => 2022-02-06_wdqs_updater (3) => 2022-02-06_wdqs_updater#5d004583 (3) => T293063 > [mentioned task] (2) => T251305 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T277740",
+    "stamps": [
+      "LookupIncremental => 2021-11-25_eventgate-main_outage (3) => 2021-11-25_eventgate-main_outage#3addca32 (3) => T277677 > [mentioned task] (2) => T277191 > [mentioned task] (1)",
+      "LookupIncremental => 2021-11-25_eventgate-main_outage (3) => 2021-11-25_eventgate-main_outage#3addca32 (3) => T277677 > [mentioned task] (2)",
+      "LookupIncremental => 2022-02-06_wdqs_updater (3) => 2022-02-06_wdqs_updater#5d004583 (3) => T293063 > [mentioned task] (2) => T251305 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T293862",
+    "stamps": [
+      "LookupIncremental => 2022-03-06_wdqs-categories (3) => 2022-03-06_wdqs-categories#2e063e52 (3)",
+      "LookupIncremental => 2022-03-27_wdqs_outage (3) => 2022-03-27_wdqs_outage#2e063e52 (3)"
+    ]
+  },
+  {
+    "key": "T301879",
+    "stamps": [
+      "LookupIncremental => 2022-05-05_Wikimedia_full_site_outage (3) => 2022-05-05_Wikimedia_full_site_outage#bf78350 (3) => T307501 > [mentioned task] (2)",
+      "LookupIncremental => 2022-05-26_Database_hardware_failure (3) => 2022-05-26_Database_hardware_failure#16afcf85 (3) => T309296 > [mentioned task] (2)"
+    ]
+  },
+  {
+    "key": "T312319",
+    "stamps": [
+      "LookupIncremental => 2022-07-03_shellbox_request_spike (3) => 2022-07-03_shellbox_request_spike#54f4859a (3) => T310557 > [subtask] (2)",
+      "LookupIncremental => 2022-07-03_shellbox_request_spike (3) => 2022-07-03_shellbox_request_spike#4cbc2410 (3)",
+      "LookupIncremental => 2022-07-11_Shellbox_and_parsoid_saturation (3) => 2022-07-11_Shellbox_and_parsoid_saturation#3312b86d (3)"
+    ]
+  },
+  {
+    "key": "T317537",
+    "stamps": [
+      "LookupIncremental => 2022-09-08_codfw_appservers_degradation (3) => 2022-09-08_codfw_appservers_degradation#27c3c5c1 (3)",
+      "LookupIncremental => 2024-02-28_etcd-mirror (3) => 2024-02-28_etcd-mirror#62419a70 (3)"
+    ]
+  },
+  {
+    "key": "T253244",
+    "stamps": [
+      "LookupIncremental => 2022-09-15_sessionstore_quorum_issues (3) => 2022-09-15_sessionstore_quorum_issues#20e494fd (3)",
+      "LookupIncremental => 2023-01-24_sessionstore_quorum_issues (3) => 2023-01-24_sessionstore_quorum_issues#74b80eff (3) => T327954 > [mentioned task] (2)",
+      "LookupIncremental => 2023-01-24_sessionstore_quorum_issues (3) => 2023-01-24_sessionstore_quorum_issues#74b80eff (3) => T327954 > [mentioned task] (2) => T283838 > [mentioned task] (1)",
+      "LookupIncremental => 2023-01-24_sessionstore_quorum_issues (3) => 2023-01-24_sessionstore_quorum_issues#74b80eff (3) => T327954 > [mentioned task] (2) => T327524 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T320401",
+    "stamps": [
+      "LookupIncremental => 2022-09-15_sessionstore_quorum_issues (3) => 2022-09-15_sessionstore_quorum_issues#7a13dd3 (3)",
+      "LookupIncremental => 2022-09-15_sessionstore_quorum_issues (3) => 2022-09-15_sessionstore_quorum_issues#7a13dd3 (3) => T320401 > [mentioned task] (2) => T327960 > [mentioned task] (1)",
+      "LookupIncremental => 2023-01-24_sessionstore_quorum_issues (3) => 2023-01-24_sessionstore_quorum_issues#599b0fc (3)"
+    ]
+  },
+  {
+    "key": "T327960",
+    "stamps": [
+      "LookupIncremental => 2022-09-15_sessionstore_quorum_issues (3) => 2022-09-15_sessionstore_quorum_issues#7a13dd3 (3) => T320401 > [mentioned task] (2)",
+      "LookupIncremental => 2023-01-24_sessionstore_quorum_issues (3) => 2023-01-24_sessionstore_quorum_issues#340a8740 (3)"
+    ]
+  },
+  {
+    "key": "T327248",
+    "stamps": [
+      "LookupIncremental => 2022-10-06_eqiad_row_D_networking (3) => 2022-10-06_eqiad_row_D_networking#430ba131 (3) => T320566 > [subtask] (2) => T333377 > [mentioned task] (1)",
+      "LookupIncremental => 2023-01-17_asw-b2-codfw_failure_redux (3) => 2023-01-17_asw-b2-codfw_failure_redux#12b7179b (3)"
+    ]
+  },
+  {
+    "key": "T327300",
+    "stamps": [
+      "LookupIncremental => 2023-01-14_asw-b2-codfw_failure (3) => 2023-01-14_asw-b2-codfw_failure#38fb8155 (3)",
+      "LookupIncremental => 2023-01-17_asw-b2-codfw_failure_redux (3) => 2023-01-17_asw-b2-codfw_failure_redux#42cfc152 (3)"
+    ]
+  },
+  {
+    "key": "T213561",
+    "stamps": [
+      "LookupIncremental => 2023-01-30_kartotherian (3) => 2023-01-30_kartotherian#37949fba (3) => T198901 > [subtask] (2) => T212801 > [subtask] (1)",
+      "LookupIncremental => 2023-01-30_kartotherian (3) => 2023-01-30_kartotherian#37949fba (3) => T198901 > [subtask] (2)",
+      "LookupIncremental => 2023-09-27_Kafka-jumbo_mirror-makers (3) => 2023-09-27_Kafka-jumbo_mirror-makers#48dcb055 (3) => T300102 > [mentioned task] (2)",
+      "LookupIncremental => 2023-09-27_Kafka-jumbo_mirror-makers (3) => 2023-09-27_Kafka-jumbo_mirror-makers#48dcb055 (3) => T300102 > [mentioned task] (2) => T253058 > [mentioned task] (1)"
+    ]
+  },
+  {
+    "key": "T334703",
+    "stamps": [
+      "LookupIncremental => 2023-04-17_eqiad_LVS (3) => 2023-04-17_eqiad_LVS#4c91f66e (3)",
+      "LookupIncremental => 2023-05-25_eqiad_LVS (3) => 2023-05-25_eqiad_LVS#6d9b105f (3)"
+    ]
+  },
+  {
+    "key": "T371251",
+    "stamps": [
+      "LookupIncremental => 2024-07-21_s4_and_x1_write_overload (3) => 2024-07-21_s4_and_x1_write_overload#undefined (3)",
+      "LookupIncremental => 2025-03-12_cirrus-streaming-updater_overloaded_ES_Cluster (3) => 2025-03-12_cirrus-streaming-updater_overloaded_ES_Cluster#6e52aa76 (3) => T371069 > [mentioned task] (2) => T370304 > [subtask] (1)"
+    ]
+  }
+]

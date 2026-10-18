@@ -1,0 +1,18 @@
+{
+  "irs": {
+    "py": 29
+  },
+  "others": {
+    "py": 1519,
+    "ini": 11,
+    "txt": 2,
+    "cfg": 1,
+    "yaml": 4,
+    "": 5,
+    "md": 2,
+    "json": 1,
+    "mailmap": 1,
+    "gitignore": 2,
+    "gitreview": 1
+  }
+}

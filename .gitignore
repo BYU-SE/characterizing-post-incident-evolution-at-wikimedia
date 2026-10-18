@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules/
+
+# Cloned repos we want to look at
+data/repos/
+
+# Many files are too big (for GitHub)
+data/wikimedia-gitlog/
+
+
+src/**/*.csv
+
+# Replication package
+src/guided/replication-package/
